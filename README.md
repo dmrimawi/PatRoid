@@ -14,11 +14,11 @@ PatRoid, an automated framework for detecting design patterns. PatRoid is a mode
 
 ## PatRoid Workflow
 
-![PatRoid Workflow Diagram]()
+![PatRoid Workflow Diagram](https://github.com/dmrimawi/PatRoid/blob/master/Android%20Design%20Patterns%20Detection%20Model.png)
 
 ## PatRoid Structure
 
-![PatRoid Strucure Diagram]()
+![PatRoid Strucure Diagram](https://github.com/dmrimawi/PatRoid/blob/master/ADPD%20Structure.png)
 
 ## Usage
 ```
