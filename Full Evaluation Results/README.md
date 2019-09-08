@@ -4,9 +4,8 @@ __authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
 
 __email__ : dmrimawi@gmail.com, szain@birzeit.edu
 
-__copyright__ : Copyright 2019, A Model Based Approach for Android Design Patterns Detection
+__title__ : Full evaluation results
 
-__status__ : Prove of Concept
 
 ## Desc
 
