@@ -1,12 +1,12 @@
 # PatRoid
 
-__authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
+__Authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
 
-__email__ : dmrimawi@gmail.com, szain@birzeit.edu
+__Email__ : dmrimawi@gmail.com, szain@birzeit.edu
 
-__copyright__ : Copyright 2019, A Model Based Approach for Android Design Patterns Detection
+__Title__ : A Model Based Approach for And__roid__ Design __Pat__terns Detection (PatRoid)
 
-__status__ : Prove of Concept
+__Status__ : Prove of Concept
 
 ## Abstract
 
