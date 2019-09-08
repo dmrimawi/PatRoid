@@ -1,0 +1,60 @@
+<ADPD>
+	<depends>
+		<relation ci="Contact" cj="ContactViewBinder" />
+	</depends>
+	<aggregation>
+		<relation ci="Composite" cj="Comp" />
+		<relation ci="Contact" cj="Contact" />
+	</aggregation>
+	<association>
+		<relation ci="Composite" cj="Comp" />
+		<relation ci="Contact" cj="Contact" />
+		<relation ci="Comp" cj="MainActivity" />
+		<relation ci="ConcreteComp" cj="MainActivity" />
+		<relation ci="Composite" cj="MainActivity" />
+		<relation ci="Contact" cj="SelectContactActivity" />
+		<relation ci="Contact" cj="SendMessageActivity" />
+		<relation ci="Contact" cj="SharingShortcutsManager" />
+	</association>
+	<inheritance>
+		<relation ci="Composite" cj="Comp" />
+		<relation ci="ConcreteComp" cj="Comp" />
+	</inheritance>
+	<manifest>
+		<activity category="LAUNCHER" name="MainActivity">
+			<related_classes>
+				<activity name="Composite" />
+				<activity name="Comp" />
+				<activity name="ConcreteComp" />
+				<activity name="SharingShortcutsManager" />
+				<activity name="MainActivity" />
+			</related_classes>
+		</activity>
+		<activity category="DEFAULT" name="SendMessageActivity">
+			<related_classes>
+				<activity name="ConcreteComp" />
+				<activity name="Composite" />
+				<activity name="Comp" />
+				<activity name="SendMessageActivity" />
+				<activity name="MainActivity" />
+				<activity name="ContactViewBinder" />
+				<activity name="Contact" />
+				<activity name="SelectContactActivity" />
+				<activity name="SharingShortcutsManager" />
+			</related_classes>
+		</activity>
+		<activity category="None" name="SelectContactActivity">
+			<related_classes>
+				<activity name="ConcreteComp" />
+				<activity name="Composite" />
+				<activity name="Comp" />
+				<activity name="SendMessageActivity" />
+				<activity name="MainActivity" />
+				<activity name="ContactViewBinder" />
+				<activity name="Contact" />
+				<activity name="SelectContactActivity" />
+				<activity name="SharingShortcutsManager" />
+			</related_classes>
+		</activity>
+	</manifest>
+</ADPD>

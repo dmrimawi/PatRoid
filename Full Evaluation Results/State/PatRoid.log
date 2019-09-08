@@ -1,0 +1,207 @@
+2019-09-09 00:48:40: -I- Manifest file is: 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\AndroidManifest.xml
+2019-09-09 00:48:40: -I- Activities are: [{'category': 'LAUNCHER', 'classes': ['MainActivity', 'State'], 'name': 'MainActivity'}, {'category': 'DEFAULT', 'classes': ['ContactViewBinder', 'SendMessageActivity', 'MainActivity', 'State', 'Contact', 'SelectContactActivity'], 'name': 'SendMessageActivity'}, {'category': None, 'classes': ['Context', 'ContactViewBinder', 'SendMessageActivity', 'MainActivity', 'State', 'Contact', 'SelectContactActivity'], 'name': 'SelectContactActivity'}]
+2019-09-09 00:48:40: -I- Java files are (#9): 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteStateA.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteStateB.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Contact.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ContactViewBinder.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Context.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\MainActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SelectContactActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SendMessageActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\State.java
+2019-09-09 00:48:40: -I- Java classes are: ['ConcreteStateA', 'ConcreteStateB', 'Contact', 'ContactViewBinder', 'Context', 'MainActivity', 'SelectContactActivity', 'SendMessageActivity', 'State']
+2019-09-09 00:48:40: -I- Inheritance: [{'ConcreteStateA': 'State'}, {'ConcreteStateB': 'State'}]
+2019-09-09 00:48:40: -I- Association relationships are between: [{'Contact': 'Contact'}, {'State': 'Context'}, {'Contact': 'SelectContactActivity'}, {'Contact': 'SendMessageActivity'}]
+2019-09-09 00:48:40: -I- Aggregation relationships are between: [{'Contact': 'Contact'}, {'State': 'Context'}]
+2019-09-09 00:48:40: -I- Depends relationships are between: [{'Contact': 'ContactViewBinder'}]
+2019-09-09 00:48:40: -I- Writing relations to the module file...
+2019-09-09 00:48:40: -I- Done
+2019-09-09 00:48:40: -I- ICA(Inheritance Child Association)
+2019-09-09 00:48:40: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:40: -D- inheritance: <Element 'inheritance' at 0x282cd70>
+2019-09-09 00:48:40: -I- Step2: Get all Association relation classes
+2019-09-09 00:48:40: -D- association: <Element 'association' at 0x284d810>
+2019-09-09 00:48:40: -I- Step3: Find child classes with association relation
+2019-09-09 00:48:40: -I- 1. ICA relations: []
+2019-09-09 00:48:40: -I- CI (Common Inheritance)
+2019-09-09 00:48:40: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:40: -D- inheritance: <Element 'inheritance' at 0x28792d0>
+2019-09-09 00:48:40: -I- Step2: Find all children shares the same parent
+2019-09-09 00:48:40: -D- Found CI: (State, ConcreteStateA, ConcreteStateB)
+2019-09-09 00:48:40: -D- Found CI: (State, ConcreteStateB, ConcreteStateA)
+2019-09-09 00:48:40: -I- 2. CI relations: [('State', 'ConcreteStateA', 'ConcreteStateB')]
+2019-09-09 00:48:40: -I- IAGG (Inheritance AGGregation)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x282cdb0>
+2019-09-09 00:48:41: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x284d9d0>
+2019-09-09 00:48:41: -I- Step3: Find classes that have both inheritance and aggregation
+2019-09-09 00:48:41: -I- 3. IAGG relations: []
+2019-09-09 00:48:41: -I- IPAG (Inheritance Parent AGgregation)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x2879210>
+2019-09-09 00:48:41: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x28799b0>
+2019-09-09 00:48:41: -I- Step3: Find classes that have inheritance and the parent have aggregation with other
+2019-09-09 00:48:41: -I- 4. IPAG relations: []
+2019-09-09 00:48:41: -I- MLI (Multi-Level Inheritance)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x287f550>
+2019-09-09 00:48:41: -I- Step2: Find all classes that their parent is a child for other parent
+2019-09-09 00:48:41: -I- 5. MLI relations: []
+2019-09-09 00:48:41: -I- IASS (Inheritance ASSociation)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x287fe50>
+2019-09-09 00:48:41: -I- Step2: Get all Association relation classes
+2019-09-09 00:48:41: -D- association: <Element 'association' at 0x2879f10>
+2019-09-09 00:48:41: -I- 6. IASS relations: []
+2019-09-09 00:48:41: -I- SAGG (Self-Aggregation)
+2019-09-09 00:48:41: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x2879750>
+2019-09-09 00:48:41: -D- Found SAGG: (Contact)
+2019-09-09 00:48:41: -I- 7. SAGG relations: [('Contact',)]
+2019-09-09 00:48:41: -I- IIAGG (Indirect Inheritance AGGregation)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x287f3b0>
+2019-09-09 00:48:41: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x287f850>
+2019-09-09 00:48:41: -I- 8. IIAGG relations: []
+2019-09-09 00:48:41: -I- SASS (Self-ASSociation)
+2019-09-09 00:48:41: -I- Step1: Get all Association relation classes
+2019-09-09 00:48:41: -D- association: <Element 'association' at 0x2888610>
+2019-09-09 00:48:41: -D- Found SASS: (Contact)
+2019-09-09 00:48:41: -I- SAGG (Self-Aggregation)
+2019-09-09 00:48:41: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x287f850>
+2019-09-09 00:48:41: -D- Found SAGG: (Contact)
+2019-09-09 00:48:41: -I- 9. SASS relations: []
+2019-09-09 00:48:41: -I- ICD (Inheritance Child Dependency)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x284d4b0>
+2019-09-09 00:48:41: -I- Step2: Get all Depends relation classes
+2019-09-09 00:48:41: -D- depends: <Element 'depends' at 0x284d9f0>
+2019-09-09 00:48:41: -I- 10. ICD relations: []
+2019-09-09 00:48:41: -I- DCI (Dependency Child Inheritance)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x2879590>
+2019-09-09 00:48:41: -I- Step2: Get all Depends relation classes
+2019-09-09 00:48:41: -D- depends: <Element 'depends' at 0x2888dd0>
+2019-09-09 00:48:41: -I- 11. DCI relations: []
+2019-09-09 00:48:41: -I- IPAS (Inheritance Parent ASsociation)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x2888f50>
+2019-09-09 00:48:41: -I- Step2: Get all Association relation classes
+2019-09-09 00:48:41: -D- association: <Element 'association' at 0x2879230>
+2019-09-09 00:48:41: -D- Found IPAS: (State, ConcreteStateA, Context)
+2019-09-09 00:48:41: -D- Found IPAS: (State, ConcreteStateB, Context)
+2019-09-09 00:48:41: -I- 12. IPAS relations: [('State', 'ConcreteStateA', 'Context'), ('State', 'ConcreteStateB', 'Context')]
+2019-09-09 00:48:41: -I- AGPI (AGgregation Parent Inherited)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x2879ff0>
+2019-09-09 00:48:41: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:48:41: -D- aggregation: <Element 'aggregation' at 0x284d3f0>
+2019-09-09 00:48:41: -D- Found AGPI: (State, ConcreteStateA, Context)
+2019-09-09 00:48:41: -D- Found AGPI: (State, ConcreteStateB, Context)
+2019-09-09 00:48:41: -I- 13. AGPI relations: [('State', 'ConcreteStateA', 'Context'), ('State', 'ConcreteStateB', 'Context')]
+2019-09-09 00:48:41: -I- IPD (Inheritance Parent Dependency)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x287f250>
+2019-09-09 00:48:41: -I- Step2: Get all Depends relation classes
+2019-09-09 00:48:41: -D- depends: <Element 'depends' at 0x288f350>
+2019-09-09 00:48:41: -I- 14. IPD relations: []
+2019-09-09 00:48:41: -I- DPI (Dependency Parent Inherited)
+2019-09-09 00:48:41: -I- Step1: Get all parent and child classes
+2019-09-09 00:48:41: -D- inheritance: <Element 'inheritance' at 0x287fe10>
+2019-09-09 00:48:41: -I- Step2: Get all Depends relation classes
+2019-09-09 00:48:41: -D- depends: <Element 'depends' at 0x284d850>
+2019-09-09 00:48:41: -I- 15. DPI relations: []
+2019-09-09 00:48:41: -I- Checking for Singleton Design Pattern
+2019-09-09 00:48:41: -I- Singleton can be founded by combination of SASS
+2019-09-09 00:48:41: -W- Couldn't find any Singleton pattern in the code
+2019-09-09 00:48:41: -I- Checking for Composite Design Pattern
+2019-09-09 00:48:41: -I- Composite can be founded by combination of SAGG, CI & IAGG, CI & IIAGG
+2019-09-09 00:48:41: -D- Step1: checking for SAGG
+2019-09-09 00:48:41: -D- Composite DP in: {'SAGG': ('Contact',)}
+2019-09-09 00:48:41: -D- Step2: checking for CI & IAGG
+2019-09-09 00:48:41: -D- Step3: checking for CI & IIAGG
+2019-09-09 00:48:41: -I- Composite design pattern has been detected: [{'SAGG': ('Contact',)}]
+2019-09-09 00:48:41: -I- Checking for Template Design Pattern
+2019-09-09 00:48:41: -I- Template can be founded by combination of CI relation
+2019-09-09 00:48:41: -D- Template DP in: {'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:41: -I- Template design pattern has been detected: [{'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:41: -I- Checking for Abstract Factory Design Pattern
+2019-09-09 00:48:41: -I- Abstract Factory can be founded by combination of DCI & IDC & CI
+2019-09-09 00:48:41: -W- Couldn't find any Abstract Factory pattern in the code
+2019-09-09 00:48:41: -I- Checking for Adapter Design Pattern
+2019-09-09 00:48:41: -I- Adapter can be founded by combination of ICA relation and a non-existance of CI relation
+2019-09-09 00:48:41: -W- Couldn't find any adapter pattern in the code
+2019-09-09 00:48:41: -I- Checking for Bridge Design Pattern
+2019-09-09 00:48:41: -I- Bridge can be founded by combination of IPAG and CI
+2019-09-09 00:48:41: -W- Couldn't find any bridge pattern in the code
+2019-09-09 00:48:41: -I- Checking for Builder Design Pattern
+2019-09-09 00:48:41: -I- Builder can be founded by combination of IDA & AGPI
+2019-09-09 00:48:41: -W- Couldn't find any Builder pattern in the code
+2019-09-09 00:48:41: -I- Checking for Chain of Responsibility Design Pattern
+2019-09-09 00:48:41: -I- Chain of Responsibility can be founded by combination of SASS & CI
+2019-09-09 00:48:41: -W- Couldn't find any Chain of Responsibility pattern in the code
+2019-09-09 00:48:41: -I- Checking for Command Design Pattern
+2019-09-09 00:48:41: -I- Command can be founded by combination of ICA & AGPI
+2019-09-09 00:48:41: -W- Couldn't find any Command pattern in the code
+2019-09-09 00:48:42: -I- Checking for Decorator Design Pattern
+2019-09-09 00:48:42: -I- Decorator can be founded by combination of CI & IAGG & MLI
+2019-09-09 00:48:42: -W- Couldn't find any decorator pattern in the code
+2019-09-09 00:48:42: -I- Checking for Facad Design Pattern
+2019-09-09 00:48:42: -I- Facad can be founded by combination of triple ICD
+2019-09-09 00:48:42: -W- Couldn't find any Facad pattern in the code
+2019-09-09 00:48:42: -I- Checking for Factory Design Pattern
+2019-09-09 00:48:42: -I- Factory can be founded by combination of ICD & DCI
+2019-09-09 00:48:42: -W- Couldn't find any Factory pattern in the code
+2019-09-09 00:48:42: -I- Checking for Flyweight Design Pattern
+2019-09-09 00:48:42: -I- Flyweight can be founded by combination of CI & AGPI
+2019-09-09 00:48:42: -D- Flyweight DP in: {'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -D- Flyweight DP in: {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -I- Flyweight design pattern has been detected: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Checking for Interpreter Design Pattern
+2019-09-09 00:48:42: -I- Interpreter can be founded by combination of IAGG & CI & IPD
+2019-09-09 00:48:42: -W- Couldn't find any Interpreter pattern in the code
+2019-09-09 00:48:42: -I- Checking for Iterator Design Pattern
+2019-09-09 00:48:42: -I- Iterator can be founded by combination of ICD & DCI & ICA
+2019-09-09 00:48:42: -W- Couldn't find any Iterator pattern in the code
+2019-09-09 00:48:42: -I- Checking for Mediator Design Pattern
+2019-09-09 00:48:42: -I- Mediator can be founded by combination of CI & IPAS & ICA
+2019-09-09 00:48:42: -W- Couldn't find any Mediator pattern in the code
+2019-09-09 00:48:42: -I- Checking for Memento Design Pattern
+2019-09-09 00:48:42: -I- Memento can be founded by combination of AGPI & DPI
+2019-09-09 00:48:42: -W- Couldn't find any Memento pattern in the code
+2019-09-09 00:48:42: -I- Checking for Observer Design Pattern
+2019-09-09 00:48:42: -I- Observer can be founded by combination of AGPI & ICD
+2019-09-09 00:48:42: -W- Couldn't find any Observer pattern in the code
+2019-09-09 00:48:42: -I- Checking for Prototype Design Pattern
+2019-09-09 00:48:42: -I- Prototype can be founded by combination of CI & AGPI
+2019-09-09 00:48:42: -D- Prototype DP in: {'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -D- Prototype DP in: {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -I- Prototype design pattern has been detected: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Checking for Proxy Design Pattern
+2019-09-09 00:48:42: -I- Proxy can be founded by combination of ICA & CI, CI & IASS
+2019-09-09 00:48:42: -W- Couldn't find any proxy pattern in the code
+2019-09-09 00:48:42: -I- Checking for State Design Pattern
+2019-09-09 00:48:42: -I- State can be founded by combination of AGPI & CI
+2019-09-09 00:48:42: -D- State DP in: {'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -D- State DP in: {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -I- State design pattern has been detected: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Checking for Strategy Design Pattern
+2019-09-09 00:48:42: -I- Strategy can be founded by combination of AGPI & CI
+2019-09-09 00:48:42: -D- Strategy DP in: {'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -D- Strategy DP in: {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}
+2019-09-09 00:48:42: -I- Strategy design pattern has been detected: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Checking for Visitor Design Pattern
+2019-09-09 00:48:42: -I- Visitor can be founded by combination of AGPI & ICD & DPI
+2019-09-09 00:48:42: -W- Couldn't find any Visitor pattern in the code
+2019-09-09 00:48:42: -I- Design Pattern [flyweight] is found in: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Design Pattern [strategy] is found in: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Design Pattern [state] is found in: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Design Pattern [template] is found in: [{'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Design Pattern [prototype] is found in: [{'AGPI': ('State', 'ConcreteStateA', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}, {'AGPI': ('State', 'ConcreteStateB', 'Context'), 'CI': ('State', 'ConcreteStateA', 'ConcreteStateB')}]
+2019-09-09 00:48:42: -I- Design Pattern [composite] is found in: [{'SAGG': ('Contact',)}]

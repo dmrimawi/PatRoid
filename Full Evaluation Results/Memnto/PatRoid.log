@@ -1,0 +1,200 @@
+2019-09-09 00:27:58: -I- Manifest file is: 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\AndroidManifest.xml
+2019-09-09 00:27:58: -I- Activities are: [{'category': 'LAUNCHER', 'classes': ['MainActivity', 'Caretaker', 'Orginator', 'MementoImp', 'Memento'], 'name': 'MainActivity'}, {'category': 'DEFAULT', 'classes': ['Caretaker', 'ContactViewBinder', 'SendMessageActivity', 'MainActivity', 'Orginator', 'Contact', 'SelectContactActivity', 'MementoImp', 'Memento'], 'name': 'SendMessageActivity'}, {'category': None, 'classes': ['Caretaker', 'ContactViewBinder', 'SendMessageActivity', 'MainActivity', 'Orginator', 'Contact', 'SelectContactActivity', 'MementoImp', 'Memento'], 'name': 'SelectContactActivity'}]
+2019-09-09 00:27:58: -I- Java files are (#9): 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Caretaker.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Contact.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ContactViewBinder.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\MainActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Memento.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\MementoImp.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Orginator.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SelectContactActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SendMessageActivity.java
+2019-09-09 00:27:58: -I- Java classes are: ['Caretaker', 'Contact', 'ContactViewBinder', 'MainActivity', 'Memento', 'MementoImp', 'Orginator', 'SelectContactActivity', 'SendMessageActivity']
+2019-09-09 00:27:58: -I- Inheritance: [{'MementoImp': 'Memento'}]
+2019-09-09 00:27:58: -I- Association relationships are between: [{'Memento': 'Caretaker'}, {'Contact': 'Contact'}, {'Caretaker': 'MainActivity'}, {'Orginator': 'MainActivity'}, {'MementoImp': 'MainActivity'}, {'Memento': 'MainActivity'}, {'Contact': 'SelectContactActivity'}, {'Contact': 'SendMessageActivity'}]
+2019-09-09 00:27:58: -I- Aggregation relationships are between: [{'Memento': 'Caretaker'}, {'Contact': 'Contact'}]
+2019-09-09 00:27:58: -I- Depends relationships are between: [{'Contact': 'ContactViewBinder'}, {'Orginator': 'Memento'}]
+2019-09-09 00:27:58: -I- Writing relations to the module file...
+2019-09-09 00:27:58: -I- Done
+2019-09-09 00:27:58: -I- ICA(Inheritance Child Association)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x3147430>
+2019-09-09 00:27:58: -I- Step2: Get all Association relation classes
+2019-09-09 00:27:58: -D- association: <Element 'association' at 0x3147bb0>
+2019-09-09 00:27:58: -I- Step3: Find child classes with association relation
+2019-09-09 00:27:58: -D- Found ICA: (Memento, MementoImp, MainActivity)
+2019-09-09 00:27:58: -I- 1. ICA relations: [('Memento', 'MementoImp', 'MainActivity')]
+2019-09-09 00:27:58: -I- CI (Common Inheritance)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x312ce50>
+2019-09-09 00:27:58: -I- Step2: Find all children shares the same parent
+2019-09-09 00:27:58: -I- 2. CI relations: []
+2019-09-09 00:27:58: -I- IAGG (Inheritance AGGregation)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x3147390>
+2019-09-09 00:27:58: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:27:58: -D- aggregation: <Element 'aggregation' at 0x31362d0>
+2019-09-09 00:27:58: -I- Step3: Find classes that have both inheritance and aggregation
+2019-09-09 00:27:58: -I- 3. IAGG relations: []
+2019-09-09 00:27:58: -I- IPAG (Inheritance Parent AGgregation)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x3198790>
+2019-09-09 00:27:58: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:27:58: -D- aggregation: <Element 'aggregation' at 0x319f070>
+2019-09-09 00:27:58: -I- Step3: Find classes that have inheritance and the parent have aggregation with other
+2019-09-09 00:27:58: -I- 4. IPAG relations: []
+2019-09-09 00:27:58: -I- MLI (Multi-Level Inheritance)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x3198d50>
+2019-09-09 00:27:58: -I- Step2: Find all classes that their parent is a child for other parent
+2019-09-09 00:27:58: -I- 5. MLI relations: []
+2019-09-09 00:27:58: -I- IASS (Inheritance ASSociation)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x3136ed0>
+2019-09-09 00:27:58: -I- Step2: Get all Association relation classes
+2019-09-09 00:27:58: -D- association: <Element 'association' at 0x31474d0>
+2019-09-09 00:27:58: -I- 6. IASS relations: []
+2019-09-09 00:27:58: -I- SAGG (Self-Aggregation)
+2019-09-09 00:27:58: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:27:58: -D- aggregation: <Element 'aggregation' at 0x319fcb0>
+2019-09-09 00:27:58: -D- Found SAGG: (Contact)
+2019-09-09 00:27:58: -I- 7. SAGG relations: [('Contact',)]
+2019-09-09 00:27:58: -I- IIAGG (Indirect Inheritance AGGregation)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x31474d0>
+2019-09-09 00:27:58: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:27:58: -D- aggregation: <Element 'aggregation' at 0x3198890>
+2019-09-09 00:27:58: -I- 8. IIAGG relations: []
+2019-09-09 00:27:58: -I- SASS (Self-ASSociation)
+2019-09-09 00:27:58: -I- Step1: Get all Association relation classes
+2019-09-09 00:27:58: -D- association: <Element 'association' at 0x3136e30>
+2019-09-09 00:27:58: -D- Found SASS: (Contact)
+2019-09-09 00:27:58: -I- SAGG (Self-Aggregation)
+2019-09-09 00:27:58: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:27:58: -D- aggregation: <Element 'aggregation' at 0x31a6950>
+2019-09-09 00:27:58: -D- Found SAGG: (Contact)
+2019-09-09 00:27:58: -I- 9. SASS relations: []
+2019-09-09 00:27:58: -I- ICD (Inheritance Child Dependency)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x31989f0>
+2019-09-09 00:27:58: -I- Step2: Get all Depends relation classes
+2019-09-09 00:27:58: -D- depends: <Element 'depends' at 0x31361d0>
+2019-09-09 00:27:58: -I- 10. ICD relations: []
+2019-09-09 00:27:58: -I- DCI (Dependency Child Inheritance)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x31475d0>
+2019-09-09 00:27:58: -I- Step2: Get all Depends relation classes
+2019-09-09 00:27:58: -D- depends: <Element 'depends' at 0x31ad4d0>
+2019-09-09 00:27:58: -I- 11. DCI relations: []
+2019-09-09 00:27:58: -I- IPAS (Inheritance Parent ASsociation)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x31ad6f0>
+2019-09-09 00:27:58: -I- Step2: Get all Association relation classes
+2019-09-09 00:27:58: -D- association: <Element 'association' at 0x31ad370>
+2019-09-09 00:27:58: -D- Found IPAS: (Memento, MementoImp, Caretaker)
+2019-09-09 00:27:58: -D- Found IPAS: (Memento, MementoImp, MainActivity)
+2019-09-09 00:27:58: -I- 12. IPAS relations: [('Memento', 'MementoImp', 'Caretaker'), ('Memento', 'MementoImp', 'MainActivity')]
+2019-09-09 00:27:58: -I- AGPI (AGgregation Parent Inherited)
+2019-09-09 00:27:58: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:58: -D- inheritance: <Element 'inheritance' at 0x31a66d0>
+2019-09-09 00:27:58: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:27:59: -D- aggregation: <Element 'aggregation' at 0x31981d0>
+2019-09-09 00:27:59: -D- Found AGPI: (Memento, MementoImp, Caretaker)
+2019-09-09 00:27:59: -I- 13. AGPI relations: [('Memento', 'MementoImp', 'Caretaker')]
+2019-09-09 00:27:59: -I- IPD (Inheritance Parent Dependency)
+2019-09-09 00:27:59: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:59: -D- inheritance: <Element 'inheritance' at 0x3136a70>
+2019-09-09 00:27:59: -I- Step2: Get all Depends relation classes
+2019-09-09 00:27:59: -D- depends: <Element 'depends' at 0x31364f0>
+2019-09-09 00:27:59: -I- 14. IPD relations: []
+2019-09-09 00:27:59: -I- DPI (Dependency Parent Inherited)
+2019-09-09 00:27:59: -I- Step1: Get all parent and child classes
+2019-09-09 00:27:59: -D- inheritance: <Element 'inheritance' at 0x31ad3b0>
+2019-09-09 00:27:59: -I- Step2: Get all Depends relation classes
+2019-09-09 00:27:59: -D- depends: <Element 'depends' at 0x3147710>
+2019-09-09 00:27:59: -D- Found DPI: (Memento, MementoImp, Orginator)
+2019-09-09 00:27:59: -I- 15. DPI relations: [('Memento', 'MementoImp', 'Orginator')]
+2019-09-09 00:27:59: -I- Checking for Singleton Design Pattern
+2019-09-09 00:27:59: -I- Singleton can be founded by combination of SASS
+2019-09-09 00:27:59: -W- Couldn't find any Singleton pattern in the code
+2019-09-09 00:27:59: -I- Checking for Composite Design Pattern
+2019-09-09 00:27:59: -I- Composite can be founded by combination of SAGG, CI & IAGG, CI & IIAGG
+2019-09-09 00:27:59: -D- Step1: checking for SAGG
+2019-09-09 00:27:59: -D- Composite DP in: {'SAGG': ('Contact',)}
+2019-09-09 00:27:59: -D- Step2: checking for CI & IAGG
+2019-09-09 00:27:59: -D- Step3: checking for CI & IIAGG
+2019-09-09 00:27:59: -I- Composite design pattern has been detected: [{'SAGG': ('Contact',)}]
+2019-09-09 00:27:59: -I- Checking for Template Design Pattern
+2019-09-09 00:27:59: -I- Template can be founded by combination of CI relation
+2019-09-09 00:27:59: -W- Couldn't find any Template pattern in the code
+2019-09-09 00:27:59: -I- Checking for Abstract Factory Design Pattern
+2019-09-09 00:27:59: -I- Abstract Factory can be founded by combination of DCI & IDC & CI
+2019-09-09 00:27:59: -W- Couldn't find any Abstract Factory pattern in the code
+2019-09-09 00:27:59: -I- Checking for Adapter Design Pattern
+2019-09-09 00:27:59: -I- Adapter can be founded by combination of ICA relation and a non-existance of CI relation
+2019-09-09 00:27:59: -D- Adapter DP in: ('Memento', 'MementoImp', 'MainActivity')
+2019-09-09 00:27:59: -I- Adapter design pattern has been detected: [{'ICA': ('Memento', 'MementoImp', 'MainActivity')}]
+2019-09-09 00:27:59: -I- Checking for Bridge Design Pattern
+2019-09-09 00:27:59: -I- Bridge can be founded by combination of IPAG and CI
+2019-09-09 00:27:59: -W- Couldn't find any bridge pattern in the code
+2019-09-09 00:27:59: -I- Checking for Builder Design Pattern
+2019-09-09 00:27:59: -I- Builder can be founded by combination of IDA & AGPI
+2019-09-09 00:27:59: -D- Builder DP in: {'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}
+2019-09-09 00:27:59: -I- Builder design pattern has been detected: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}]
+2019-09-09 00:27:59: -I- Checking for Chain of Responsibility Design Pattern
+2019-09-09 00:27:59: -I- Chain of Responsibility can be founded by combination of SASS & CI
+2019-09-09 00:27:59: -W- Couldn't find any Chain of Responsibility pattern in the code
+2019-09-09 00:27:59: -I- Checking for Command Design Pattern
+2019-09-09 00:27:59: -I- Command can be founded by combination of ICA & AGPI
+2019-09-09 00:27:59: -D- Command DP in: {'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}
+2019-09-09 00:27:59: -I- Command design pattern has been detected: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}]
+2019-09-09 00:27:59: -I- Checking for Decorator Design Pattern
+2019-09-09 00:27:59: -I- Decorator can be founded by combination of CI & IAGG & MLI
+2019-09-09 00:27:59: -W- Couldn't find any decorator pattern in the code
+2019-09-09 00:27:59: -I- Checking for Facad Design Pattern
+2019-09-09 00:27:59: -I- Facad can be founded by combination of triple ICD
+2019-09-09 00:27:59: -W- Couldn't find any Facad pattern in the code
+2019-09-09 00:27:59: -I- Checking for Factory Design Pattern
+2019-09-09 00:27:59: -I- Factory can be founded by combination of ICD & DCI
+2019-09-09 00:27:59: -W- Couldn't find any Factory pattern in the code
+2019-09-09 00:27:59: -I- Checking for Flyweight Design Pattern
+2019-09-09 00:27:59: -I- Flyweight can be founded by combination of CI & AGPI
+2019-09-09 00:27:59: -W- Couldn't find any flyweight pattern in the code
+2019-09-09 00:27:59: -I- Checking for Interpreter Design Pattern
+2019-09-09 00:27:59: -I- Interpreter can be founded by combination of IAGG & CI & IPD
+2019-09-09 00:27:59: -W- Couldn't find any Interpreter pattern in the code
+2019-09-09 00:27:59: -I- Checking for Iterator Design Pattern
+2019-09-09 00:27:59: -I- Iterator can be founded by combination of ICD & DCI & ICA
+2019-09-09 00:27:59: -W- Couldn't find any Iterator pattern in the code
+2019-09-09 00:27:59: -I- Checking for Mediator Design Pattern
+2019-09-09 00:27:59: -I- Mediator can be founded by combination of CI & IPAS & ICA
+2019-09-09 00:27:59: -W- Couldn't find any Mediator pattern in the code
+2019-09-09 00:27:59: -I- Checking for Memento Design Pattern
+2019-09-09 00:27:59: -I- Memento can be founded by combination of AGPI & DPI
+2019-09-09 00:27:59: -D- Memento DP in: {'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'DPI': ('Memento', 'MementoImp', 'Orginator')}
+2019-09-09 00:27:59: -I- Memento design pattern has been detected: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'DPI': ('Memento', 'MementoImp', 'Orginator')}]
+2019-09-09 00:27:59: -I- Checking for Observer Design Pattern
+2019-09-09 00:27:59: -I- Observer can be founded by combination of AGPI & ICD
+2019-09-09 00:27:59: -W- Couldn't find any Observer pattern in the code
+2019-09-09 00:27:59: -I- Checking for Prototype Design Pattern
+2019-09-09 00:27:59: -I- Prototype can be founded by combination of CI & AGPI
+2019-09-09 00:27:59: -W- Couldn't find any Prototype pattern in the code
+2019-09-09 00:27:59: -I- Checking for Proxy Design Pattern
+2019-09-09 00:27:59: -I- Proxy can be founded by combination of ICA & CI, CI & IASS
+2019-09-09 00:27:59: -W- Couldn't find any proxy pattern in the code
+2019-09-09 00:27:59: -I- Checking for State Design Pattern
+2019-09-09 00:27:59: -I- State can be founded by combination of AGPI & CI
+2019-09-09 00:27:59: -W- Couldn't find any State pattern in the code
+2019-09-09 00:27:59: -I- Checking for Strategy Design Pattern
+2019-09-09 00:27:59: -I- Strategy can be founded by combination of AGPI & CI
+2019-09-09 00:27:59: -W- Couldn't find any Strategy pattern in the code
+2019-09-09 00:27:59: -I- Checking for Visitor Design Pattern
+2019-09-09 00:27:59: -I- Visitor can be founded by combination of AGPI & ICD & DPI
+2019-09-09 00:27:59: -W- Couldn't find any Visitor pattern in the code
+2019-09-09 00:27:59: -I- Design Pattern [composite] is found in: [{'SAGG': ('Contact',)}]
+2019-09-09 00:27:59: -I- Design Pattern [memento] is found in: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'DPI': ('Memento', 'MementoImp', 'Orginator')}]
+2019-09-09 00:27:59: -I- Design Pattern [builder] is found in: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}]
+2019-09-09 00:27:59: -I- Design Pattern [command] is found in: [{'AGPI': ('Memento', 'MementoImp', 'Caretaker'), 'ICA': ('Memento', 'MementoImp', 'MainActivity')}]
+2019-09-09 00:27:59: -I- Design Pattern [adapter] is found in: [{'ICA': ('Memento', 'MementoImp', 'MainActivity')}]

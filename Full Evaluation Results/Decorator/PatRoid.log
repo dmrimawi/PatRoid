@@ -1,0 +1,244 @@
+2019-09-08 23:15:11: -I- Manifest file is: 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\AndroidManifest.xml
+2019-09-08 23:15:11: -I- Activities are: [{'category': 'LAUNCHER', 'classes': ['ConcreteComp', 'Comp', 'MainActivity', 'ConcreteDecoratorB', 'SharingShortcutsManager', 'Decorator', 'ConcreteDecoratorA'], 'name': 'MainActivity'}, {'category': 'DEFAULT', 'classes': ['ConcreteComp', 'Comp', 'SendMessageActivity', 'MainActivity', 'ContactViewBinder', 'Contact', 'SelectContactActivity', 'ConcreteDecoratorB', 'SharingShortcutsManager', 'Decorator', 'ConcreteDecoratorA'], 'name': 'SendMessageActivity'}, {'category': None, 'classes': ['ConcreteComp', 'Comp', 'SendMessageActivity', 'MainActivity', 'ContactViewBinder', 'Contact', 'SelectContactActivity', 'ConcreteDecoratorB', 'SharingShortcutsManager', 'Decorator', 'ConcreteDecoratorA'], 'name': 'SelectContactActivity'}]
+2019-09-08 23:15:11: -I- Java files are (#11): 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Comp.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteComp.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteDecoratorA.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteDecoratorB.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Contact.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ContactViewBinder.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Decorator.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\MainActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SelectContactActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SendMessageActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SharingShortcutsManager.java
+2019-09-08 23:15:11: -I- Java classes are: ['Comp', 'ConcreteComp', 'ConcreteDecoratorA', 'ConcreteDecoratorB', 'Contact', 'ContactViewBinder', 'Decorator', 'MainActivity', 'SelectContactActivity', 'SendMessageActivity', 'SharingShortcutsManager']
+2019-09-08 23:15:11: -I- Inheritance: [{'ConcreteComp': 'Comp'}, {'ConcreteDecoratorA': 'Decorator'}, {'ConcreteDecoratorB': 'Decorator'}, {'Decorator': 'Comp'}]
+2019-09-08 23:15:11: -I- Association relationships are between: [{'Contact': 'Contact'}, {'Comp': 'Decorator'}, {'Comp': 'MainActivity'}, {'ConcreteComp': 'MainActivity'}, {'ConcreteDecoratorB': 'MainActivity'}, {'Decorator': 'MainActivity'}, {'ConcreteDecoratorA': 'MainActivity'}, {'Contact': 'SelectContactActivity'}, {'Contact': 'SendMessageActivity'}, {'Contact': 'SharingShortcutsManager'}]
+2019-09-08 23:15:11: -I- Aggregation relationships are between: [{'Contact': 'Contact'}, {'Comp': 'Decorator'}]
+2019-09-08 23:15:11: -I- Depends relationships are between: [{'Contact': 'ContactViewBinder'}]
+2019-09-08 23:15:11: -I- Writing relations to the module file...
+2019-09-08 23:15:11: -I- Done
+2019-09-08 23:15:11: -I- ICA(Inheritance Child Association)
+2019-09-08 23:15:11: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:11: -D- inheritance: <Element 'inheritance' at 0x2efb310>
+2019-09-08 23:15:11: -I- Step2: Get all Association relation classes
+2019-09-08 23:15:11: -D- association: <Element 'association' at 0x2efbbd0>
+2019-09-08 23:15:11: -I- Step3: Find child classes with association relation
+2019-09-08 23:15:11: -D- Found ICA: (Comp, ConcreteComp, ConcreteComp)
+2019-09-08 23:15:11: -D- Found ICA: (Decorator, ConcreteDecoratorA, ConcreteDecoratorA)
+2019-09-08 23:15:11: -D- Found ICA: (Decorator, ConcreteDecoratorB, ConcreteDecoratorB)
+2019-09-08 23:15:11: -D- Found ICA: (Comp, Decorator, Decorator)
+2019-09-08 23:15:11: -I- 1. ICA relations: [('Comp', 'ConcreteComp', 'ConcreteComp'), ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB'), ('Comp', 'Decorator', 'Decorator'), ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA')]
+2019-09-08 23:15:11: -I- CI (Common Inheritance)
+2019-09-08 23:15:11: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2efb190>
+2019-09-08 23:15:12: -I- Step2: Find all children shares the same parent
+2019-09-08 23:15:12: -D- Found CI: (Comp, ConcreteComp, Decorator)
+2019-09-08 23:15:12: -D- Found CI: (Decorator, ConcreteDecoratorA, ConcreteDecoratorB)
+2019-09-08 23:15:12: -D- Found CI: (Decorator, ConcreteDecoratorB, ConcreteDecoratorA)
+2019-09-08 23:15:12: -D- Found CI: (Comp, Decorator, ConcreteComp)
+2019-09-08 23:15:12: -I- 2. CI relations: [('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), ('Comp', 'ConcreteComp', 'Decorator'), ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')]
+2019-09-08 23:15:12: -I- IAGG (Inheritance AGGregation)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2ee7c10>
+2019-09-08 23:15:12: -I- Step2: Get all classes with aggregation relation
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2f4b550>
+2019-09-08 23:15:12: -I- Step3: Find classes that have both inheritance and aggregation
+2019-09-08 23:15:12: -D- Found IAGG: (Comp, Decorator)
+2019-09-08 23:15:12: -I- 3. IAGG relations: [('Comp', 'Decorator')]
+2019-09-08 23:15:12: -I- IPAG (Inheritance Parent AGgregation)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f54610>
+2019-09-08 23:15:12: -I- Step2: Get all classes with aggregation relation
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2ee7a30>
+2019-09-08 23:15:12: -I- Step3: Find classes that have inheritance and the parent have aggregation with other
+2019-09-08 23:15:12: -D- Found IPAG: (Decorator, ConcreteDecoratorA, Comp)
+2019-09-08 23:15:12: -D- Found IPAG: (Decorator, ConcreteDecoratorB, Comp)
+2019-09-08 23:15:12: -I- 4. IPAG relations: [('Decorator', 'ConcreteDecoratorA', 'Comp'), ('Decorator', 'ConcreteDecoratorB', 'Comp')]
+2019-09-08 23:15:12: -I- MLI (Multi-Level Inheritance)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f549f0>
+2019-09-08 23:15:12: -I- Step2: Find all classes that their parent is a child for other parent
+2019-09-08 23:15:12: -D- Found MLI: (Comp, Decorator, ConcreteDecoratorA)
+2019-09-08 23:15:12: -D- Found MLI: (Comp, Decorator, ConcreteDecoratorB)
+2019-09-08 23:15:12: -I- 5. MLI relations: [('Comp', 'Decorator', 'ConcreteDecoratorB'), ('Comp', 'Decorator', 'ConcreteDecoratorA')]
+2019-09-08 23:15:12: -I- IASS (Inheritance ASSociation)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f496d0>
+2019-09-08 23:15:12: -I- Step2: Get all Association relation classes
+2019-09-08 23:15:12: -D- association: <Element 'association' at 0x2f548f0>
+2019-09-08 23:15:12: -D- Found IASS: (Comp, Decorator)
+2019-09-08 23:15:12: -I- 6. IASS relations: [('Comp', 'Decorator')]
+2019-09-08 23:15:12: -I- SAGG (Self-Aggregation)
+2019-09-08 23:15:12: -I- Step1: Get all Aggregation relation classes
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2ee7650>
+2019-09-08 23:15:12: -D- Found SAGG: (Contact)
+2019-09-08 23:15:12: -I- 7. SAGG relations: [('Contact',)]
+2019-09-08 23:15:12: -I- IIAGG (Indirect Inheritance AGGregation)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f5c430>
+2019-09-08 23:15:12: -I- Step2: Get all Aggregation relation classes
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2f5cd50>
+2019-09-08 23:15:12: -I- 8. IIAGG relations: []
+2019-09-08 23:15:12: -I- SASS (Self-ASSociation)
+2019-09-08 23:15:12: -I- Step1: Get all Association relation classes
+2019-09-08 23:15:12: -D- association: <Element 'association' at 0x2f5ca70>
+2019-09-08 23:15:12: -D- Found SASS: (Contact)
+2019-09-08 23:15:12: -I- SAGG (Self-Aggregation)
+2019-09-08 23:15:12: -I- Step1: Get all Aggregation relation classes
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2f49db0>
+2019-09-08 23:15:12: -D- Found SAGG: (Contact)
+2019-09-08 23:15:12: -I- 9. SASS relations: []
+2019-09-08 23:15:12: -I- ICD (Inheritance Child Dependency)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f64150>
+2019-09-08 23:15:12: -I- Step2: Get all Depends relation classes
+2019-09-08 23:15:12: -D- depends: <Element 'depends' at 0x2f54970>
+2019-09-08 23:15:12: -I- 10. ICD relations: []
+2019-09-08 23:15:12: -I- DCI (Dependency Child Inheritance)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2efb330>
+2019-09-08 23:15:12: -I- Step2: Get all Depends relation classes
+2019-09-08 23:15:12: -D- depends: <Element 'depends' at 0x2f649f0>
+2019-09-08 23:15:12: -I- 11. DCI relations: []
+2019-09-08 23:15:12: -I- IPAS (Inheritance Parent ASsociation)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f6bb10>
+2019-09-08 23:15:12: -I- Step2: Get all Association relation classes
+2019-09-08 23:15:12: -D- association: <Element 'association' at 0x2f64d70>
+2019-09-08 23:15:12: -D- Found IPAS: (Decorator, ConcreteDecoratorA, Comp)
+2019-09-08 23:15:12: -D- Found IPAS: (Decorator, ConcreteDecoratorB, Comp)
+2019-09-08 23:15:12: -I- 12. IPAS relations: [('Decorator', 'ConcreteDecoratorA', 'Comp'), ('Decorator', 'ConcreteDecoratorB', 'Comp')]
+2019-09-08 23:15:12: -I- AGPI (AGgregation Parent Inherited)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f548f0>
+2019-09-08 23:15:12: -I- Step2: Get all Aggregation relation classes
+2019-09-08 23:15:12: -D- aggregation: <Element 'aggregation' at 0x2f6b130>
+2019-09-08 23:15:12: -D- Found AGPI: (Comp, ConcreteComp, Decorator)
+2019-09-08 23:15:12: -D- Found AGPI: (Comp, Decorator, Decorator)
+2019-09-08 23:15:12: -I- 13. AGPI relations: [('Comp', 'Decorator', 'Decorator'), ('Comp', 'ConcreteComp', 'Decorator')]
+2019-09-08 23:15:12: -I- IPD (Inheritance Parent Dependency)
+2019-09-08 23:15:12: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:12: -D- inheritance: <Element 'inheritance' at 0x2f546b0>
+2019-09-08 23:15:12: -I- Step2: Get all Depends relation classes
+2019-09-08 23:15:13: -D- depends: <Element 'depends' at 0x2f64cd0>
+2019-09-08 23:15:13: -I- 14. IPD relations: []
+2019-09-08 23:15:13: -I- DPI (Dependency Parent Inherited)
+2019-09-08 23:15:13: -I- Step1: Get all parent and child classes
+2019-09-08 23:15:13: -D- inheritance: <Element 'inheritance' at 0x2f75870>
+2019-09-08 23:15:13: -I- Step2: Get all Depends relation classes
+2019-09-08 23:15:13: -D- depends: <Element 'depends' at 0x2f7e110>
+2019-09-08 23:15:13: -I- 15. DPI relations: []
+2019-09-08 23:15:13: -I- Checking for Singleton Design Pattern
+2019-09-08 23:15:13: -I- Singleton can be founded by combination of SASS
+2019-09-08 23:15:13: -W- Couldn't find any Singleton pattern in the code
+2019-09-08 23:15:13: -I- Checking for Composite Design Pattern
+2019-09-08 23:15:13: -I- Composite can be founded by combination of SAGG, CI & IAGG, CI & IIAGG
+2019-09-08 23:15:13: -D- Step1: checking for SAGG
+2019-09-08 23:15:13: -D- Composite DP in: {'SAGG': ('Contact',)}
+2019-09-08 23:15:13: -D- Step2: checking for CI & IAGG
+2019-09-08 23:15:13: -D- Composite DP in: {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- Step3: checking for CI & IIAGG
+2019-09-08 23:15:13: -I- Composite design pattern has been detected: [{'SAGG': ('Contact',)}, {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Checking for Template Design Pattern
+2019-09-08 23:15:13: -I- Template can be founded by combination of CI relation
+2019-09-08 23:15:13: -D- Template DP in: {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}
+2019-09-08 23:15:13: -D- Template DP in: {'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- Template DP in: {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}
+2019-09-08 23:15:13: -I- Template design pattern has been detected: [{'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}, {'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}]
+2019-09-08 23:15:13: -I- Checking for Abstract Factory Design Pattern
+2019-09-08 23:15:13: -I- Abstract Factory can be founded by combination of DCI & IDC & CI
+2019-09-08 23:15:13: -W- Couldn't find any Abstract Factory pattern in the code
+2019-09-08 23:15:13: -I- Checking for Adapter Design Pattern
+2019-09-08 23:15:13: -I- Adapter can be founded by combination of ICA relation and a non-existance of CI relation
+2019-09-08 23:15:13: -D- Adapter DP in: ('Comp', 'ConcreteComp', 'ConcreteComp')
+2019-09-08 23:15:13: -D- Adapter DP in: ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB')
+2019-09-08 23:15:13: -D- Adapter DP in: ('Comp', 'Decorator', 'Decorator')
+2019-09-08 23:15:13: -D- Adapter DP in: ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA')
+2019-09-08 23:15:13: -I- Adapter design pattern has been detected: [{'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}, {'ICA': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB')}, {'ICA': ('Comp', 'Decorator', 'Decorator')}, {'ICA': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA')}]
+2019-09-08 23:15:13: -I- Checking for Bridge Design Pattern
+2019-09-08 23:15:13: -I- Bridge can be founded by combination of IPAG and CI
+2019-09-08 23:15:13: -W- Couldn't find any bridge pattern in the code
+2019-09-08 23:15:13: -I- Checking for Builder Design Pattern
+2019-09-08 23:15:13: -I- Builder can be founded by combination of IDA & AGPI
+2019-09-08 23:15:13: -D- Builder DP in: {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}
+2019-09-08 23:15:13: -I- Builder design pattern has been detected: [{'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}]
+2019-09-08 23:15:13: -I- Checking for Chain of Responsibility Design Pattern
+2019-09-08 23:15:13: -I- Chain of Responsibility can be founded by combination of SASS & CI
+2019-09-08 23:15:13: -W- Couldn't find any Chain of Responsibility pattern in the code
+2019-09-08 23:15:13: -I- Checking for Command Design Pattern
+2019-09-08 23:15:13: -I- Command can be founded by combination of ICA & AGPI
+2019-09-08 23:15:13: -D- Command DP in: {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}
+2019-09-08 23:15:13: -I- Command design pattern has been detected: [{'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}]
+2019-09-08 23:15:13: -I- Checking for Decorator Design Pattern
+2019-09-08 23:15:13: -I- Decorator can be founded by combination of CI & IAGG & MLI
+2019-09-08 23:15:13: -D- Decorator DP in: {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorB')}
+2019-09-08 23:15:13: -D- Decorator DP in: {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorA')}
+2019-09-08 23:15:13: -I- Decorator design pattern has been detected: [{'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorB')}, {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorA')}]
+2019-09-08 23:15:13: -I- Checking for Facad Design Pattern
+2019-09-08 23:15:13: -I- Facad can be founded by combination of triple ICD
+2019-09-08 23:15:13: -W- Couldn't find any Facad pattern in the code
+2019-09-08 23:15:13: -I- Checking for Factory Design Pattern
+2019-09-08 23:15:13: -I- Factory can be founded by combination of ICD & DCI
+2019-09-08 23:15:13: -W- Couldn't find any Factory pattern in the code
+2019-09-08 23:15:13: -I- Checking for Flyweight Design Pattern
+2019-09-08 23:15:13: -I- Flyweight can be founded by combination of CI & AGPI
+2019-09-08 23:15:13: -W- Couldn't find any flyweight pattern in the code
+2019-09-08 23:15:13: -I- Checking for Interpreter Design Pattern
+2019-09-08 23:15:13: -I- Interpreter can be founded by combination of IAGG & CI & IPD
+2019-09-08 23:15:13: -W- Couldn't find any Interpreter pattern in the code
+2019-09-08 23:15:13: -I- Checking for Iterator Design Pattern
+2019-09-08 23:15:13: -I- Iterator can be founded by combination of ICD & DCI & ICA
+2019-09-08 23:15:13: -W- Couldn't find any Iterator pattern in the code
+2019-09-08 23:15:13: -I- Checking for Mediator Design Pattern
+2019-09-08 23:15:13: -I- Mediator can be founded by combination of CI & IPAS & ICA
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}
+2019-09-08 23:15:13: -D- Mediator DP in: {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}
+2019-09-08 23:15:13: -I- Mediator design pattern has been detected: [{'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}]
+2019-09-08 23:15:13: -I- Checking for Memento Design Pattern
+2019-09-08 23:15:13: -I- Memento can be founded by combination of AGPI & DPI
+2019-09-08 23:15:13: -W- Couldn't find any Memento pattern in the code
+2019-09-08 23:15:13: -I- Checking for Observer Design Pattern
+2019-09-08 23:15:13: -I- Observer can be founded by combination of AGPI & ICD
+2019-09-08 23:15:13: -W- Couldn't find any Observer pattern in the code
+2019-09-08 23:15:13: -I- Checking for Prototype Design Pattern
+2019-09-08 23:15:13: -I- Prototype can be founded by combination of CI & AGPI
+2019-09-08 23:15:13: -W- Couldn't find any Prototype pattern in the code
+2019-09-08 23:15:13: -I- Checking for Proxy Design Pattern
+2019-09-08 23:15:13: -I- Proxy can be founded by combination of ICA & CI, CI & IASS
+2019-09-08 23:15:13: -D- Proxy DP in: {'ICA': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB'), 'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}
+2019-09-08 23:15:13: -D- Proxy DP in: {'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- Proxy DP in: {'IASS': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- Proxy DP in: {'ICA': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA'), 'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}
+2019-09-08 23:15:13: -I- Proxy design pattern has been detected: [{'ICA': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB'), 'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}, {'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'IASS': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'ICA': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA'), 'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}]
+2019-09-08 23:15:13: -I- Checking for State Design Pattern
+2019-09-08 23:15:13: -I- State can be founded by combination of AGPI & CI
+2019-09-08 23:15:13: -D- State DP in: {'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- State DP in: {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -I- State design pattern has been detected: [{'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Checking for Strategy Design Pattern
+2019-09-08 23:15:13: -I- Strategy can be founded by combination of AGPI & CI
+2019-09-08 23:15:13: -D- Strategy DP in: {'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -D- Strategy DP in: {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}
+2019-09-08 23:15:13: -I- Strategy design pattern has been detected: [{'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Checking for Visitor Design Pattern
+2019-09-08 23:15:13: -I- Visitor can be founded by combination of AGPI & ICD & DPI
+2019-09-08 23:15:13: -W- Couldn't find any Visitor pattern in the code
+2019-09-08 23:15:13: -I- Design Pattern [mediator] is found in: [{'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorA', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB'), 'ICA': ('Comp', 'Decorator', 'Decorator'), 'IPAS': ('Decorator', 'ConcreteDecoratorB', 'Comp')}]
+2019-09-08 23:15:13: -I- Design Pattern [strategy] is found in: [{'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Design Pattern [state] is found in: [{'AGPI': ('Comp', 'Decorator', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Design Pattern [decorator] is found in: [{'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorB')}, {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator'), 'MLI': ('Comp', 'Decorator', 'ConcreteDecoratorA')}]
+2019-09-08 23:15:13: -I- Design Pattern [template] is found in: [{'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}, {'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}]
+2019-09-08 23:15:13: -I- Design Pattern [composite] is found in: [{'SAGG': ('Contact',)}, {'IAGG': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}]
+2019-09-08 23:15:13: -I- Design Pattern [proxy] is found in: [{'ICA': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB'), 'CI': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorA')}, {'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'IASS': ('Comp', 'Decorator'), 'CI': ('Comp', 'ConcreteComp', 'Decorator')}, {'ICA': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA'), 'CI': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorB')}]
+2019-09-08 23:15:13: -I- Design Pattern [builder] is found in: [{'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}]
+2019-09-08 23:15:13: -I- Design Pattern [command] is found in: [{'AGPI': ('Comp', 'ConcreteComp', 'Decorator'), 'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}]
+2019-09-08 23:15:13: -I- Design Pattern [adapter] is found in: [{'ICA': ('Comp', 'ConcreteComp', 'ConcreteComp')}, {'ICA': ('Decorator', 'ConcreteDecoratorB', 'ConcreteDecoratorB')}, {'ICA': ('Comp', 'Decorator', 'Decorator')}, {'ICA': ('Decorator', 'ConcreteDecoratorA', 'ConcreteDecoratorA')}]

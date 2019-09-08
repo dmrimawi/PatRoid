@@ -1,0 +1,200 @@
+2019-09-09 00:11:34: -I- Manifest file is: 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\AndroidManifest.xml
+2019-09-09 00:11:34: -I- Activities are: [{'category': 'LAUNCHER', 'classes': ['Aggregate', 'MainActivity', 'ConcreteIterator', 'Iterator', 'ConcreteAggregate'], 'name': 'MainActivity'}, {'category': 'DEFAULT', 'classes': ['Iterator', 'ConcreteAggregate', 'SendMessageActivity', 'MainActivity', 'ContactViewBinder', 'Contact', 'SelectContactActivity', 'Aggregate', 'ConcreteIterator'], 'name': 'SendMessageActivity'}, {'category': None, 'classes': ['Iterator', 'ConcreteAggregate', 'SendMessageActivity', 'MainActivity', 'ContactViewBinder', 'Contact', 'SelectContactActivity', 'Aggregate', 'ConcreteIterator'], 'name': 'SelectContactActivity'}]
+2019-09-09 00:11:34: -I- Java files are (#9): 
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Aggregate.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteAggregate.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ConcreteIterator.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Contact.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\ContactViewBinder.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\Iterator.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\MainActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SelectContactActivity.java
+C:\Users\Diaed\Dropbox\Master\Seminar\Seminar1\Experiment\AndroidAppsRepo\android-SharingShortcuts\Application\src\main\java\com\example\android\sharingshortcuts\SendMessageActivity.java
+2019-09-09 00:11:34: -I- Java classes are: ['Aggregate', 'ConcreteAggregate', 'ConcreteIterator', 'Contact', 'ContactViewBinder', 'Iterator', 'MainActivity', 'SelectContactActivity', 'SendMessageActivity']
+2019-09-09 00:11:34: -I- Inheritance: [{'ConcreteAggregate': 'Aggregate'}, {'ConcreteIterator': 'Iterator'}]
+2019-09-09 00:11:34: -I- Association relationships are between: [{'ConcreteIterator': 'ConcreteAggregate'}, {'Contact': 'Contact'}, {'Aggregate': 'MainActivity'}, {'ConcreteAggregate': 'MainActivity'}, {'ConcreteIterator': 'MainActivity'}, {'Iterator': 'MainActivity'}, {'Contact': 'SelectContactActivity'}, {'Contact': 'SendMessageActivity'}]
+2019-09-09 00:11:34: -I- Aggregation relationships are between: [{'Contact': 'Contact'}]
+2019-09-09 00:11:34: -I- Depends relationships are between: [{'ConcreteAggregate': 'ConcreteIterator'}, {'Contact': 'ContactViewBinder'}]
+2019-09-09 00:11:34: -I- Writing relations to the module file...
+2019-09-09 00:11:34: -I- Done
+2019-09-09 00:11:34: -I- ICA(Inheritance Child Association)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x29ccd90>
+2019-09-09 00:11:34: -I- Step2: Get all Association relation classes
+2019-09-09 00:11:34: -D- association: <Element 'association' at 0x29eb950>
+2019-09-09 00:11:34: -I- Step3: Find child classes with association relation
+2019-09-09 00:11:34: -D- Found ICA: (Aggregate, ConcreteAggregate, MainActivity)
+2019-09-09 00:11:34: -D- Found ICA: (Iterator, ConcreteIterator, ConcreteAggregate)
+2019-09-09 00:11:34: -D- Found ICA: (Iterator, ConcreteIterator, MainActivity)
+2019-09-09 00:11:34: -I- 1. ICA relations: [('Iterator', 'ConcreteIterator', 'MainActivity'), ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), ('Aggregate', 'ConcreteAggregate', 'MainActivity')]
+2019-09-09 00:11:34: -I- CI (Common Inheritance)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x29cce10>
+2019-09-09 00:11:34: -I- Step2: Find all children shares the same parent
+2019-09-09 00:11:34: -I- 2. CI relations: []
+2019-09-09 00:11:34: -I- IAGG (Inheritance AGGregation)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x29ebc30>
+2019-09-09 00:11:34: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:11:34: -D- aggregation: <Element 'aggregation' at 0x29eb610>
+2019-09-09 00:11:34: -I- Step3: Find classes that have both inheritance and aggregation
+2019-09-09 00:11:34: -I- 3. IAGG relations: []
+2019-09-09 00:11:34: -I- IPAG (Inheritance Parent AGgregation)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x2a1c130>
+2019-09-09 00:11:34: -I- Step2: Get all classes with aggregation relation
+2019-09-09 00:11:34: -D- aggregation: <Element 'aggregation' at 0x2a1c910>
+2019-09-09 00:11:34: -I- Step3: Find classes that have inheritance and the parent have aggregation with other
+2019-09-09 00:11:34: -I- 4. IPAG relations: []
+2019-09-09 00:11:34: -I- MLI (Multi-Level Inheritance)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x2a149b0>
+2019-09-09 00:11:34: -I- Step2: Find all classes that their parent is a child for other parent
+2019-09-09 00:11:34: -I- 5. MLI relations: []
+2019-09-09 00:11:34: -I- IASS (Inheritance ASSociation)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x29ebe90>
+2019-09-09 00:11:34: -I- Step2: Get all Association relation classes
+2019-09-09 00:11:34: -D- association: <Element 'association' at 0x2a1c390>
+2019-09-09 00:11:34: -I- 6. IASS relations: []
+2019-09-09 00:11:34: -I- SAGG (Self-Aggregation)
+2019-09-09 00:11:34: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:11:34: -D- aggregation: <Element 'aggregation' at 0x2a233b0>
+2019-09-09 00:11:34: -D- Found SAGG: (Contact)
+2019-09-09 00:11:34: -I- 7. SAGG relations: [('Contact',)]
+2019-09-09 00:11:34: -I- IIAGG (Indirect Inheritance AGGregation)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x2a1ce30>
+2019-09-09 00:11:34: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:11:34: -D- aggregation: <Element 'aggregation' at 0x2a14990>
+2019-09-09 00:11:34: -I- 8. IIAGG relations: []
+2019-09-09 00:11:34: -I- SASS (Self-ASSociation)
+2019-09-09 00:11:34: -I- Step1: Get all Association relation classes
+2019-09-09 00:11:34: -D- association: <Element 'association' at 0x29eb5f0>
+2019-09-09 00:11:34: -D- Found SASS: (Contact)
+2019-09-09 00:11:34: -I- SAGG (Self-Aggregation)
+2019-09-09 00:11:34: -I- Step1: Get all Aggregation relation classes
+2019-09-09 00:11:34: -D- aggregation: <Element 'aggregation' at 0x2a23e70>
+2019-09-09 00:11:34: -D- Found SAGG: (Contact)
+2019-09-09 00:11:34: -I- 9. SASS relations: []
+2019-09-09 00:11:34: -I- ICD (Inheritance Child Dependency)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x29eb310>
+2019-09-09 00:11:34: -I- Step2: Get all Depends relation classes
+2019-09-09 00:11:34: -D- depends: <Element 'depends' at 0x29eb9f0>
+2019-09-09 00:11:34: -D- Found ICD: (Aggregate, ConcreteAggregate, ConcreteIterator)
+2019-09-09 00:11:34: -I- 10. ICD relations: [('Aggregate', 'ConcreteAggregate', 'ConcreteIterator')]
+2019-09-09 00:11:34: -I- DCI (Dependency Child Inheritance)
+2019-09-09 00:11:34: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:34: -D- inheritance: <Element 'inheritance' at 0x2a149f0>
+2019-09-09 00:11:34: -I- Step2: Get all Depends relation classes
+2019-09-09 00:11:34: -D- depends: <Element 'depends' at 0x2a2d870>
+2019-09-09 00:11:34: -D- Found DCI: (Iterator, ConcreteIterator, ConcreteAggregate)
+2019-09-09 00:11:34: -I- 11. DCI relations: [('Iterator', 'ConcreteIterator', 'ConcreteAggregate')]
+2019-09-09 00:11:35: -I- IPAS (Inheritance Parent ASsociation)
+2019-09-09 00:11:35: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:35: -D- inheritance: <Element 'inheritance' at 0x2a2d9d0>
+2019-09-09 00:11:35: -I- Step2: Get all Association relation classes
+2019-09-09 00:11:35: -D- association: <Element 'association' at 0x2a14830>
+2019-09-09 00:11:35: -I- 12. IPAS relations: []
+2019-09-09 00:11:35: -I- AGPI (AGgregation Parent Inherited)
+2019-09-09 00:11:35: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:35: -D- inheritance: <Element 'inheritance' at 0x2a23b70>
+2019-09-09 00:11:35: -I- Step2: Get all Aggregation relation classes
+2019-09-09 00:11:35: -D- aggregation: <Element 'aggregation' at 0x29ebf70>
+2019-09-09 00:11:35: -I- 13. AGPI relations: []
+2019-09-09 00:11:35: -I- IPD (Inheritance Parent Dependency)
+2019-09-09 00:11:35: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:35: -D- inheritance: <Element 'inheritance' at 0x2a23a70>
+2019-09-09 00:11:35: -I- Step2: Get all Depends relation classes
+2019-09-09 00:11:35: -D- depends: <Element 'depends' at 0x29eb5b0>
+2019-09-09 00:11:35: -I- 14. IPD relations: []
+2019-09-09 00:11:35: -I- DPI (Dependency Parent Inherited)
+2019-09-09 00:11:35: -I- Step1: Get all parent and child classes
+2019-09-09 00:11:35: -D- inheritance: <Element 'inheritance' at 0x2a14b90>
+2019-09-09 00:11:35: -I- Step2: Get all Depends relation classes
+2019-09-09 00:11:35: -D- depends: <Element 'depends' at 0x2a1ce30>
+2019-09-09 00:11:35: -I- 15. DPI relations: []
+2019-09-09 00:11:35: -I- Checking for Singleton Design Pattern
+2019-09-09 00:11:35: -I- Singleton can be founded by combination of SASS
+2019-09-09 00:11:35: -W- Couldn't find any Singleton pattern in the code
+2019-09-09 00:11:35: -I- Checking for Composite Design Pattern
+2019-09-09 00:11:35: -I- Composite can be founded by combination of SAGG, CI & IAGG, CI & IIAGG
+2019-09-09 00:11:35: -D- Step1: checking for SAGG
+2019-09-09 00:11:35: -D- Composite DP in: {'SAGG': ('Contact',)}
+2019-09-09 00:11:35: -D- Step2: checking for CI & IAGG
+2019-09-09 00:11:35: -D- Step3: checking for CI & IIAGG
+2019-09-09 00:11:35: -I- Composite design pattern has been detected: [{'SAGG': ('Contact',)}]
+2019-09-09 00:11:35: -I- Checking for Template Design Pattern
+2019-09-09 00:11:35: -I- Template can be founded by combination of CI relation
+2019-09-09 00:11:35: -W- Couldn't find any Template pattern in the code
+2019-09-09 00:11:35: -I- Checking for Abstract Factory Design Pattern
+2019-09-09 00:11:35: -I- Abstract Factory can be founded by combination of DCI & IDC & CI
+2019-09-09 00:11:35: -W- Couldn't find any Abstract Factory pattern in the code
+2019-09-09 00:11:35: -I- Checking for Adapter Design Pattern
+2019-09-09 00:11:35: -I- Adapter can be founded by combination of ICA relation and a non-existance of CI relation
+2019-09-09 00:11:35: -D- Adapter DP in: ('Iterator', 'ConcreteIterator', 'MainActivity')
+2019-09-09 00:11:35: -D- Adapter DP in: ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')
+2019-09-09 00:11:35: -D- Adapter DP in: ('Aggregate', 'ConcreteAggregate', 'MainActivity')
+2019-09-09 00:11:35: -I- Adapter design pattern has been detected: [{'ICA': ('Iterator', 'ConcreteIterator', 'MainActivity')}, {'ICA': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')}, {'ICA': ('Aggregate', 'ConcreteAggregate', 'MainActivity')}]
+2019-09-09 00:11:35: -I- Checking for Bridge Design Pattern
+2019-09-09 00:11:35: -I- Bridge can be founded by combination of IPAG and CI
+2019-09-09 00:11:35: -W- Couldn't find any bridge pattern in the code
+2019-09-09 00:11:35: -I- Checking for Builder Design Pattern
+2019-09-09 00:11:35: -I- Builder can be founded by combination of IDA & AGPI
+2019-09-09 00:11:35: -W- Couldn't find any Builder pattern in the code
+2019-09-09 00:11:35: -I- Checking for Chain of Responsibility Design Pattern
+2019-09-09 00:11:35: -I- Chain of Responsibility can be founded by combination of SASS & CI
+2019-09-09 00:11:35: -W- Couldn't find any Chain of Responsibility pattern in the code
+2019-09-09 00:11:35: -I- Checking for Command Design Pattern
+2019-09-09 00:11:35: -I- Command can be founded by combination of ICA & AGPI
+2019-09-09 00:11:35: -W- Couldn't find any Command pattern in the code
+2019-09-09 00:11:35: -I- Checking for Decorator Design Pattern
+2019-09-09 00:11:35: -I- Decorator can be founded by combination of CI & IAGG & MLI
+2019-09-09 00:11:35: -W- Couldn't find any decorator pattern in the code
+2019-09-09 00:11:35: -I- Checking for Facad Design Pattern
+2019-09-09 00:11:35: -I- Facad can be founded by combination of triple ICD
+2019-09-09 00:11:35: -W- Couldn't find any Facad pattern in the code
+2019-09-09 00:11:35: -I- Checking for Factory Design Pattern
+2019-09-09 00:11:35: -I- Factory can be founded by combination of ICD & DCI
+2019-09-09 00:11:35: -D- Factory DP in: {'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator')}
+2019-09-09 00:11:35: -I- Factory design pattern has been detected: [{'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator')}]
+2019-09-09 00:11:35: -I- Checking for Flyweight Design Pattern
+2019-09-09 00:11:35: -I- Flyweight can be founded by combination of CI & AGPI
+2019-09-09 00:11:35: -W- Couldn't find any flyweight pattern in the code
+2019-09-09 00:11:35: -I- Checking for Interpreter Design Pattern
+2019-09-09 00:11:35: -I- Interpreter can be founded by combination of IAGG & CI & IPD
+2019-09-09 00:11:35: -W- Couldn't find any Interpreter pattern in the code
+2019-09-09 00:11:35: -I- Checking for Iterator Design Pattern
+2019-09-09 00:11:35: -I- Iterator can be founded by combination of ICD & DCI & ICA
+2019-09-09 00:11:35: -D- Iterator DP in: {'ICA': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator'), 'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')}
+2019-09-09 00:11:35: -I- Iterator design pattern has been detected: [{'ICA': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator'), 'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')}]
+2019-09-09 00:11:35: -I- Checking for Mediator Design Pattern
+2019-09-09 00:11:35: -I- Mediator can be founded by combination of CI & IPAS & ICA
+2019-09-09 00:11:35: -W- Couldn't find any Mediator pattern in the code
+2019-09-09 00:11:35: -I- Checking for Memento Design Pattern
+2019-09-09 00:11:35: -I- Memento can be founded by combination of AGPI & DPI
+2019-09-09 00:11:35: -W- Couldn't find any Memento pattern in the code
+2019-09-09 00:11:35: -I- Checking for Observer Design Pattern
+2019-09-09 00:11:35: -I- Observer can be founded by combination of AGPI & ICD
+2019-09-09 00:11:35: -W- Couldn't find any Observer pattern in the code
+2019-09-09 00:11:35: -I- Checking for Prototype Design Pattern
+2019-09-09 00:11:35: -I- Prototype can be founded by combination of CI & AGPI
+2019-09-09 00:11:35: -W- Couldn't find any Prototype pattern in the code
+2019-09-09 00:11:35: -I- Checking for Proxy Design Pattern
+2019-09-09 00:11:35: -I- Proxy can be founded by combination of ICA & CI, CI & IASS
+2019-09-09 00:11:35: -W- Couldn't find any proxy pattern in the code
+2019-09-09 00:11:35: -I- Checking for State Design Pattern
+2019-09-09 00:11:35: -I- State can be founded by combination of AGPI & CI
+2019-09-09 00:11:35: -W- Couldn't find any State pattern in the code
+2019-09-09 00:11:35: -I- Checking for Strategy Design Pattern
+2019-09-09 00:11:35: -I- Strategy can be founded by combination of AGPI & CI
+2019-09-09 00:11:35: -W- Couldn't find any Strategy pattern in the code
+2019-09-09 00:11:36: -I- Checking for Visitor Design Pattern
+2019-09-09 00:11:36: -I- Visitor can be founded by combination of AGPI & ICD & DPI
+2019-09-09 00:11:36: -W- Couldn't find any Visitor pattern in the code
+2019-09-09 00:11:36: -I- Design Pattern [iterator] is found in: [{'ICA': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator'), 'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')}]
+2019-09-09 00:11:36: -I- Design Pattern [factory] is found in: [{'DCI': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate'), 'ICD': ('Aggregate', 'ConcreteAggregate', 'ConcreteIterator')}]
+2019-09-09 00:11:36: -I- Design Pattern [composite] is found in: [{'SAGG': ('Contact',)}]
+2019-09-09 00:11:36: -I- Design Pattern [adapter] is found in: [{'ICA': ('Iterator', 'ConcreteIterator', 'MainActivity')}, {'ICA': ('Iterator', 'ConcreteIterator', 'ConcreteAggregate')}, {'ICA': ('Aggregate', 'ConcreteAggregate', 'MainActivity')}]
