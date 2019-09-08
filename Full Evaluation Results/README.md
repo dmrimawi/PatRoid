@@ -1,10 +1,8 @@
-# PatRoid
+# Full Evaluation Results
 
 __authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
 
 __email__ : dmrimawi@gmail.com, szain@birzeit.edu
-
-__title__ : Full evaluation results
 
 
 ## Desc
