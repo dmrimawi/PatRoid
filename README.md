@@ -4,7 +4,7 @@ __Authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
 
 __Email__ : dmrimawi@gmail.com, szain@birzeit.edu
 
-__Title__ : A Model Based Approach for And__roid__ Design __Pat__terns Detection (PatRoid)
+__Title__ : A Model Based Approach for Android Design Patterns Detection (PatRoid)
 
 __Status__ : Prove of Concept
 
