@@ -9,7 +9,7 @@
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 
 #############
 # CONSTANTS #
@@ -37,7 +37,7 @@ class CommonMethods(object):
             file = open(file_path, "r")
             data = file.read()
         except Exception as exp:
-            raise ADPDException(exp)
+            raise PatRoidException(exp)
         finally:
             file.close()
         return data

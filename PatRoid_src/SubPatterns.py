@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 from Logger import Logger
 logger = Logger()
 
@@ -371,6 +371,8 @@ class SubPatterns(object):
                     list_of_sass_relation.append(sass_tuple)
                     logger.debug("Found SASS: (%s)" % (sass_tuple[0]))
         list_of_sass_relation = list(dict.fromkeys(list_of_sass_relation))
+        if len(list_of_sass_relation) == 0:
+            return list_of_sass_relation
         index = 0
         while True:
             if list_of_sass_relation[index] in self.SAGG():

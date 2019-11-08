@@ -15,12 +15,13 @@
 import sys
 import argparse
 import traceback
+import os
 
 #################
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 from GetManiAndJava import GetManiAndJava
 from ManifestParser import ManifestParser
 from JavaFilesInfo import JavaFilesInfo
@@ -61,10 +62,14 @@ def add_args():
     module_name = parser.add_argument_group("Name and location of the relationships module")
     project_location.add_argument("-p", "--path", dest="project_path", help="A path to the input project to extract "
                                                                             "design patterns from", default=None)
+    project_location.add_argument("-d", "--dir", dest="projects_dir", help="A directory the contains one or more "
+                                                                           "Android App", default=None)
     module_name.add_argument("-m", "--module-file-name", dest="module_file_name", help="XML file to save the "
                                                                                        "relationships in and/or read "
-                                                                                       "them from", default=None)
-    debug.add_argument("-d", "--debug-mode", dest="debug_mode", help="Print traceback", default=False,
+                                                                                       "them from. "
+                                                                                       "Run with --path, "
+                                                                                       "or as input.", default=None)
+    debug.add_argument("--debug-mode", dest="debug_mode", help="Print traceback", default=False,
                        action='store_true')
     return parser
 
@@ -75,11 +80,13 @@ def parse_ags():
     :return: raise an exception if there is a missing argument, and parseargs object otherwise
     """
     args = add_args().parse_args()
-    if args.project_path is None and args.module_file_name is None:
-        raise ADPDException("Both project path and module file are missing, please provide one or both to continue.")
-    elif args.module_file_name is None:
-        logger.warning("Module file name is missing, will use default name instead: %s"% DEFAULT_MODULE_NAME)
+    if args.projects_dir is None and args.project_path is None and args.module_file_name is None:
+        raise PatRoidException("Input is missing, please use [--path | --dir | --module-file-name]")
+    elif args.module_file_name is None and args.project_path is not None:
+        logger.warning("Module file name is missing, will save module in: %s" % DEFAULT_MODULE_NAME)
         args.module_file_name = DEFAULT_MODULE_NAME
+    else:
+        logger.warning("You will find the module file inside the src dir, each holding the Android App name")
     return args
 
 ################
@@ -118,10 +125,10 @@ class Driver(object):
         get_mani_and_java = GetManiAndJava(args.project_path)
         java_files = get_mani_and_java.get_all_java_files()
         if len(java_files) == 0:
-            raise ADPDException("Project doesn't contain any java files")
+            raise PatRoidException("Project doesn't contain any java files")
         manifest_file = get_mani_and_java.get_project_manifest()
         if manifest_file is None:
-            raise ADPDException("Project doesn't contain a Manifest file")
+            raise PatRoidException("Project doesn't contain a Manifest file")
         logger.info("Manifest file is: \n%s" % manifest_file)
         parse_manifest = ManifestParser(manifest_file)
         manifest_info = parse_manifest.get_activities_classes_dict(java_files)
@@ -144,7 +151,7 @@ class Driver(object):
         logger.info("Done")
         return rc
 
-    def set_definitions(self):
+    def set_definitions(self, args):
         """
         This method set all 15 definitions
         :return: it sets values as class parameters
@@ -231,6 +238,43 @@ class Driver(object):
             if len(dp_info):
                 logger.info("Design Pattern [%s] is found in: %s" % (dp_name, dp_info))
 
+    def __call_def_db_detect(self, args):
+        """
+        This is a helper method just to call repeatedly called code
+        :param args: Script args
+        :return: detected_design_patterns
+        """
+        self.set_definitions(args)
+        detected_design_patterns = self.detect_design_patterns()
+        self.print_dp_final_dict(detected_design_patterns)
+        return detected_design_patterns
+
+    def build_module_dir_flow(self, args):
+        """
+        This method go over all the Android Apps and
+        :param args: Scrip args
+        :return: dictionary with all apps and their db dict
+        """
+        rc = 0
+        general_dict = dict()
+        directory = args.projects_dir
+        all_android_repos = os.listdir(directory)
+        for android_app in all_android_repos:
+            logger.info("Searching for DPs in: %s" % android_app)
+            args.module_file_name = os.path.join(directory, "%s.xml" % android_app)
+            args.project_path = os.path.join(directory, android_app)
+            if not os.path.isdir(args.project_path):
+                continue
+            try:
+                rc = self.build_module_file_flow(args) or rc
+                general_dict[android_app] = self.__call_def_db_detect(args)
+            except PatRoidException as exp:
+                logger.warning("Android App [%s] has an issue that indicate that no DPs were used: %s" %
+                               (android_app, exp))
+                general_dict[android_app] = dict()
+        logger.info("Found the following DPs: \n%s" % general_dict)
+        return rc
+
     def main(self, args):
         """
         Main method to manage the project
@@ -239,10 +283,12 @@ class Driver(object):
         """
         rc = 0
         if args.project_path:
-            rc = Driver.build_module_file_flow(args) or rc
-        self.set_definitions()
-        detected_design_patterns = self.detect_design_patterns()
-        self.print_dp_final_dict(detected_design_patterns)
+            rc = self.build_module_file_flow(args) or rc
+            _ = self.__call_def_db_detect(args)
+        elif args.projects_dir:
+            rc = self.build_module_dir_flow(args) or rc
+        else:
+            _ = self.__call_def_db_detect(args)
         return rc
 
 

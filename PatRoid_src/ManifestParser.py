@@ -45,7 +45,8 @@ class ManifestParser(object):
         if root_node is None:
             root = self.get_xml_root()
             root_node = root.find('application')
-        nodes = root_node.findall(node_name)
+        if root_node is not None:
+            nodes = root_node.findall(node_name)
         return nodes
 
     def get_category_value(self, categories_nodes):
