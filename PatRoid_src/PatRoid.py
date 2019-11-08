@@ -29,6 +29,7 @@ from CreateRelationsModule import CreateRelationsModule
 from SubPatterns import SubPatterns
 from DetectDP import DetectDP
 from Logger import Logger
+
 logger = Logger()
 
 #############
@@ -37,7 +38,7 @@ logger = Logger()
 
 __author__ = "Diaeddin M. Rimawi"
 __copyright__ = "Copyright 2019, A Model-Based Approach for Design Patterns Detection in Android Apps"
-__credits__ = ["Dr. Samer Al-Zain"]
+__credits__ = ["Dr. Samer Zein"]
 __license__ = "GPL"
 __version__ = "1.0.0-1"
 __maintainer__ = "Diaeddin M. Rimawi"
@@ -45,6 +46,7 @@ __email__ = "dmrimawi@gmail.com"
 __status__ = "Prototype"
 
 DEFAULT_MODULE_NAME = "output_module.xml"
+
 
 ##################
 # Global methods #
@@ -89,6 +91,7 @@ def parse_ags():
         logger.warning("You will find the module file inside the src dir, each holding the Android App name")
     return args
 
+
 ################
 # Driver Class #
 ################
@@ -98,26 +101,12 @@ class Driver(object):
     """
     This class is a navigator to run the project
     """
+
     def __init__(self):
         """
         Set global attributes
         """
-        self.sagg_relations = None
-        self.iagg_relations = None
-        self.ci_relations = None
-        self.ica_relations = None
-        self.agpi_relations = None
-        self.dci_relations = None
-        self.dpi_relations = None
-        self.iass_relations = None
-        self.icd_relations = None
-        self.iiagg_relations = None
-        self.ipag_relations = None
-        self.ipas_relations = None
-        self.ipd_relations = None
-        self.mli_relations = None
-        self.sass_relations = None
-
+        self.sub_patterns_dict = None
 
     @staticmethod
     def build_module_file_flow(args):
@@ -157,36 +146,23 @@ class Driver(object):
         :return: it sets values as class parameters
         """
         sub_patterns = SubPatterns(args.module_file_name)
-        self.ica_relations = sub_patterns.ICA()
-        logger.info("1. ICA relations: %s" % self.ica_relations)
-        self.ci_relations = sub_patterns.CI()
-        logger.info("2. CI relations: %s" % self.ci_relations)
-        self.iagg_relations = sub_patterns.IAGG()
-        logger.info("3. IAGG relations: %s" % self.iagg_relations)
-        self.ipag_relations = sub_patterns.IPAG()
-        logger.info("4. IPAG relations: %s" % self.ipag_relations)
-        self.mli_relations = sub_patterns.MLI()
-        logger.info("5. MLI relations: %s" % self.mli_relations)
-        self.iass_relations = sub_patterns.IASS()
-        logger.info("6. IASS relations: %s" % self.iass_relations)
-        self.sagg_relations = sub_patterns.SAGG()
-        logger.info("7. SAGG relations: %s" % self.sagg_relations)
-        self.iiagg_relations = sub_patterns.IIAGG()
-        logger.info("8. IIAGG relations: %s" % self.iiagg_relations)
-        self.sass_relations = sub_patterns.SASS()
-        logger.info("9. SASS relations: %s" % self.sass_relations)
-        self.icd_relations = sub_patterns.ICD()
-        logger.info("10. ICD relations: %s" % self.icd_relations)
-        self.dci_relations = sub_patterns.DCI()
-        logger.info("11. DCI relations: %s" % self.dci_relations)
-        self.ipas_relations = sub_patterns.IPAS()
-        logger.info("12. IPAS relations: %s" % self.ipas_relations)
-        self.agpi_relations = sub_patterns.AGPI()
-        logger.info("13. AGPI relations: %s" % self.agpi_relations)
-        self.ipd_relations = sub_patterns.IPD()
-        logger.info("14. IPD relations: %s" % self.ipd_relations)
-        self.dpi_relations = sub_patterns.DPI()
-        logger.info("15. DPI relations: %s" % self.dpi_relations)
+        self.sub_patterns_dict = dict()
+        self.sub_patterns_dict["ICA"] = sub_patterns.ICA()
+        self.sub_patterns_dict["CI"] = sub_patterns.CI()
+        self.sub_patterns_dict["IAGG"] = sub_patterns.IAGG()
+        self.sub_patterns_dict["IPAG"] = sub_patterns.IPAG()
+        self.sub_patterns_dict["MLI"] = sub_patterns.MLI()
+        self.sub_patterns_dict["IASS"] = sub_patterns.IASS()
+        self.sub_patterns_dict["SAGG"] = sub_patterns.SAGG()
+        self.sub_patterns_dict["IIAGG"] = sub_patterns.IIAGG()
+        self.sub_patterns_dict["SASS"] = sub_patterns.SASS()
+        self.sub_patterns_dict["ICD"] = sub_patterns.ICD()
+        self.sub_patterns_dict["DCI"] = sub_patterns.DCI()
+        self.sub_patterns_dict["IPAS"] = sub_patterns.IPAS()
+        self.sub_patterns_dict["AGPI"] = sub_patterns.AGPI()
+        self.sub_patterns_dict["IPD"] = sub_patterns.IPD()
+        self.sub_patterns_dict["DPI"] = sub_patterns.DPI()
+        logger.debug("For module [%s], sub-patterns are: %s" % (args.module_file_name, self.sub_patterns_dict))
 
     def detect_design_patterns(self):
         """
@@ -195,37 +171,58 @@ class Driver(object):
         """
         detected_design_patterns = dict()
         detect_dp = DetectDP()
-        detected_design_patterns["singleton"] = detect_dp.detect_singleton(self.sass_relations)
-        detected_design_patterns["composite"] = detect_dp.detect_composite(self.sagg_relations, self.ci_relations,
-                                                                  self.iiagg_relations, self.iagg_relations)
-        detected_design_patterns["template"] = detect_dp.detect_template(self.ci_relations)
-        detected_design_patterns["abstract_factory"] = detect_dp.detect_abstract_factory(self.dci_relations, self.icd_relations,
-                                                                         self.ci_relations)
-        detected_design_patterns["adapter"] = detect_dp.detect_adapter(self.ci_relations, self.ica_relations)
-        detected_design_patterns["bridge"] = detect_dp.detect_bridge(self.ipag_relations, self.ci_relations)
-        detected_design_patterns["builder"] = detect_dp.detect_builder(self.ica_relations, self.agpi_relations)
-        detected_design_patterns["chain_of_responsibility"] = detect_dp.detect_chain_of_responsibility(self.sass_relations, self.ci_relations)
-        detected_design_patterns["command"] = detect_dp.detect_command(self.agpi_relations, self.ica_relations)
-        detected_design_patterns["decorator"] = detect_dp.detect_decorator(self.ci_relations, self.iagg_relations,
-                                                                  self.mli_relations)
-        detected_design_patterns["facad"] = detect_dp.detect_facad(self.icd_relations)
-        detected_design_patterns["factory"] = detect_dp.detect_factory(self.icd_relations, self.dci_relations)
-        detected_design_patterns["flyweight"] = detect_dp.detect_flyweight(self.ci_relations, self.agpi_relations)
-        detected_design_patterns["interpreter"] = detect_dp.detect_interpreter(self.iagg_relations, self.ipd_relations,
-                                                                    self.ci_relations)
-        detected_design_patterns["iterator"] = detect_dp.detect_iterator(self.dci_relations, self.ica_relations,
-                                                                 self.icd_relations)
-        detected_design_patterns["mediator"] = detect_dp.detect_mediator(self.ica_relations, self.ci_relations,
-                                                                 self.ipas_relations)
-        detected_design_patterns["memento"] = detect_dp.detect_memento(self.agpi_relations, self.dpi_relations)
-        detected_design_patterns["observer"] = detect_dp.detect_observer(self.agpi_relations, self.icd_relations)
-        detected_design_patterns["prototype"] = detect_dp.detect_prototype(self.ci_relations, self.agpi_relations)
-        detected_design_patterns["proxy"] = detect_dp.detect_proxy(self.ci_relations, self.ica_relations,
-                                                              self.iass_relations)
-        detected_design_patterns["state"] = detect_dp.detect_state(self.agpi_relations, self.ci_relations)
-        detected_design_patterns["strategy"] = detect_dp.detect_strategy(self.agpi_relations, self.ci_relations)
-        detected_design_patterns["visitor"] = detect_dp.detect_visitor(self.agpi_relations, self.icd_relations,
-                                                                self.dpi_relations)
+        detected_design_patterns["singleton"] = detect_dp.detect_singleton(self.sub_patterns_dict["SASS"])
+        detected_design_patterns["composite"] = detect_dp.detect_composite(self.sub_patterns_dict["SAGG"],
+                                                                           self.sub_patterns_dict["CI"],
+                                                                           self.sub_patterns_dict["IIAGG"],
+                                                                           self.sub_patterns_dict["IAGG"])
+        detected_design_patterns["template"] = detect_dp.detect_template(self.sub_patterns_dict["CI"])
+        detected_design_patterns["abstract_factory"] = detect_dp.detect_abstract_factory(self.sub_patterns_dict["DCI"],
+                                                                                         self.sub_patterns_dict["ICD"],
+                                                                                         self.sub_patterns_dict["CI"])
+        detected_design_patterns["adapter"] = detect_dp.detect_adapter(self.sub_patterns_dict["CI"],
+                                                                       self.sub_patterns_dict["ICA"])
+        detected_design_patterns["bridge"] = detect_dp.detect_bridge(self.sub_patterns_dict["IPAG"],
+                                                                     self.sub_patterns_dict["CI"])
+        detected_design_patterns["builder"] = detect_dp.detect_builder(self.sub_patterns_dict["ICA"],
+                                                                       self.sub_patterns_dict["AGPI"])
+        detected_design_patterns["chain_of_responsibility"] = detect_dp.detect_chain_of_responsibility(
+            self.sub_patterns_dict["SASS"], self.sub_patterns_dict["CI"])
+        detected_design_patterns["command"] = detect_dp.detect_command(self.sub_patterns_dict["AGPI"],
+                                                                       self.sub_patterns_dict["ICA"])
+        detected_design_patterns["decorator"] = detect_dp.detect_decorator(self.sub_patterns_dict["CI"],
+                                                                           self.sub_patterns_dict["IAGG"],
+                                                                           self.sub_patterns_dict["MLI"])
+        detected_design_patterns["facad"] = detect_dp.detect_facad(self.sub_patterns_dict["ICD"])
+        detected_design_patterns["factory"] = detect_dp.detect_factory(self.sub_patterns_dict["ICD"],
+                                                                       self.sub_patterns_dict["DCI"])
+        detected_design_patterns["flyweight"] = detect_dp.detect_flyweight(self.sub_patterns_dict["CI"],
+                                                                           self.sub_patterns_dict["AGPI"])
+        detected_design_patterns["interpreter"] = detect_dp.detect_interpreter(self.sub_patterns_dict["IAGG"],
+                                                                               self.sub_patterns_dict["IPD"],
+                                                                               self.sub_patterns_dict["CI"])
+        detected_design_patterns["iterator"] = detect_dp.detect_iterator(self.sub_patterns_dict["DCI"],
+                                                                         self.sub_patterns_dict["ICA"],
+                                                                         self.sub_patterns_dict["ICD"])
+        detected_design_patterns["mediator"] = detect_dp.detect_mediator(self.sub_patterns_dict["ICA"],
+                                                                         self.sub_patterns_dict["CI"],
+                                                                         self.sub_patterns_dict["IPAS"])
+        detected_design_patterns["memento"] = detect_dp.detect_memento(self.sub_patterns_dict["AGPI"],
+                                                                       self.sub_patterns_dict["DPI"])
+        detected_design_patterns["observer"] = detect_dp.detect_observer(self.sub_patterns_dict["AGPI"],
+                                                                         self.sub_patterns_dict["ICD"])
+        detected_design_patterns["prototype"] = detect_dp.detect_prototype(self.sub_patterns_dict["CI"],
+                                                                           self.sub_patterns_dict["AGPI"])
+        detected_design_patterns["proxy"] = detect_dp.detect_proxy(self.sub_patterns_dict["CI"],
+                                                                   self.sub_patterns_dict["ICA"],
+                                                                   self.sub_patterns_dict["IASS"])
+        detected_design_patterns["state"] = detect_dp.detect_state(self.sub_patterns_dict["AGPI"],
+                                                                   self.sub_patterns_dict["CI"])
+        detected_design_patterns["strategy"] = detect_dp.detect_strategy(self.sub_patterns_dict["AGPI"],
+                                                                         self.sub_patterns_dict["CI"])
+        detected_design_patterns["visitor"] = detect_dp.detect_visitor(self.sub_patterns_dict["AGPI"],
+                                                                       self.sub_patterns_dict["ICD"],
+                                                                       self.sub_patterns_dict["DPI"])
         return detected_design_patterns
 
     def print_dp_final_dict(self, detected_design_patterns):
@@ -247,6 +244,7 @@ class Driver(object):
         self.set_definitions(args)
         detected_design_patterns = self.detect_design_patterns()
         self.print_dp_final_dict(detected_design_patterns)
+        detected_design_patterns["SUBPATTERNS"] = self.sub_patterns_dict
         return detected_design_patterns
 
     def build_module_dir_flow(self, args):
