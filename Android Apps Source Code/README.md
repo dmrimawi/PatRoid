@@ -1,4 +1,5 @@
-# Full Evaluation Results
+# More than 1400 open-source Android apps repositories
+
 
 __authors__ : Diaeddin M. Rimawi, Dr. Samer Zein
 
