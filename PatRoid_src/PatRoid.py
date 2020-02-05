@@ -46,6 +46,7 @@ __email__ = "dmrimawi@gmail.com"
 __status__ = "Prototype"
 
 DEFAULT_MODULE_NAME = "output_module.xml"
+IGNORED_ANDROID_APPS = []
 
 
 ##################
@@ -254,23 +255,34 @@ class Driver(object):
         :return: dictionary with all apps and their db dict
         """
         rc = 0
-        general_dict = dict()
         directory = args.projects_dir
         all_android_repos = os.listdir(directory)
+        general_dict = dict()
         for android_app in all_android_repos:
-            logger.info("Searching for DPs in: %s" % android_app)
-            args.module_file_name = os.path.join(directory, "%s.xml" % android_app)
-            args.project_path = os.path.join(directory, android_app)
-            if not os.path.isdir(args.project_path):
+            if os.path.isfile(os.path.join(directory, android_app)):
                 continue
-            try:
-                rc = self.build_module_file_flow(args) or rc
-                general_dict[android_app] = self.__call_def_db_detect(args)
-            except PatRoidException as exp:
-                logger.warning("Android App [%s] has an issue that indicate that no DPs were used: %s" %
-                               (android_app, exp))
+            if android_app in IGNORED_ANDROID_APPS:
                 general_dict[android_app] = dict()
-        logger.info("Found the following DPs: \n%s" % general_dict)
+            else:
+                logger.info("Searching for DPs in: %s" % android_app)
+                args.module_file_name = os.path.join(directory, "%s.xml" % android_app)
+                args.project_path = os.path.join(directory, android_app)
+                if not os.path.isdir(args.project_path):
+                    general_dict[android_app] = dict()
+                else:
+                    try:
+                        if not os.path.exists(args.module_file_name):
+                            rc = self.build_module_file_flow(args) or rc
+                        else:
+                            logger.warning(
+                                "Module file [%s] already exists, will use instead of generating new one" % args.module_file_name)
+                        general_dict[android_app] = self.__call_def_db_detect(args)
+                    except Exception as exp:
+                        logger.warning("Android App [%s] has an issue that indicate that no DPs were used: %s" %
+                                       (android_app, exp))
+                        general_dict[android_app] = dict()
+                logger.debug("General dictionary: %s" % general_dict)
+        logger.json_logger(general_dict)
         return rc
 
     def main(self, args):
