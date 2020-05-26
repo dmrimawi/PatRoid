@@ -4,12 +4,14 @@
 # Python Imports #
 ##################
 
+import os
+
 
 #################
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 
 #############
 # CONSTANTS #
@@ -33,11 +35,15 @@ class CommonMethods(object):
         :param file_path: the file to read
         :return: content
         """
+        data = ""
+        file = None
         try:
-            file = open(file_path, "r")
-            data = file.read()
+            if os.path.isfile(file_path):
+                file = open(file_path, "r")
+                data = file.read()
         except Exception as exp:
-            raise ADPDException(exp)
+            raise PatRoidException(exp)
         finally:
-            file.close()
+            if file:
+                file.close()
         return data

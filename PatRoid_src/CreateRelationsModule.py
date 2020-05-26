@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 
 
 class CreateRelationsModule(object):

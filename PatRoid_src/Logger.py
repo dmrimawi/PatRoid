@@ -11,7 +11,7 @@ import datetime
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 
 #############
 # CONSTANTS #
@@ -45,7 +45,7 @@ class Logger(object):
             file.write("\n")
             file.close()
         except Exception as exp:
-            raise ADPDException(exp)
+            raise PatRoidException(exp)
 
     def info(self, text):
         """
@@ -88,3 +88,13 @@ class Logger(object):
         text = "-E- %s" % text
         print(text)
         self.append_to_file(text)
+
+    def json_logger(self, json_dict):
+        """
+        Write provided dictionary to Json File
+        :param json_dict: dictionary
+        :return: nothing
+        """
+        import json
+        with open("PatRoid.json", "w") as json_file:
+            json.dumps(json_dict, json_file, indent=4)

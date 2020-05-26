@@ -10,7 +10,7 @@ import re
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 from regex_handler import RegexHandler
 
 #############

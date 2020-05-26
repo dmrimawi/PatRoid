@@ -45,7 +45,8 @@ class ManifestParser(object):
         if root_node is None:
             root = self.get_xml_root()
             root_node = root.find('application')
-        nodes = root_node.findall(node_name)
+        if root_node is not None:
+            nodes = root_node.findall(node_name)
         return nodes
 
     def get_category_value(self, categories_nodes):
@@ -106,15 +107,16 @@ class ManifestParser(object):
             if file.endswith("%s.java" % activity_name):
                 activity_file = file
                 break
-        class_content = CommonMethods.read_file(activity_file)
-        classes_in_activity = [class_name for class_name in classes if class_name in class_content]
-        for class_name in classes_in_activity:
-            if class_name not in related_classes:
-                related_classes.extend(self.get_classes_related_to_activity(activity_name=class_name,
-                                                                            java_files=java_files, classes=classes,
-                                                                            related_classes=classes_in_activity))
-        related_classes.extend(classes_in_activity)
-        related_classes = list(dict.fromkeys(related_classes))
+        if activity_file:
+            class_content = CommonMethods.read_file(activity_file)
+            classes_in_activity = [class_name for class_name in classes if class_name in class_content]
+            for class_name in classes_in_activity:
+                if class_name not in related_classes:
+                    related_classes.extend(self.get_classes_related_to_activity(activity_name=class_name,
+                                                                                java_files=java_files, classes=classes,
+                                                                                related_classes=classes_in_activity))
+            related_classes.extend(classes_in_activity)
+            related_classes = list(dict.fromkeys(related_classes))
         return related_classes
 
     def get_activities_classes_dict(self, java_files):

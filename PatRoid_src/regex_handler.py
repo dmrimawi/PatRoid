@@ -10,7 +10,7 @@ import re
 # Local Imports #
 #################
 
-from ADPDException import ADPDException
+from PatRoidException import PatRoidException
 from Common import CommonMethods
 
 #############
@@ -50,7 +50,7 @@ class RegexHandler(object):
         if not search_in and file_path:
             search_in = CommonMethods.read_file(file_path=file_path)
         if not search_in:
-            raise ADPDException("To apply a regex you have to provide either a file or a string")
+            raise PatRoidException("To apply a regex you have to provide either a file or a string")
         return search_in
 
     def apply_regex(self, search_in_text, regex_ptrn, flags=re.DOTALL):
@@ -64,7 +64,7 @@ class RegexHandler(object):
         try:
             result = re.findall(regex_ptrn, search_in_text, flags)
         except Exception as exp:
-            raise ADPDException(exp)
+            raise PatRoidException(exp)
         return result
 
     def apply_methods_regex(self, file_path=None, string=None):
@@ -77,7 +77,7 @@ class RegexHandler(object):
         search_in_text = self.get_search_in_text(file_path=file_path, string=string)
         result = self.apply_regex(search_in_text=search_in_text, regex_ptrn=METHODS_REGEX)
         if result is None:
-            raise ADPDException("Couldn't apply the method pattern, nothing was found")
+            raise PatRoidException("Couldn't apply the method pattern, nothing was found")
         return result
 
     def apply_object_definition_regex(self, file_path=None, string=None):
@@ -90,7 +90,7 @@ class RegexHandler(object):
         search_in_text = self.get_search_in_text(file_path=file_path, string=string)
         result = self.apply_regex(search_in_text=search_in_text, regex_ptrn=OBJECTS_DEFINITION_REGEX)
         if result is None:
-            raise ADPDException("Couldn't apply the object definition pattern, nothing was found")
+            raise PatRoidException("Couldn't apply the object definition pattern, nothing was found")
         return result
 
     def apply_class_name_and_parent_regex(self, file_path=None, string=None):
@@ -103,7 +103,7 @@ class RegexHandler(object):
         search_in_text = self.get_search_in_text(file_path=file_path, string=string)
         result = self.apply_regex(search_in_text=search_in_text, regex_ptrn=CLASS_NAME_AND_PARENT_REGEX)
         if result is None:
-            raise ADPDException("Couldn't apply the class name and parent pattern, nothing was found")
+            raise PatRoidException("Couldn't apply the class name and parent pattern, nothing was found")
         return result
 
     def apply_static_method_call_regex(self, file_path=None, string=None):
@@ -116,7 +116,7 @@ class RegexHandler(object):
         search_in_text = self.get_search_in_text(file_path=file_path, string=string)
         result = self.apply_regex(search_in_text=search_in_text, regex_ptrn=STATIC_METHOD_CALL_REGEX)
         if result is None:
-            raise ADPDException("Couldn't apply the class name and parent pattern, nothing was found")
+            raise PatRoidException("Couldn't apply the class name and parent pattern, nothing was found")
         return result
 
     def apply_class_name_from_path_regex(self, file_path=None, string=None):
@@ -129,5 +129,5 @@ class RegexHandler(object):
         search_in_text = self.get_search_in_text(file_path=file_path, string=string)
         result = self.apply_regex(search_in_text=search_in_text, regex_ptrn=CLASS_NAME_FROM_PATH)
         if result is None:
-            raise ADPDException("Couldn't apply the class name and parent pattern, nothing was found")
+            raise PatRoidException("Couldn't apply the class name and parent pattern, nothing was found")
         return result

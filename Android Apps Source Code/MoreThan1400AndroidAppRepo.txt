@@ -1,0 +1,1469 @@
+https://github.com/caarmen/nounours-android.git#Nounours and friends#Personalization#Nounours the teddy bear and friends
+https://bitbucket.org/oF2pks/fdroid-applications-info.git#apps_Packages Info#Health & Fitness#Updated ApplicationsInfos with colors & mini-tags (and basic fixes)
+https://github.com/characterdog/share-my-number.git#Share my number#Music & Audio#Share your contact information with ease
+https://github.com/servalproject/batphone.git#Serval Mesh#Communication#Peer to peer communications
+https://github.com/SecUSo/privacy-friendly-pausing-healthily.git#Pausing Healthily#Photography#Break reminder with helpful exercises
+https://github.com/andviane/moon.git#Moon Phase#Finance#Show moon phase information
+https://github.com/bitcoin-wallet/bitcoin-wallet.git#Bitcoin Wallet [testnet3]#Tools#Testing version of Bitcoin
+https://github.com/HassanHeydariNasab/trans.git#Trans#Tools#A escaping game
+https://github.com/netmackan/CertTools.git#CertTools#Games#Certificate Viewer
+https://github.com/h0chi/next-companion.git#NextCompanion#Productivity#Rogue client for nextbike (unofficial)
+https://github.com/IngoZenz/personaldnsfilter.git#DNSfilter#Tools#DNS request based Host Blocker over local VPN using a Blocklist
+https://github.com/retrobits/son_of_hunkypunk.git#Son of Hunky Punk#Music & Audio#Interactive fiction player
+https://github.com/clementine-player/Android-Remote.git#Clementine Remote#Business#Music player remote control
+https://github.com/nilsbraden/ttrss-reader-fork.git#TTRSS-Reader#Entertainment#An RSS reader for Tiny Tiny RSS
+https://github.com/schaal/ocreader.git#OCReader#Tools#Reader for Nextcloud news
+https://github.com/cbeyls/fosdem-companion-android.git#FOSDEM Companion#Games#Schedule browser for the FOSDEM conference
+https://github.com/yanus171/Handy-News-Reader.git#Handy News Reader#Weather#RSS reader with full offline support fulltext articles with images
+https://github.com/zouroboros/feed-watcher.git#FeedWatcher#Entertainment#Allows scanning RSS and Atom feeds with custom queries.
+https://github.com/wsdfhjxc/taponium.git#Taponium#Communication#Reflex-oriented arcade game
+https://github.com/mvmike/min-cal-widget.git#MinCal Widget#Tools#Minimal month calendar widget
+https://github.com/mpcjanssen/simpletask-android.git#Simpletask#Games#Todo list manager
+https://github.com/zouroboros/filmchecker.git#FilmChecker#News & Magazines#Checks the status of photo orders
+https://github.com/HenriDellal/emerald.git#Emerald Launcher#Tools#Simple custom home screen
+https://github.com/pp3345/ykDroid.git#ykDroid#Tools#YubiKey challenge-response USB and NFC driver
+https://github.com/EtchDroid/EtchDroid.git#EtchDroid#Food & Drink#Helps you writing ISO images and creating bootable USB drives, no root required
+https://github.com/ZeusLN/zeus.git#Zeus#Tools#Mobile Bitcoin app for Lightning Network Daemon (lnd)
+https://github.com/M66B/FairEmail.git#FairEmail#Tools#Fully featured email client. Neat, intuitive user interface. Privacy friendly
+https://github.com/schollz/find3-android-scanner.git#FIND3 Scanner#Business#Scan Bluetooth and WiFi for FIND3
+https://github.com/franciscofranco/Simple-Reboot-app.git#Simple Reboot#Personalization#Make reboots great again - one restart at a time
+https://github.com/bamless/chromium-swe-updater.git#Chromium SWE Updater#Productivity#Update custom Chromium for Snapdragon builds
+https://github.com/nicolasbrailo/VlcFreemote.git#VlcFreemote#Lifestyle#Remotely control a VLC server
+https://github.com/capitoledulibre/cdl-companion-android.git#Capitole du Libre#Games#Schedule browser for the Capitole du Libre
+https://github.com/grote/BlitzMail.git#BlitzMail#Productivity#Share content and notes via email
+https://github.com/gotify/android.git#Gotify#Games#A client for receiving push notifications
+https://github.com/notriddle/budget-envelopes.git#Budget#News & Magazines#Manage your income and expenses
+https://github.com/splondike/polipoid.git#Polipoid#Productivity#Wrapper for the polipo proxy
+https://github.com/KillerInk/FreeDcam.git#FreeDCam#Tools#Substitute of the default Camera with enhanced shot, exposure, image options
+https://github.com/urandom/gearshift.git#Gear Shift#Family#Manage Transmission bittorent client
+https://github.com/foobnix/LibreraReader.git#Librera Reader#Productivity#Book and PDF reader
+https://github.com/Sensirion/SmartGadget-Android.git#Smart Gadget#Books & Reference#Connect to your Sensirion Smart Gadget via BLE
+https://github.com/WeAreFairphone/FP2-Checkup.git#Checkup#Music & Audio#Test various components of your device
+https://github.com/Tortel/SysLog.git#SysLog#Finance#Capture log files
+https://github.com/easytargetmixel/micopi_android.git#Micopi+#Shopping#Create unique contact pictures
+https://github.com/toxtox/SimplePhilosopherstoneWidget.git#Simple Philosopherstone Widget#Tools#tracking continuously the Philosopherstone (crypto coin) price on your mobile ph
+https://github.com/SecUSo/privacy-friendly-2048.git#2048#Tools#Try to reach 2048 in this puzzle game
+https://github.com/dolphin-emu/dolphin.git#Dolphin Emulator#Games#Nintendo console emulator
+https://github.com/scoute-dich/HHSMoodle.git#HHS Moodle#Tools#Interact with HHS moodle instance
+https://github.com/QuickLyric/QuickLyric.git#QuickLyric#Video Players & Editors#Fetch and display song lyrics
+https://github.com/quaap/BookyMcBookface.git#Booky McBookface#Productivity#An extremely unfancy and very basic ebook reader
+https://github.com/TwidereProject/Twidere-Android.git#Twidere#Photography#Microblogging client
+https://github.com/ogarcia/opensudoku.git#Open Sudoku#Finance#Sudoku game
+https://github.com/JSandomierz/pcis.git#Poland can into Space#Tools#Help Polandball to get into Space
+https://github.com/MiCode/Compass.git#Compass#Personalization#Graphical compass
+https://github.com/tube42/9p.git#9P#Tools#Word puzzle game
+https://github.com/vadret/android.git#Vädret#Productivity#Weather app for Sweden
+https://github.com/iitc-project/ingress-intel-total-conversion.git#IITC Mobile#Social#Map addon for the Ingress game
+https://github.com/tasomaniac/hackdash.git#HackDash#Tools#Hackerspace extension for DashClock
+https://github.com/RodrigoDavy/PixelArtist.git#Pixel Artist#Tools#Create pixel art on a 16 x 16 grid screen
+https://github.com/vackosar/search-based-launcher.git#Search Based Launcher#Family#Minimalistic home-screen
+https://github.com/ciubex/dscautorename.git#DSC Auto Rename#Tools#Rename picutres based on date
+https://github.com/andstatus/andstatus.git#AndStatus#Communication#Multiple accounts client for multiple social networks
+https://github.com/PrivacyApps/offline-calendar.git#Offline Calendar#Travel & Local#Lets you add calendars to the Calendar app, which are not synchronized.
+https://github.com/MBach/LeMondeRssReader.git#LeMonde.fr#Games#Reads RSS feed from the website LeMonde.fr and fetch articles inside the App
+https://github.com/mdecorde/BABYNAME.git#BabyName#Tools#Findout your future baby name
+https://github.com/helloworld1/AnyMemo.git#AnyMemo#Tools#Flashcard-based Learning
+https://github.com/akhavr/electrum-dash.git#Dash Electrum#Lifestyle#Electrum Light Wallet for Dash
+https://github.com/tutao/tutanota.git#Tutanota#Music & Audio#The open source encrypted email service - easy to use, secure by design.
+https://github.com/micolous/metrodroid.git#Metrodroid#Video Players & Editors#Metrodroid can read information from some public transport NFC smartcards
+https://github.com/zxing/zxing.git#Barcode Scanner#Games#Scan barcodes on products, or barcodes containing URLs, contact info, and so on
+https://github.com/devgianlu/DNSHero.git#DNS Hero#Games#
+https://github.com/romannurik/muzei.git#Muzei#Productivity#Live wallpaper of famous art
+https://github.com/MrBIMC/SELinuxModeChanger.git#SELinuxModeChanger#Music & Audio#Set SELinux mode on boot
+https://github.com/simenheg/simple-chess-clock.git#Simple Chess Clock#Games#Two touchable chess timers
+https://github.com/wizmer/syncorg.git#SyncOrg#Tools#Take and organize notes
+https://github.com/tmarzeion/drawable-notepad.git#Notepad#Music & Audio#Take notes
+https://github.com/navit-gps/navit.git#Navit#Tools#Car navigation system
+https://github.com/GunshipPenguin/open_flood.git#Open Flood#Family#A simple but addictive flood fill game
+https://github.com/uatach/reminders.git#Reminders#Social#UNICAMP canteen information
+https://github.com/goodtime-productivity/Goodtime.git#Goodtime#Social#Productivity timer designed to keep you on track and free of distractions
+https://github.com/x1unix/s60-icon-pack.git#S60 Icon Pack#Games#Nokia Series60 Icon Pack
+https://github.com/Zukero/andors-trail.git#Andor's Trail#Games#Quest-driven RPG
+https://github.com/ZeeRooo/MaterialFBook.git#MaterialFBook#Games#Browse Facebook
+https://github.com/SecUSo/privacy-friendly-sketching.git#Sketches#Business#Create and manage simple sketches in a quick and easy manner
+https://github.com/phhusson/Superuser.git#Superuser#Tools#Manage root access
+https://github.com/thermatk/FakeGApps.git#FakeGapps#Video Players & Editors#Used with µg GmsCore to enable Google Cloud Messaging (GCM) and more
+https://github.com/nv95/OpenManga.git#OpenManga#Tools#Read your favorit manga
+https://github.com/devmil/PaperLaunch.git#PaperLaunch#Tools#Side launcher in material design that launches apps with one gesture
+https://github.com/woefe/ShoppingList.git#Shopping List#Games#Manage (grocery) lists
+https://github.com/PGPAuth/PGPAuth_Android.git#PGPAuth#Tools#Send PGP-verified requests
+https://github.com/no-go/RickApp.git#Rick App#Entertainment#play automatic burp in silent situations
+https://github.com/jeremymarch/HoplitePolytonicKeyboardAndroid.git#Hoplite Keyboard#Weather#A keyboard extension which allows the user to type in Polytonic Greek
+https://github.com/ilijamt/android-adbm.git#ADB Manager#Personalization#Manage Android Debug Bridge
+https://github.com/scoute-dich/Blue-Minimal.git#Blue Minimal#Personalization#Minimalistic CM12+ theme
+https://github.com/Aefyr/SAI.git#SAI#Games#SAI lets you install and export split APKs
+https://github.com/enricocid/Battery-Live.git#Battery Live#Productivity#Set the wallpaper based on the battery level
+https://github.com/kaliturin/BlackList.git#Blacklist Blocker#Shopping#Block unwanted calls and/or SMS
+https://github.com/mo271/guessaday.git#Guessaday#Personalization#Guess the day of week of a random date
+https://github.com/GarrettBeatty/arXiv-eXplorer.git#arXiv eXplorer#Music & Audio#Browse, search, and download arXiv articles with arXiv eXplorer!
+https://github.com/ligi/etheremote.git#ΞtheRemotΞ#Tools#Ethereum Remote
+https://github.com/kenCode-de/smartcoins-wallet.git#Smartcoins Wallet#Communication#Use Smartcoins like bitBTC, bitUSD & bitEUR in 22 languages w/QR codes & more
+https://github.com/EmmanuelMess/Simple-Cleanup.git#Simple Cleanup#Games#Clean unneeded files with one click
+https://github.com/ram-on/SkyTube.git#SkyTube#Tools#A simple and feature-rich YouTube player
+https://github.com/segler-alex/RadioDroid.git#RadioDroid#Tools#Browse and stream internet radios
+https://github.com/ultramega/flavordex.git#Flavordex#Games#Highly customizable tasting journal for phones or tablets
+https://github.com/mozilla/MozStumbler.git#Mozilla Stumbler#Productivity#Data gathering for Mozilla Location Service
+https://github.com/SecUSo/privacy-friendly-solitaire.git#Solitaire#Games#Play solitaire, the famous card game on your smart device
+https://github.com/bparmentier/OpenBikeSharing.git#OpenBikeSharing#Tools#Shared bikes availability in your city
+https://github.com/aykit/MyOwnNotes.git#MyOwnNotes#Finance#Notes management for ownCloud
+https://github.com/Staacks/phyphox-android.git#phyphox#Finance#Perform physics experiments with your phone
+https://github.com/heb12/heb12-mobile.git#Heb12#Finance#Heb12 Mobile is an app designed to make reading God's word easy and hassle-free.
+https://github.com/DaxiaK/VirtualSoftKeys.git#VirtualSoftKeys#Books & Reference#A simple, safe and easy softKeys (navigation bar)
+https://github.com/JohnLines/mediclog.git#Medic Log#Personalization#Log basic medical information
+https://github.com/nbossard/packlist.git#packlist#Tools#Manage packing lists
+https://github.com/Kunzisoft/KeePassDX.git#KeePass DX#Tools#KeePass Deluxe, secure and open source password manager
+https://github.com/materialos/android-icon-pack.git#MaterialOS#Personalization#Material Design icons for your homescreen
+https://github.com/guardianproject/PixelKnot.git#PixelKnot#Tools#Have a secret that you want to share? Why not hide it in a picture?
+https://bitbucket.org/przemekr/gomoku.git#Gomoku#Games#Five in a Row Game
+https://github.com/fabmazz/Timber.git#Timber#Communication#Material Design Music Player
+https://github.com/Yubico/yubioath-android.git#Yubico Authenticator#Games#Generate OATH codes with YubiKey NEO over NFC
+https://github.com/posm/OpenMapKitAndroid.git#OpenMapKit#Health & Fitness#Browse OpenStreetMap features to create and edit OSM tags
+https://github.com/impalex/knockonports.git#Knock on Ports#Family#Port knocking client
+https://github.com/gbarre/xiaExpressAndroid.git#Xia Express#Tools#Create interactive images by croping zoomable details
+https://github.com/warmshowers/wsandroid.git#WarmShowers#Productivity#A Community of Bicycle Tourists and Those Who Support Them
+https://github.com/w84death/Tanks-of-Freedom.git#Tanks of Freedom#Video Players & Editors#Indie Turn Based Strategy in Isometric Pixel Art
+https://github.com/palmcalc2019/PalmCalc.git#PalmCalc 2019+#Finance#Retro scientific calculator & converters
+https://github.com/agateau/pixelwheels.git#Pixel Wheels#Games#A top-down retro racing game
+https://github.com/tiagoshibata/Android-GPSd-Client.git#GPSd Client#Tools#Service to forward NMEA messages to a GPSd server
+https://github.com/bparmentier/WiFiKeyShare.git#WiFiKeyShare#Tools#Share Wi-Fi passwords with QR codes and NFC tags
+https://github.com/LibreShift/OpenShift.git#OpenShift#News & Magazines#Adjust screen color values
+https://github.com/queler/holokenmod.git#HoloKenMod#Games#KenKen game
+https://github.com/k9mail/k-9.git#K-9 Mail#Games#Full-featured email client
+https://github.com/jruesga/PhotoPhase.git#PhotoPhase#Tools#Tiled images wallpaper
+https://github.com/TobiasBielefeld/Simple-Brick-Games.git#Simple Brick Games#Weather#Imitates handhelds from the past
+https://github.com/xbmc/xbmc.git#Kodi#Tools#Media center
+https://github.com/SimpleMobileTools/Simple-Notes.git#Simple Notes Pro#Music & Audio#A simple text field for adding quick notes, without ads.
+https://bitbucket.org/zeac/cryptopass.git#CryptoPass#Travel & Local#Strong passwords for different websites using a single secret key
+https://github.com/corphish/NightLight.git#Night Light#Productivity#An app to adjust blue light intensity, powered by KCAL
+https://github.com/hwki/SimpleBitcoinWidget.git#Simple Litecoin Widget#Tools#Show current Litecoin exchange prices
+https://github.com/SimpleMobileTools/Simple-Calculator.git#Calculator#Tools#A calculator with the basic functions and a customizable widget.
+https://github.com/bpeel/catverbs.git#Catverbs#Productivity#More than 8000 Catalan verbs fully conjugated
+https://github.com/dozingcat/CamTimer.git#CamTimer#News & Magazines#Camera timer
+https://github.com/romario333/opensudoku.git#OpenSudoku#Games#Sudoku game
+https://github.com/guardianproject/ripple.git#Ripple#Productivity#Trigger apps to protect your privacy when in anxious or panic situations
+https://github.com/ge0rg/yaxim.git#yaxim#Productivity#XMPP (Instant Messaging) client
+https://github.com/fistons/TinyTinyFeed.git#Tiny Tiny Feed - Setup#Family#Widget client for TTRSS
+https://github.com/FEDE0D/Planet-Rider.git#Planet Rider#Food & Drink#Escape from an infinite alien desert using your hover bike
+https://github.com/SecUSo/privacy-friendly-dame.git#Checkers#Lifestyle#Strategy board game for one or two players
+https://github.com/wesaphzt/privatelock.git#Private Lock#Family#Lock your phone from its movement force
+https://github.com/restorer/gloomy-dungeons-3d.git#Gloomy Dungeons 3D - Hardcore#Tools#First-person shooter
+https://github.com/kontalk/androidclient.git#Kontalk#Communication#
+https://github.com/SimpleMobileTools/Simple-App-Launcher.git#App Launcher#Tools#A simple holder for your favourite app launchers.
+https://bitbucket.org/dalb8/nicownng.git#nicoWnnG#Entertainment#Keyboard for JA
+https://github.com/giraffine/Android-Project.git#Dimmer#Tools#Lower brightness
+https://github.com/mattvchandler/2050.git#2050#Productivity#A game loosely based on 2048, but with circles instead of squares
+https://github.com/ShowMeHills/ShowMeHills.git#Show Me Hills#Libraries & Demo#Mountain identification
+https://github.com/fr3ts0n/StageFever.git#StageFever#Productivity#Display stage notes, AMP/effect settings etc
+https://github.com/no-go/Wortschatz.git#OpenWort#Personalization#Simple offline thesaurus for the German language
+https://bitbucket.org/chlun/aicamera.git#AiCamera#Art & Design#Camera that simulates depth of field using a neural network
+https://github.com/farmerbb/Taskbar.git#Taskbar#Video Players & Editors#Use a start menu to access apps
+https://github.com/AdAway/AdAway.git#AdAway#Productivity#AdAway is an open source ad blocker for Android using the hosts file.
+https://github.com/LithiumSR/openstud_client.git#OpenStud#Books & Reference#Unofficial client for Sapienza University's InfoStud
+https://github.com/stanipintjuk/Silverfish.git#Silverfish Launcher#Personalization#A launcher with focus on a simple UI
+https://github.com/seguri/GetForegroundActivity.git#Get Foreground Activity#Tools#Show current foreground activity
+https://github.com/UnderSampled/opsu.git#opsu!#Games#Open-source rhythm game supporting Osu! beatmaps
+https://github.com/liato/android-bankdroid.git#Bankdroid#Productivity#Swedish banking client
+https://github.com/termux/termux-widget.git#Termux:Widget#Tools#Launch Termux commands from the homescreen
+https://github.com/renyuneyun/CamCov.git#CamCov#Games#Use your camera as background
+https://github.com/tckmn/semitone.git#Semitone#Games#tuner, metronome, and piano
+https://github.com/lolo-io/OneList.git#1List#Tools#Simple app to manage several lists from only one screen
+https://github.com/tranquvis/SimpleSmsRemote.git#Simple sms remote#Social#Control your device by sending text messages
+https://github.com/xn--nding-jua/PC_DIMMER_Android.git#PC_DIMMER#Business#Remote light control
+https://github.com/bradand/XMouse.git#XMouse#Weather#Remotely control X11 via SSH commands generated by your phone or tablet
+https://github.com/agwells/dotdash-keyboard-android.git#DotDash Keyboard#Health & Fitness#Morse code keyboard
+https://github.com/dozingcat/VectorCamera.git#Vector Camera#Games#An app that applies real-time effects to the camera input
+https://github.com/DevLuuk/SleepyWifi.git#SleepyWifi#Personalization#Disables the Wi-Fi when the phone is in sleep mode
+https://github.com/SecUSo/privacy-friendly-qr-scanner.git#QR Scanner#Games#Scan QR codes
+https://github.com/M66B/NetGuard.git#NetGuard#Lifestyle#A simple way to block access to the internet per application
+https://github.com/authpass/authpass.git#AuthPass#Video Players & Editors#Keep your passwords save across all platforms and devices.
+https://bitbucket.org/oF2pks/kaltura-device-info-android.git#(F-Droid) Kaltura Device Info#Weather#GSF, Widevine L1/2/3, Treble & A/B device infos (+other IDs)
+https://github.com/LuigiTheHunter/DSAAssistant.git#DSA Assistent#Tools#Ein Helfer für das Schwarze Auge
+https://github.com/Starcommander/StreamRadio.git#WebRadio#Personalization#Play radio channels from web and add custom channels
+https://github.com/JavaCafe01/PdfViewer.git#Pdf Viewer Plus#Productivity#A simple PDF viewer
+https://github.com/ghisguth/sunlight.git#Your very own Sun!#Productivity#Live wallpaper
+https://github.com/agateau/cat-avatar-generator-app.git#Cat Avatar Generator#Tools#Generate cat avatars
+https://github.com/fennifith/Alarmio.git#Alarmio#Tools#Simple alarm clock focused on design, readability, and Internet radio
+https://github.com/pR0Ps/FlatConnectivityIcons.git#Flat Connectivity Icons#Art & Design#Xposed module that provides flat connectivity icons
+https://github.com/freeminer/freeminer.git#freeminer#Productivity#Minecraft-inspired sandbox game
+https://github.com/pilot51/voicenotify.git#Voice Notify#Tools#Spoken notifications
+https://github.com/mbmb5/Eylca.git#Eylca#Personalization#Control a lumix camera remotely
+https://github.com/mathisdt/trackworktime.git#Track Work Time#Games#Track your work time
+https://github.com/AndreAle94/moneywallet.git#MoneyWallet#Communication#Expense Manager
+https://github.com/caarmen/scrumchatter.git#Scrum Chatter#Productivity#Time members while they speak at meetings
+https://github.com/btimofeev/UniPatcher.git#UniPatcher#Tools#Utility to apply patches to ROMs
+https://github.com/Bubu/android-dice-game.git#Catan Dice Game#Games#Resource dice game
+https://github.com/quaddy-services/DynamicNightLight.git#Dynamic Night Light#Tools#Low brightness clock
+https://github.com/philliphsu/ClockPlus.git#Clock+#Personalization#View time, set alarms and timers
+https://github.com/ambrice/timesheet.git#Timesheet#Food & Drink#Time Tracker
+https://github.com/ylogx/wordpowermadeeasy.git#Word Power Made Easy#Social#Build your vocabualary
+https://github.com/acomminos/Plumble.git#Plumble#Tools#Voice chat for Mumble servers
+https://github.com/ivanvolosyuk/wifikeyboard.git#WiFiKeyboard#Communication#Remote WiFi keyboard
+https://github.com/zoff99/ToxAndroidRefImpl.git#TRIfA#Games#TRIfA Tox Client
+https://github.com/no-go/FunPhonePuppet.git#Fun Phone Puppet#Productivity#Use your phone as puppet
+https://github.com/WeAreFairphone/FP1-Launcher.git#Fairphone 1 Launcher#Lifestyle#Launcher originally designed for the Fairphone 1
+https://github.com/vocollapse/Blockinger.git#Blockinger#Tools#Tetris clone
+https://github.com/Dejvino/amdroid.git#Amdroid#Personalization#Amdroid is a client for the Ampache media streaming system
+https://github.com/varlesh/theia-icon-theme.git#Theia Icon Theme#Family#Icon theme
+https://github.com/Sash0k/bluetooth-spp-terminal.git#Bluetooth terminal#Tools#Simple bluetooth terminal application. ASCII and hex. Opensource.
+https://github.com/Sw24Softwares/StarkeVerben.git#Starke Verben#Personalization#Learn the German strong verbs
+https://github.com/Frozen-Developers/android-periodic-table.git#Periodic Table#Games#Periodic table of the elements
+https://github.com/caarmen/poet-assistant.git#Poet Assistant#Games#Dictionary and TTS tools for editing poems
+https://github.com/daktak/androidpn-client.git#AndroidPN Client#Family#Push Notification Client
+https://github.com/hoihei/Silectric.git#Silectric#Productivity#Calculate electric bill
+https://github.com/Somethingweirdhere/Secure-Photo-Viewer.git#Secure photo viewer#Productivity#A media-viewer that functions ontop of your lockscreen
+https://github.com/ge0rg/gamemasterdice.git#GM Dice#Productivity#Dice Generator
+https://github.com/SkyzohKey/M-Droid.git#M-Droid#Social#Unofficial Material Designed client for F-Droid
+https://github.com/DF1E/SimpleExplorer.git#Simple Explorer#Tools#File manager
+https://github.com/NewProggie/SparkleShare-Android.git#SparkleShare#Productivity#Distributed collaboration
+https://github.com/videogameboy76/FBEditPlus.git#Frozen Bubble LevelEditor plus#Business#Edit and load custom level packs for FrozenBubble
+https://github.com/tananaev/calculator-notification.git#Calculator Notification#Music & Audio#Move your Calculator into the notification drawer
+https://github.com/freezy/android-xbmcremote.git#XBMC Remote#Lifestyle#XBMC Media Center Remote Control
+https://github.com/vuze/vuze-remote-for-android.git#Vuze Remote#Tools#Manage BitTorrent clients
+https://github.com/alkom/droidzebra.git#DroidZebra#Tools#Reversi game
+https://github.com/Rohithkvsp/Form-N-Fun.git#Form-N-Fun#Tools#Draw a custom maze on paper and play it on your device using the accelerometer
+https://github.com/termux/termux-api.git#Termux:API#Personalization#Access Android functions from Termux
+https://github.com/micwallace/reddinator.git#Reddinator#Tools#Reddit Widget
+https://github.com/ultrafunk/netinfo.git#NetInfo Widget#Communication#Widget for network connectivity
+https://github.com/gentlecat/Simple-Counter.git#Counter#Lifestyle#Tally counter
+https://github.com/duckduckgo/Android.git#DuckDuckGo Privacy Browser#Communication#Privacy, simplified
+https://github.com/flackbash/AudioAnchor.git#AudioAnchor#Games#Audio player that tracks the listening process of your audio books and podcasts
+https://github.com/inorichi/tachiyomi.git#Tachiyomi#Video Players & Editors#Manga reader
+https://github.com/daneren2005/Subsonic.git#DSub#Communication#Play music across the network
+https://github.com/mattermost/mattermost-mobile.git#Mattermost Beta#Lifestyle#Secure, self-hosted workplace messaging
+https://github.com/tananaev/rootless-logcat.git#Logs#Productivity#Android Logcat without Root
+https://github.com/HenriDellal/emerald-dialer.git#Emerald Dialer#Music & Audio#Make calls, view call log
+https://github.com/SubhamTyagi/Last-Launcher.git#Last Launcher#Tools#Faster than Light
+https://github.com/qqq3/good-weather.git#Good Weather#Games#Display weather information
+https://github.com/deep-gaurav/MusicPiped.git#MusicPiped#Family#Materialistic music player that streams music from YouTube
+https://github.com/herverenault/DirectDictaphone.git#Direct Dictaphone#Video Players & Editors#Record short audio notes
+https://github.com/jp-bennett/fwknop2.git#Fwknop2#Tools#Client to send SPA packets to a fwknopd server
+https://github.com/k3b/ContentProviderHelper.git#Content Provider Helper#Health & Fitness#Discover, view and query data of content providers
+https://github.com/deltachat/deltachat-android.git#Delta Chat#Social#Communicate instantly via e-mail
+https://github.com/WangDaYeeeeee/Mysplash.git#Mysplash#Tools#View stream of high resolution images
+https://github.com/emmaguy/clean-status-bar.git#Clean Status Bar#Personalization#Tidy up your status bar before taking screenshots
+https://github.com/SamarthDesai01/RepeatMe.git#Repeat Me#Video Players & Editors#Schedule custom, interval based reminders
+https://github.com/subhamtyagi/openinwa.git#Open In WhatsApp#Games#Open Chat in WhatsApp
+https://github.com/abcdjdj/RootVerifier-APP.git#Root Verifier#Auto & Vehicles#Check if device is rooted
+https://github.com/eqvinox/wifisetup.git#33c3 Wifi Setup#Entertainment#Set your connection to the 33C3 (33nd Chaos Communication Congress) network up.
+https://bitbucket.org/przemekr/pentago.git#Pentago#Games#Five-in-a-row game
+https://github.com/moneymanagerex/android-money-manager-ex.git#Money Manager Ex#Tools#Manage your income and expenses on a mobile device, synchronize via cloud
+https://github.com/kostmo/android-spiral-wallpaper.git#HypnoTwister#Tools#An animated spiral live wallpaper
+https://github.com/aragaer/jtt_android.git#Japanese Traditional Time#Productivity#Clock widget
+https://github.com/quaap/DodaTheExploda.git#Doda The Exploda#Communication#Hidden objects game for kids and adults
+https://github.com/RocketChat/Rocket.Chat.Android.git#Rocket.Chat#Weather#Team Communication Tool
+https://github.com/w32blaster/helsinki-timetables.git#Helsinki Timetables#Entertainment#Show timetables for public transport in Helsinki city and region
+https://github.com/tran-khoa/ANNO1404-Warenrechner-App.git#ANNO 1404 - Calculator#Games#Population and chain calculations for ANNO 1404
+https://github.com/ojacquemart/vlilleChecker.git#Vlille Checker#Tools#Bicycle info for Lille
+https://github.com/LonamiWebs/Stringlate.git#Stringlate#Tools#Help translating FOSS applications
+https://github.com/PaulWoitaschek/Voice.git#Voice#Tools#Simple audiobook player
+https://github.com/SecUSo/privacy-friendly-torchlight.git#Torchlight#Tools#Use LED flash as torchlight
+https://github.com/travistynes/block6.git#Block6#Tools#Block6 is an SMS app that makes it easy to block messages from numbers you don't
+https://github.com/7LPdWcaW/GrowTracker-Android.git#GrowTracker#Games#Help record data about growing plants
+https://github.com/WeAreFairphone/android_packages_apps_MyContactsWidget.git#My Contacts#Books & Reference#Quickly access your contacts
+https://github.com/Styrkur/styrkur-app.git#Styrkur#Games#Track your workouts
+https://github.com/i2p/i2p.android.base.git#I2P#Music & Audio#I2P anonymous network
+https://github.com/siacs/VoiceRecorder.git#Voice Recorder Plugin#Lifestyle#A simple plug-in to record voice messages for Conversations
+https://github.com/js-labs/ShellsMP.git#ShellsMP#Health & Fitness#Play shells game with your friends
+https://github.com/rfc2822/GfxTablet.git#GfxTablet#Communication#Use touchscreen as graphics tablet
+https://github.com/KeikaiLauncher/KeikaiLauncher.git#Keikai Launcher#Personalization#Fast, minimalistic and leightweight launcher
+https://github.com/bherrmann7/Car-Cast.git#Car Cast#Tools#Simple podcast downloader
+https://github.com/klausw/hackerskeyboard.git#Hacker's Keyboard#Tools#Four- or five-row soft-keyboard
+https://github.com/vanilla-music/vanilla-headphone-detector.git#Headphone detector for Vanilla Music#Travel & Local#Launch Vanilla when a headset is plugged in
+https://github.com/mupen64plus-ae/mupen64plus-ae.git#Mupen64Plus AE#Communication#Front end for Mupen64 Plus
+https://github.com/Eun/InitialVolume.git#InitialVolume#Health & Fitness#Set an initial volume after boot
+https://github.com/bradyt/cone.git#cone#Health & Fitness#Data entry tool for the plain text accounting ledger format
+https://github.com/js-labs/WalkieTalkie.git#WiFi Walkie Talkie#Productivity#Talk to other devices on your LAN
+https://github.com/veniosg/JustSearch.git#Just Search#Tools#Simple Assist app with multiple search providers
+https://github.com/SpiritCroc/DarkCroc-Android-theme.git#DarkCroc Theme#Productivity#A dark Substratum theme targeting Android 9+
+https://github.com/shkcodes/Lyrically.git#Lyrically#Finance#A lyrics app which works everywhere
+https://github.com/NachiketaVadera/EBookDownloader.git#eBooks#Games#Search for books you like and download them in multiple formats.
+https://github.com/smblott-github/intent_radio.git#Intent Radio#Business#Intent-driven internet radio player
+https://github.com/Streetwalrus/android_usb_msd.git#USB Mountr#Video Players & Editors#Use your device as a USB flash drive
+https://github.com/alandais/Pointeuse_S3I.git#Oburo.O#Games#Check your working hours
+https://github.com/ukanth/afwall.git#AFWall+#Maps & Navigation#Control network traffic
+https://github.com/dahlia/muzei-pixiv.git#Pixiv for Muzei#Music & Audio#Muzei art source extension for Pixiv
+https://github.com/prrt714/Kaleidoscope.git#Kaleidoscope#Games#Create patterns.
+https://github.com/OEP/rainwave-android.git#Rainwave#Tools#Client for music station
+https://github.com/adolfintel/OpenPods.git#OpenPods#Games#Check the battery status of your AirPods
+https://github.com/gatheringhallstudios/MHGenDatabase.git#MHGUDB#Tools#An extensive, all in one, Monster Hunter Generations reference
+https://github.com/shymmq/librus-client-kotlin.git#Dziennik#Tools#Client for Synergia Librus
+https://github.com/johnjohndoe/CampFahrplan.git#Datenspuren 2019 Schedule#Games#Schedule for the Datenspuren conference at Zentralwerk Dresden
+https://github.com/corcoran/Hangar.git#Hangar#Finance#Access recent and top apps
+https://github.com/btcontract/wallet.git#Bitcoin#Video Players & Editors#Simple Bitcoin wallet
+https://github.com/graham22/Classic.git#MidniteSolar Classic Monitor#Games#View solar charging device status
+https://github.com/WebBluetoothCG/ble-test-peripheral-android.git#BLE Peripheral Simulator#Communication#Try out Web Bluetooth without the need for a BLE Peripheral Device
+https://github.com/zoff99/zanavi.git#ZANavi#Tools#Car Navigation System
+https://github.com/blokadaorg/blokada.git#Blokada v4 (ad blocker)#Family#The ad blocker - battery efficient, fast, powerful and simple to use
+https://github.com/fei0316/snapstreak-alarm.git#Streak Alarm#Productivity#Snapchat Streaks Reminder
+https://github.com/csicar/MensaPlan.git#MensaPlan#Libraries & Demo#Information for canteens at KIT, HS Pforzheim, etc
+https://github.com/nextcloud/news-android.git#News#Tools#News/feed reader
+https://github.com/adolfintel/sine-android.git#SINE Isochronic Entrainer#Health & Fitness#Brainwave Entrainment from relaxation to focus enhancement by Isochronic Tones
+https://github.com/opengemara/shiurim.git#Shiurim#Photography#Talmud unit conversion tool
+https://github.com/markmcavoy/androidtoken.git#Android Token#Personalization#OATH software tokens
+https://github.com/biylda/WhereYouGo.git#WhereYouGo#Communication#Whereigo client
+https://github.com/dotWee/MicroPinner.git#New Pin#Books & Reference#Test and customize the statusbar
+https://github.com/AntonioRedondo/AnotherMonitor.git#AnotherMonitor#Communication#Monitor and record CPU and memory usage
+https://github.com/experiment322/controlloid-client.git#Controlloid#Tools#Turn your phone into a real game controller for PCs
+https://github.com/hacker1024/android-wifi-qr-code-generator.git#Wifi QR Code Creator#Music & Audio#View wifi credentials and share networks as QR codes
+https://github.com/hyst329/OpenFool.git#OpenFool#Entertainment#Russian national Fool (дурак) card game
+https://github.com/mafik/echo.git#Echo#Tools#Record audio in the background
+https://github.com/SimpleMobileTools/Simple-Music-Player.git#Music Player#Video Players & Editors#A clean music player with a customizable widget.
+https://github.com/0xe1f/Spark360.git#Spark 360#Games#Gaming client
+https://github.com/achromaticmetaphor/agram.git#agram#Personalization#Anagram lister
+https://github.com/M66B/XPrivacyLua.git#XPrivacyLua#Lifestyle#Really simple to use privacy manager for Marshmallow (6.0) and later
+https://github.com/wiglenet/wigle-wifi-wardriving.git#WiGLE WiFi FOSS#Productivity#Map Wifi access points
+https://github.com/HackMyChurch/aelf-dailyreadings.git#AELF#Family#A simple and discrete daily reading application
+https://github.com/manmal/hn-android.git#HN#Books & Reference#Read and comment on tech news
+https://github.com/Exodus-Privacy/exodus-android-app.git#Exodus Privacy#Music & Audio#Show trackers and permissions from other installed apps
+https://github.com/phrogg/GetMiTokens.git#GetMiTokens#Games#An App to get the Tokens from the Yeelight app.
+https://github.com/mtotschnig/MyExpenses.git#My Expenses#Entertainment#Easy to use personal finance manager: rich functionality and Open Source
+https://github.com/theblixguy/ForceDoze.git#ForceDoze#Family#Enable Doze mode immediately after screen off and turn off motion sensing
+https://github.com/greenaddress/abcore.git#ABCore#Family#Bitcoin Core wrapper
+https://github.com/dasbiswajit/worldclockwidget.git#World Clock#Tools#Display local time and weather conditions
+https://github.com/ultrasonic/ultrasonic.git#UltraSonic#Tools#A music streaming client for Subsonic servers
+https://github.com/yassirh/digital-ocean-swimmer.git#DO Swimmer#Tools#DigitalOcean droplet manager
+https://github.com/MusicPlayerDaemon/MPD.git#MPD#Travel & Local#A flexible, powerful, server-side application for playing music
+https://github.com/VelbazhdSoftwareLLC/tuty-fruty-slot-for-android.git#Tuty Fruty Slot for Android#Tools#Play on a virtual slot machine
+https://github.com/nextcloud/android.git#Nextcloud dev#Video Players & Editors#Synchronization client
+https://github.com/phikal/ReGeX.git#ReGeX#Tools#A regular expression matching game
+https://github.com/tuskyapp/Tusky.git#Tusky#Tools#A multi account client for the social network Mastodon
+https://github.com/tube42/candymem.git#Candy Memory#Personalization#Match-two memory game
+https://github.com/scoute-dich/QuitSmoking.git#Quit Smoking#Tools#Application to help smokers to quit smoking
+https://github.com/jkennethcarino/AnkiEditor.git#AnkiEditor#Music & Audio#An advanced note editor plug-in for AnkiDroid
+https://github.com/fighthawkarg/NasaApodCL.git#Apod Classic#Travel & Local#NASA Astronomy Picture of the Day Classic
+https://github.com/dftec-es/planetcon.git#PlanetCon#Games#Play a turn based strategy game
+https://github.com/lkorth/screen-notifications.git#Screen Notifications#Tools#Notification helper
+https://github.com/physphil/UnitConverterUltimate.git#Unit Converter Ultimate#Tools#Convert between units with ease
+https://github.com/nadam/nfc-reader.git#NFC Reader#News & Magazines#Simple app for reading various NFC tags and cards
+https://github.com/1hakr/AnExplorer.git#AnExplorer Pro#Personalization#All-in-one file management tools
+https://github.com/SecUSo/privacy-friendly-reckoning-skills.git#Reckoning Skills#Finance#Helps you improving your mental calculation skills
+https://github.com/Chessmasterrr/SimpleStatsWidget.git#SimpleStatsWidget#Tools#Displays simple statistics on phone calls and sms
+https://github.com/Leszek111/ReLaunchX.git#ReLaunchX#Personalization#Launcher for eInk/eBook devices
+https://github.com/zoff99/CampFahrplan.git#ToxCon 2019 Schedule#Tools#ToxCon 2019 Schedule
+https://github.com/ktt-ol/hacs.git#HACS#Tools#Hackspace Access Control System
+https://github.com/MrDoomy/Torch.git#Torch#Weather#Flashlight
+https://github.com/jdmonin/anstop.git#Anstop#Tools#A simple stopwatch
+https://github.com/arnowelzel/periodical.git#Periodical#Tools#Menstrual/period calendar
+https://github.com/Vilbrekin/tinc_gui.git#Tinc#Books & Reference#Port of Tinc VPN
+https://github.com/beriain/PolarClock.git#Polar Clock#Family#A polar clock
+https://github.com/MarquisLP/World-Scribe.git#World Scribe#Travel & Local#Help story writers with fictional world-building
+https://github.com/slartus/4pdaClient-plus.git#ForPDA#Business#Client for 4pda.ru
+https://bitbucket.org/tickytacky/mirrormirror.git#Mirror Mirror#Tools#Non-reversing mirror
+https://github.com/pmiddend/piggybudget.git#piggybudget#Games#Easily track your expenses
+https://github.com/AnySoftKeyboard/LanguagePack.git#AnySoftKeyboard: Русский#Games#Language pack for AnySoftKeyboard
+https://github.com/justdave/nwsweatheralertswidget.git#NWS Weather Alerts Widget#Games#Weather widget
+https://github.com/pmarks-net/chromadoze.git#Chroma Doze#Productivity#Noise generator
+https://github.com/microg/IchnaeaNlpBackend.git#MozillaNlpBackend#Games#UnifiedNlp location provider (Mozilla)
+https://github.com/allan-simon/verbiste-android.git#Verbiste Android#Health & Fitness#Conjugate French verbs
+https://github.com/PrivacyApps/birthday-calendar.git#Birthday Adapter#Games#Birthday Calendar Adapter
+https://github.com/mkg20001/SamRemote.git#Sam Remote#Maps & Navigation#Simple WiFi remote for Samsung TVs
+https://github.com/FreeRDP/FreeRDP.git#aFreeRDP#Family#FreeRDP is a free remote desktop protocol client
+https://github.com/ebaschiera/TripleCamel.git#TripleCamel#Personalization#Check price history of Amazon products
+https://github.com/SpiritCroc/DefaultDarkTheme-oms.git#Default Dark Theme#Books & Reference#A dark Substratum theme targeting Android 7 & 8
+https://github.com/dennisguse/opentracks.git#OpenTracks#Business#
+https://github.com/knirirr/BeeCount.git#BeeCount#Music & Audio#Knitting row counter
+https://github.com/markusfisch/BinaryEye.git#Binary Eye#Games#Yet another barcode scanner
+https://github.com/SecUSo/privacy-friendly-passwordgenerator.git#Password Generator#Entertainment#Generate passwords
+https://github.com/VelbazhdSoftwareLLC/BrainstonzForAndroid.git#Brainstonz#Finance#Brainstonz is a board game for two players
+https://github.com/pascalfree/calendar-color.git#Calendar Color#Social#Change the calendar color
+https://github.com/tobihille/SeniorLauncher.git#Senior Launcher#Social#Launcher reduced to the essential, intended for elderly people
+https://github.com/paulmach/Text-Edit-for-Android.git#Text Edit#Games#A text editor
+https://github.com/hidroh/materialistic.git#Materialistic#Games#Interact with the "Hacker news" site
+https://github.com/zeldin/Gerberoid.git#Gerberoid#Productivity#Viewer for Gerber files
+https://github.com/shlusiak/Freebloks-Android.git#Freebloks#Games#Board game
+https://github.com/CypherpunkArmory/UserLAnd.git#UserLAnd#Games#Easiest way to run GNU/Linux Distros on Android - no root required
+https://github.com/scheich/SlideItLoud.git#SlideItLoud#Health & Fitness#Turns on loud speaker if the keyboard is opened
+https://github.com/k3b/CalendarIcsAdapter.git#Calendar ICS adapter#Lifestyle#Import and export calendar files
+https://github.com/fighthawkarg/NasaApodMD.git#Apod MD#Business#NASA Astronomy Picture of the Day with Material Design
+https://github.com/EventFahrplan/EventFahrplan.git#Camp 2019#Tools#Schedule app for the Chaos Communication Camp 2019
+https://github.com/AnySoftKeyboard/AnySoftKeyboard.git#AnySoftKeyboard#Family#Alternative keyboard
+https://github.com/kwantam/batsHIIT.git#Bats! HIIT#Family#Practice high intensity interval training
+https://github.com/andybalaam/rabbit-escape.git#Rabbit Escape#Communication#Lemmings-like puzzle/action game
+https://github.com/emansih/FireflyMobile.git#Firefly III Mobile#Tools#Mobile wrapper for Firefly III
+https://github.com/cubei/flashcards.git#FlashCards#Communication#Make cards with csv files as input to memorize things
+https://github.com/marcopar/SliderSynth.git#SliderSynth#Games#Basic musical instrument
+https://github.com/brarcher/budget-watch.git#Budget Watch#Productivity#Help manage your personal budget
+https://github.com/AndBible/and-bible.git#And Bible#Video Players & Editors#Offline Bible reader
+https://github.com/antlersoft/android-vnc-viewer.git#androidVNC#Games#VNC (remote desktop) viewer
+https://github.com/raedahgroup/simple-decred-widget.git#Simple Decred Widget#Health & Fitness#Widget for viewing Decred exchange rate
+https://github.com/HugoGresse/Anecdote.git#Anecdote#Games#Read your latest quote and feed in a lite app
+https://github.com/blastrock/kakugo.git#Kakugo#Books & Reference#Learn Japanese with Kakugo
+https://github.com/PierreBresson/Cause-Commune.git#Cause Commune#Games#Listen to live and podcasts of "Cause Commune" French radio
+https://github.com/trikita/obsqr.git#Obsqr#Tools#The most lightweight QR code reader
+https://github.com/jberkel/sms-backup-plus.git#SMS Backup+#Tools#Backup SMS, MMS and call history to Gmail, Google Calendar or IMAP.
+https://github.com/VelbazhdSoftwareLLC/android-vitosha-poker-odds.git#VitoshaPokerOdds#Video Players & Editors#Monte Carlo based Texas Holdem calculator
+https://github.com/nelenkov/cryptfs-password-manager.git#Cryptfs Password#Finance#Disk encryption password changer
+https://github.com/nexes/Android-File-Manager.git#Open Manager#Productivity#A simple file browser and manager
+https://github.com/OneTimePass/OneTimePass.git#OneTimePass#Tools#Two-factor (TOTP) authentication
+https://github.com/SecUSo/privacy-friendly-wifi-manager.git#WiFi Manager#Books & Reference#Manages your device's WiFi based on your location
+https://github.com/zagaberoo/diode.git#Diode#Games#Interact with Reddit
+https://github.com/sileht/SeeksWidget.git#Seeks#Family#Widget for Seeks web service
+https://github.com/mkulesh/microMathematics.git#μMath+#Video Players & Editors#Computer algebra system
+https://bitbucket.org/kvorobyev/taskwarriorandroid.git#Taskwarrior#Business#Unofficial version of Taskwarrior - console task management tool
+https://github.com/antennapod/AntennaPod.git#AntennaPod#Games#Advanced podcast manager and player
+https://bitbucket.org/dhashoandroid/graph89-free.git#Graph 89#Photography#Calculator emulator with TI84 support
+https://github.com/ankidroid/Anki-Android.git#AnkiDroid#Productivity#A flashcard-based study aid
+https://github.com/ericzolf/pmtd.git#PlusMinusTimesDivide#Games#Train children in arithmetic
+https://github.com/sorz/TinyKeePass.git#TinyKeePass#Health & Fitness#Another simple read-only KeePass app
+https://github.com/otaconix/caffeinetile.git#Caffeine Tile#Games#Keep your device from sleeping
+https://github.com/wrmndfzzy/Atomize.git#Atomize#Video Players & Editors#PNG image compression with notably file size shrinking
+https://github.com/ndleyton/OneTwo.git#OneTwo#Tools#Provides you with dices, counter and timers
+https://github.com/Ohmnibus/quick-dice-roller.git#Quick Dice Roller#Photography#Flexible, complete and handy dice roller
+https://github.com/xloem/qrstream.git#QRStream#Tools#Transfer files and text via successive QR codes
+https://github.com/nextcloud/talk-android.git#Nextcloud Talk#Entertainment#Have private video calls and chat using your own server.
+https://github.com/janoliver/pOT-Droid.git#pOT-Droid#Tools#Companion app for mods.de forum
+https://github.com/standardnotes/mobile.git#S. Notes#Tools#A simple and private notes app
+https://github.com/billthefarmer/sig-gen.git#Signal Generator#Lifestyle#Audio Signal Generator
+https://github.com/Dariasteam/Cows-Revenge.git#Cow's Revenge#Tools#Indie Platformer in Pixel Art Game
+https://github.com/darshanparajuli/LogcatReader.git#Logcat Reader#Productivity#A simple app to view logs
+https://github.com/moko256/twitlatte.git#twitlatte#Communication#Twitter, Mastodon and Pleroma client
+https://github.com/h42i/d00r-app.git#D00R#Tools#Unlock the door at Hackspace Siegen
+https://github.com/meoblast001/thugaim.git#Thugaim#Medical#A 2D space shooter game
+https://github.com/redsolution/xabber-android.git#Xabber#Games#Jabber (XMPP) client with multi-account support, clean interface
+https://github.com/faerbit/android-crond.git#crond#Productivity#Schedules scripts
+https://github.com/mcastillof/FakeTraveler.git#Fake Traveler#Art & Design#Fake your location
+https://github.com/ScreamingHawk/fate-sheets.git#Fate Sheets#Tools#Manage your Fate character sheets
+https://github.com/Perflyst/BatteryCalibration.git#BatteryCalibration#Productivity#Calibrate your battery
+https://github.com/robert7k/sipswitch.git#SIP Switch#Family#Access Internet call settings
+https://github.com/MGaetan89/ShowsRage.git#ShowsRage#Entertainment#Manage your SickRage installation
+https://github.com/connectbot/connectbot.git#ConnectBot#Health & Fitness#SSH and local shell client
+https://github.com/fr3ts0n/AndrOBD.git#AndrOBD#Tools#Connect to your car's OBD system
+https://github.com/charlieCollins/and-bookworm.git#BookWorm#House & Home#Book collection manager
+https://github.com/mportuesisf/ScreenInfo.git#ScreenInfo#Games#Display screen configuration
+https://github.com/SecUSo/privacy-friendly-boardgame-clock.git#Board Game Clock#Tools#A timer for board games like chess
+https://github.com/martykan/forecastie.git#Forecastie#Music & Audio#Show weather information from OpenWeatherMap
+https://github.com/VelbazhdSoftwareLLC/Scribe4.git#Scribe4#Parenting#Fun game
+https://github.com/Dariasteam/TowerJumper.git#TowerJumper#Games#Casual ability game
+https://github.com/aario/snotepad.git#SNotepad#Personalization#Take notes
+https://github.com/rorist/android-network-discovery.git#Network Discovery#Social#Network discovery tool
+https://github.com/SecUSo/privacy-friendly-memo-game.git#Memo Game#Tools#Find pairs of cards
+https://github.com/Fortyseven/ToneDef.git#ToneDef#Personalization#Tone dialer with DTMF, bluebox and redbox tones
+https://github.com/forrestguice/SuntimesCalendars.git#Suntimes Calendars#Communication#A calendar provider add-on for Suntimes.
+https://github.com/foxykeep/lifecounter.git#Life Counter#Food & Drink#Manage life total in MTG games
+https://github.com/pR0Ps/LocationShare.git#Location Share#Personalization#Share your current location
+https://github.com/n76/Symphony.git#Symphony#Productivity#A genre and album based music player
+https://github.com/aarddict/android.git#Aard#Tools#Offline dictionary
+https://github.com/douzifly/clear-todolist.git#Clear List#Lifestyle#Add todo items and alarms
+https://github.com/crazyhitty/Munch.git#Munch#Entertainment#Manage and view RSS feeds
+https://github.com/BiglySoftware/BiglyBT-Android.git#BiglyBT, Torrent Downloader#Games#Ad-free, open source torrenting for phone, tablet, Chromebook, & Android TV
+https://github.com/xvello/salasana-android.git#Salasana#Personalization#Generates site-specific unique passwords
+https://github.com/oversecio/oversec.git#Oversec#Books & Reference#Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps!
+https://github.com/sluedecke/tonality.git#Tonality#Tools#Piano keyboard with scale highlighting
+https://github.com/vanilla-music/vanilla-music-lyrics-search.git#Vanilla Lyrics Search#Music & Audio#Vanilla Music player Lyrics Search plugin
+https://github.com/michaelachmann/LnkShortener.git#LnkShortener#Libraries & Demo#Shortens URLs using the Polr API
+https://github.com/danvratil/FBEventSync.git#Event Sync for Facebook#Productivity#Sync your Facebook Events into your calendar
+https://github.com/Reepeecheep/NumberGuesser.git#Number Guesser#Maps & Navigation#Guess the right number
+https://github.com/39aldo39/spaRSS-DecSync.git#spaRSS DecSync#Games#Sync RSS without a server using DecSync
+https://github.com/AdguardTeam/ContentBlocker.git#AdGuard Content Blocker#Tools#Block advertisements
+https://github.com/vamartid/Minesweeper.git#Minesweeper#Productivity#Classic minesweeper game
+https://github.com/apcro/leafpicrevived.git#LeafPic Revived#Comics#
+https://github.com/whirish/Tri-Valley-Buses.git#Tri-Valley Buses#Productivity#View and track Tri-Valley Wheels bus locations, stop times, and routes
+https://github.com/sterrenburg/flutterhole.git#FlutterHole#Finance#A third party application for the Pi-Hole® dashboard
+https://github.com/MartiniMoe/MIDICtrl.git#MIDICtrl#Games#Control MIDI devices
+https://github.com/dnet/adsdroid.git#ADSdroid#Video Players & Editors#Get technical datasheets
+https://github.com/SecUSo/privacy-friendly-ruler.git#Ruler#Lifestyle#Turn your mobile device into a ruler
+https://github.com/no-go/UART-Smartwatch.git#UART Smartwatch#Tools#Bluetooth App for a UART-Smartwatch
+https://github.com/sal0max/muzei-nationalgeographic.git#National Geographic for Muzei#Games#National Geographic pictures for Muzei
+https://github.com/termux/termux-tasker.git#Termux:Task#Health & Fitness#Tasker plug-in to run Termux scripts from Tasker
+https://github.com/lucasdnd/unix-time-clock-widget.git#Unix Time Clock Widget#Games#Show Unix Epoche as a widget
+https://github.com/irssiconnectbot/irssiconnectbot.git#Irssi ConnectBot#Business#Specialised SSH Client
+https://github.com/iSoron/uhabits.git#Loop Habit Tracker#Lifestyle#Track your habits and long-term goals
+https://bitbucket.org/dalb8/aicia.git#AiCiA#Tools#IRC client
+https://github.com/JusticeRage/ApkTrack.git#ApkTrack#Games#Check for updates on PlayStore and other sources
+https://github.com/ralphleon/TeaTimer.git#Tea Timer#Personalization#Simple Tea Timer
+https://github.com/keeshii/screeps-client.git#Screeps#Communication#Web based client for Screeps
+https://github.com/hgdev-ch/toposuite-android.git#TopoSuite#Tools#Tool for land surveyors
+https://github.com/jonan/ForkHub.git#ForkHub#Tools#GitHub client based on the abandoned official app.
+https://github.com/SecUSo/privacy-friendly-pedometer.git#Pedometer#Family#Count steps
+https://github.com/xgouchet/Stanley.git#Stanley#Communication#An application explorer for developers
+https://github.com/gjedeer/Acastus.git#Acastus Photon#Photography#An online address/POI search for navigation apps
+https://github.com/ZiiS/huewidgets.git#Hue Widgets#Tools#
+https://github.com/SimpleMobileTools/Simple-CLock.git#Clock#Games#A combination of a clock, alarm, stopwatch and timer.
+https://github.com/jclehner/rxdroid.git#RxDroid#Books & Reference#Reminds you of your medication schedules
+https://github.com/jereksel/Bucket.git#Bucket - Overlay Manager#Music & Audio#Bucket is UNOFFICIAL app for Substratum Theme Engine
+https://github.com/Seva-coder/Finder.git#Finder#Tools#Remote mobile phone searching via SMS-requests.
+https://github.com/TheRedSpy15/LTECleanerFOSS.git#LTE Cleaner#Tools#System cleaner
+https://github.com/mattermost/mattermost-android-classic.git#Mattermost Classic#Books & Reference#Secure, workplace messaging
+https://github.com/c-base/c-beam-droid.git#c-beam#Tools#Android interface to the c-base onboard computer c-beam
+https://github.com/tobykurien/GoogleApps.git#GApps Browser#Entertainment#Sandbox for web apps
+https://github.com/fenimore/devinettes-android.git#Devinettes#Tools#A collection of riddles in verse
+https://github.com/SecUSo/privacy-friendly-dicer.git#Dicer#Productivity#Roll dices
+https://github.com/phpsysinfo/psiandroid.git#PSIAndroid#Games#Monitor phpSysInfo
+https://github.com/badaix/snapcast.git#Snapcast#Video Players & Editors#Synchronize audio output across devices/players
+https://github.com/xxv/SuperGenPass.git#SuperGenPass#Finance#Implementation of SuperGenPass
+https://github.com/metinkale38/prayer-times-android.git#Prayer Times (Islamic Tools)#Communication#Useful application with a set of tools needed by any muslim
+https://github.com/AEFeinstein/mtg-familiar.git#MTG Familiar#Tools#Utilities for the game MTG
+https://github.com/JanmanX/EncryptTextApp.git#Encrypt Text#Music & Audio#Minimalistic application to encrypt plain text using AES 256
+https://github.com/RetroShare/RetroShare.git#RetroShare#Tools#RetroShare Android Chat Prototype
+https://github.com/kollerlukas/Camera-Roll-Android-App.git#Camera Roll#Entertainment#Fast and intuitive Gallery replacement with cropping, EXIF editor, file manager
+https://github.com/jackpal/Android-Terminal-Emulator.git#Terminal Emulator#Communication#Access Android's built-in Linux command line shell. Unleash your inner geek!
+https://github.com/gsurrel/MessengerBypasser.git#Messenger bypasser#Personalization#Redirects "OpenFB Messenger" intents to the web chat
+https://github.com/joaomneto/TitanCompanion.git#Titan Companion#Personalization#Stat sheet and rules engine for all Fighting Fantasy gamebooks
+https://github.com/klassm/andFHEM.git#andFHEM#Health & Fitness#Home Automation client
+https://github.com/Tishka17/Point.im-Android.git#Point.im#Tools#Point.im client
+https://github.com/VelbazhdSoftwareLLC/ColorsOverflow.git#Colors Overflow#Productivity#Puzzle game
+https://github.com/enricocid/Storage-USB.git#Storage & USB#Productivity#Launch storage settings directly from the apps drawer
+https://github.com/bitplane/Microphone.git#Microphone#Photography#Feeds audio from the mic right out of the speaker
+https://github.com/scoute-dich/PDFCreator.git#PDF Creator#Tools#Create and edit PDF files
+https://github.com/davidar/tensor.git#Tensor#Productivity#Matrix (chat) client
+https://github.com/WikiJourney/wikijourney_app.git#WikiJourney (legacy)#Tools#Rediscover tourism with Wikipedia
+https://github.com/brarcher/rental-calc.git#Rental Calc#Productivity#Evaluate rental property investment prospects
+https://github.com/siacs/Conversations.git#Quicksy#Books & Reference#Jabber/XMPP with Easy Entry and Easy Discovery
+https://github.com/davidhealey/waistline.git#Waistline#Entertainment#Free calorie counter and weight tracker
+https://github.com/mathisdt/checknetwork.git#Check Network#Tools#Auto connect to network
+https://github.com/adrianchifor/Swiftnotes.git#Swiftnotes#Games#Take notes
+https://github.com/8enet/AppOpsX.git#AppOpsX#Tools#A front-end for the AppOpsService
+https://github.com/max-weller/LDAP-Sync.git#LDAP Sync#Games#Sync your contacts with LDAP
+https://github.com/loisaidasam/mta-fare-buster-android.git#MTA Fare Buster#Games#Calculate NYC MTA metrocard prices
+https://github.com/TobiasBielefeld/Simple-Solitaire.git#Simple Solitaire Collection#Beauty#
+https://github.com/QuantumBadger/RedReader.git#RedReader#Social#Client for reddit.com
+https://github.com/barbeau/gpstest.git#GPSTest#Games#An app for testing GPS and GNSS capabilities of a device
+https://github.com/vitSkalicky/klavesnice.git#Czech Diacritic Keyboard#Music & Audio#With caron and acute keys
+https://bitbucket.org/dnaq/dialer2.git#Dialer2#Maps & Navigation#Clean T9-like dialer
+https://github.com/kiwix/kiwix-android.git#Wikivoyage European Travels#Games#Offline version of the Wikivoyage Travel Guide
+https://github.com/VelbazhdSoftwareLLC/vitosha-blackjack.git#Vitosha Blackjack#Games#Another implementation of the popular game Blackjack
+https://github.com/icechen1/Notable.git#Notable Plus#Books & Reference#Add and manage reminders
+https://github.com/onyxbits/remotekeyboard.git#Remote Keyboard#Communication#Remote keyboard via telnet
+https://github.com/MCMrARM/revolution-irc.git#Revolution IRC#Libraries & Demo#The next-generation IRC client
+https://github.com/gsantner/cherrymusic-android.git#Cherry#Tools#Wrapper for CherryMusic
+https://github.com/gsantner/memetastic.git#MemeTastic#Games#Meme Creator - Simple and Ad-Free
+https://github.com/nathanj/ogsdroid.git#OGS#Finance#Play Go online
+https://github.com/goexle/peanutEncryption.git#Peanut Encryption#Communication#Encrypted password manager. Only local stored
+https://github.com/woffs/tazapp-android.git#taz.app#Communication#Reader for e-paper subscribers of german daily newspaper "taz, die tageszeitung"
+https://github.com/JanSvoboda/aeonsend-randomizer.git#Aeon's End#Communication#Unofficial market setup randomizer for boardgame Aeon's End
+https://github.com/oliexdev/openScale.git#openScale#Games#Weight and body metrics tracker, with support for Bluetooth scales
+https://github.com/LiMium/mini-vector-android.git#miniVector#Communication#A minimalistic Matrix client for team collaboration
+https://github.com/meefik/busybox.git#BusyBox#Art & Design#Install a compact but feature-complete version of basic Linux command line utils
+https://github.com/caarmen/network-monitor.git#Network Monitor#Games#Check network connectivity
+https://github.com/JonasCz/save-for-offline.git#Save For Offline#Games#Save websites locally
+https://github.com/MajeurAndroid/Applications-Info.git#Applications Info#Tools#Show metadata of installed applications
+https://github.com/gsantner/markor.git#Markor#Entertainment#Text editor - Notes & ToDo. Lightweight. Markdown and todo.txt support.
+https://github.com/dkim0419/SoundRecorder.git#Sound Recorder#Tools#Record audio files
+https://github.com/VelbazhdSoftwareLLC/Complica4.git#Complica4#Games#Puzzle game
+https://github.com/chrismiceli/motp.git#mOTP#Tools#One-time password generator
+https://github.com/brarcher/protect-baby-monitor.git#Protect Baby Monitor#Family#Baby Monitor
+https://github.com/agnibho/solarcompass.git#Solar Compass#Communication#Find directions using the position of the sun
+https://github.com/bpeel/prevo.git#PReVo#Photography#Esperanto dictionary
+https://github.com/mannd/epmobile.git#EP Mobile#Tools#Medical tools
+https://github.com/Somethingweirdhere/Mining-Helper-for-EVE-Online.git#EVE Mining Calc#Games#Mining Helper for EVE Online
+https://github.com/falnatsheh/MarkdownView.git#MarkdownView Demo#Music & Audio#Render markdown text
+https://github.com/mtotschnig/SendWithFtp.git#Send With FTP#Photography#Upload files via FTP
+https://github.com/blurpy/kouchat-android.git#KouChat#Games#Chat
+https://github.com/no-go/TextThing.git#Retro Text Editor#Medical#Edit text files
+https://github.com/OpenArchive/openarchive-android.git#OpenArchive#Communication#Organize and share media
+https://github.com/reloZid/android-anuto.git#Anuto TD#Tools#Another Ugly Tower Defense
+https://github.com/lucasdnd/decimal-clock-widget.git#Decimal Time Clock Widget#Tools#Shows decimal clock as a widget
+https://github.com/0xbb/otp-authenticator.git#Authenticator#Tools#A two-factor authentication App
+https://github.com/billthefarmer/diary.git#Diary#Productivity#Personal diary or journal
+https://github.com/tkrajina/10000sentences.git#10,000 sentences#Tools#Learn new words in foreign languages
+https://github.com/rkkr/simple-keyboard.git#Setup Simple Keyboard#Photography#Simply keyboard and nothing more
+https://github.com/ZorinOS/zorin-connect-android.git#Zorin Connect#Tools#Connect your Zorin OS computer with your device
+https://github.com/brarcher/gift-card-guard.git#Gift Card Guard#Personalization#Manage gift cards, their current values, and an image of the most recent receipt
+https://github.com/Berlin-Vegan/berlin-vegan-guide.git#Berlin-Vegan#Lifestyle#Guide for vegan dining and shopping in Berlin
+https://github.com/wallabag/android-app.git#wallabag#Tools#Save and classify articles, read them later, freely
+https://github.com/RichyHBM/Monochromatic.git#Monochromatic#Productivity#Enable the built-in black and white mode
+https://github.com/teal77/trireme.git#Trireme for Deluge#Travel & Local#Deluge thin client
+https://github.com/gch1p/gravitydefied.git#Gravity Defied#Tools#Trail racing game
+https://github.com/hanjoongcho/aaf-easydiary.git#Easy Diary#Games#A diary application optimized for user experience
+https://github.com/mosmetro-android/mosmetro-android.git#Moscow Wi-Fi autologin#Tools#Automatically connect to public networks of Moscow public transport
+https://github.com/zikalify/StoicReading.git#Stoic Reading#Productivity#Consolidation of Stoic texts
+https://github.com/MrFlyingToasterman/Pijaret.git#Pijaret#Tools#Encrypt text by rotation
+https://github.com/MichaelEvans/NightModeEnabler.git#Night Mode Enabler#Tools#Enable NightMode on Android7+
+https://github.com/flyve-mdm/android-inventory-agent.git#Inventory#Video Players & Editors#This application is the Android Inventory Agent
+https://github.com/gianluca-nitti/android-expr-eval.git#ExprEval#Games#Math expression calculator with variables and functions support
+https://github.com/tobykurien/WebMediaShare.git#Web Media Share#Productivity#Share embedded music and videos from websites to VLC, Kodi TV, etc.
+https://github.com/dimtion/Shaarlier.git#Shaarlier#Health & Fitness#Share links on Shaarli
+https://github.com/zoff99/surespot-android.git#Surespot#Games#Send encrypted text messages
+https://github.com/icasdri/Mather.git#Mather#Games#A powerful expression-based calculator, unit converter, and computation engine
+https://github.com/rgex/UBIC-android-wallet.git#UBIC Wallet#Books & Reference#Wallet for the Unconditional Basic InCome
+https://github.com/ligi/FAST.git#FASTer App Search Tool#Tools#Find apps just by typing
+https://github.com/zamojski/TowerCollector.git#Tower Collector#Productivity#Join the community and collect cell towers locations from your area
+https://github.com/saschpe/BirthdayCalendar.git#Birthday Calendar#Tools#Creates birthday events from all other calendar's data
+https://github.com/blocklink-it/pigrid-companion-app.git#PiGrid Companion#Tools#Gridcoin Stakebox Companion App
+https://github.com/0xFireball/PluckLockEx.git#PluckLockEx#Tools#Lock your phone when snatched
+https://github.com/ligi/SurvivalManual.git#Survival Manual#Lifestyle#Learn how to survive
+https://github.com/manuelsc/Lunary-Ethereum-Wallet.git#Lunary#Entertainment#Manage and transfer your Ether with ease
+https://github.com/SimonMarquis/Android-PreferencesManager.git#Preferences Manager#Games#Edit app preferences
+https://github.com/punksta/volume_control_android.git#Volume Control#Business#Simple volume control application without unnecessary features
+https://github.com/forrestguice/SuntimesWidget.git#Suntimes#Books & Reference#Display sunlight and moonlight times
+https://github.com/quaap/Primary.git#Primary#Productivity#A simple educational practice game for kids (and adults).
+https://github.com/j4velin/SystemAppMover.git#/system/app mover#Communication#Add and remove system apps
+https://github.com/google/mozc.git#Mozc for Android#Finance#Japanese Input Method Editor
+https://github.com/GermainZ/ActivityForceNewTask.git#ActivityForceNewTask#Tools#Xposed module that forces activities to open in a new task
+https://github.com/ATryder/TEdit.git#TEdit#Lifestyle#A simple text editor
+https://github.com/pretix/pretixdroid.git#pretixdroid#Games#Validates tickets generated by pretix
+https://github.com/zxalexis/guess.git#Guess#Tools#Guess a number
+https://github.com/jannispinter/jaws.git#JAWS#Tools#Just another wifi scanner
+https://github.com/nus-mtp/worldscope.git#WorldScope#Medical#Meadia streaming client
+https://github.com/nathan-osman/chronosnap.git#ChronoSnap#Tools#Take photos in intervals
+https://github.com/YoeriNijs/NoteBuddy.git#NoteBuddy#Video Players & Editors#Store encrypted notes
+https://github.com/supertuxkart/stk-code.git#SuperTuxKart#Tools#A 3D arcade racer with a variety of characters, tracks, and modes to play.
+https://github.com/niccokunzmann/mundraub-android.git#Fruit Radar#Video Players & Editors#Find edible plants and share them online!
+https://github.com/openintents/flashlight.git#OI Flashlight#Tools#Helps you find your way in the dark
+https://github.com/daktak/basketbuild_downloader.git#BasketBuild Downloader#Tools#Download roms from s.basketbuild.com
+https://github.com/WooKeyWallet/wookey-wallet-android-app.git#WooKey Wallet#Productivity#
+https://github.com/ThirtyDegreesRay/OpenHub.git#OpenHub#Photography#A GitHub client app, faster and concise
+https://github.com/daper/nextcloud-passwords-app.git#NextcloudPasswords#Tools#Manage your Nextcloud passwords
+https://github.com/smarek/Simple-Dilbert.git#Simple Dilbert#Photography#Comic strip reader
+https://github.com/chrisboyle/sgtpuzzles.git#Puzzles#Tools#39 single-player logic games
+https://github.com/mridang/gasflow.git#Gasflow#Social#Show network speed in the status bar
+https://github.com/dkrivoruchko/ScreenStream.git#ScreenStream#Music & Audio#Screen streaming over HTTP
+https://github.com/Mygod/VPNHotspot.git#VPN Hotspot#Games#Share your VPN connection over hotspot or repeater
+https://github.com/TheAkki/Synctool.git#SyncTool#Communication#Synchronize data between a smartphone and a server
+https://github.com/hypeapps/episodie.git#Episodie#Family#Discover and track TV show time
+https://github.com/friimaind/pi-hole-droid.git#Pi-hole Droid#Productivity#Unofficial client that connects to your Pi-hole to show charts and statistics
+https://github.com/orgzly/orgzly-android.git#Orgzly#Photography#Outliner for notes and tasks in plain-text
+https://github.com/indywidualny/FaceSlim.git#Face Slim#Productivity#Connect to Facebook
+https://github.com/Frozen-Developers/android-cache-cleaner.git#Cache Cleaner#Finance#Clean the cache
+https://github.com/juha-h/baresip-studio.git#baresip#Personalization#VoIP User Agent app for Android based on baresip SIP library
+https://github.com/IvanVolosyuk/diskusage.git#DiskUsage#Productivity#Disk usage explorer
+https://github.com/slapperwan/gh4a.git#OctoDroid#Productivity#GitHub client
+https://github.com/openhab/openhab-android.git#openHAB Beta#Tools#Vendor and technology agnostic open source home automation
+https://github.com/indication/OpenRedmine.git#OpenRedmine#Communication#Redmine client
+https://github.com/IbrahimYousre/Resume-Builder.git#Resume Builder#Productivity#An app to help you create your resume
+https://github.com/mwgg/passera.git#Passera#Food & Drink#Generate strong passwords
+https://github.com/xargsgrep/PortKnocker.git#Port Knocker#Productivity#Port Knocker Client
+https://github.com/SimpleMobileTools/Simple-Flashlight.git#Flashlight#Personalization#A simple flashlight without ads.
+https://github.com/Perflyst/OpenUntis.git#OpenUntis#Family#An alternative FLOSS client for the Untis timetable system
+https://github.com/miku-nyan/Overchan-Android.git#Overchan#Games#Browse multiple imageboards
+https://github.com/NyaaPantsu/NyaaPantsu-android-app.git#NyaaPantsu#Family#An app interface interacting with NyaaPantsu
+https://github.com/Alikaraki95/Getoffyourphone.git#Get Off Your Phone#Communication#Control procrastination with an app locker
+https://github.com/thuryn/your-local-weather.git#Your local weather#Family#Application displays current weather and location wherever you are.
+https://github.com/rignaneseleo/SlimSocial-for-Twitter.git#SlimSocial for Twitter#Games#Access Twitter
+https://github.com/LuK1337/SauceNAO.git#SauceNAO#Tools#Unofficial SauceNAO client
+https://github.com/OGRECave/ogre.git#OgreSampleBrowser#Lifestyle#Object-Oriented Graphics Rendering Engine - Samples
+https://github.com/AdrienPoupa/VinylMusicPlayer.git#Vinyl#Video Players & Editors#Light and slick material design music player
+https://github.com/poseidn/KungFoo.git#Kung Foo Barracuda#Games#Play a beat'em up arcade game
+https://github.com/ligi/MaterialTeaTimer.git#Material Tea Timer#Productivity#Time your tea with style
+https://github.com/JiriSko/amixer-webui-android.git#ALSA Mixer WebUI#Music & Audio#Client for ALSA Mixer WebUI
+https://github.com/danielegobbetti/ICSImport.git#Add to calendar#Family#Import .ics files into calendar
+https://github.com/KeyLo99/k3pler.git#k3pler#Entertainment#Network connection blocker and packet analyzer
+https://github.com/dkanada/OpenAPK.git#OpenAPK#Games#A material design app manager forked from ML Manager
+https://github.com/mannd/morbidmeter-android.git#MorbidMeter#Tools#Life expectancy widget
+https://github.com/AnderWeb/android_packages_apps_Launcher.git#ADW.Launcher#Tools#Home screen replacement
+https://github.com/Utyff/pMetro.git#pMetro#Family#Calculate shortest metro routes in Russia
+https://github.com/johanhil/copy-to-clipboard.git#Copy to Clipboard#Communication#Copy via the share menu
+https://github.com/MarcusWolschon/osmeditor4android.git#Vespucci#Tools#Edit geodata and contribute to OpenStreetMap project on-the-go
+https://github.com/flex3r/DankChat.git#DankChat#Productivity#A simple app to chat on Twitch.tv
+https://github.com/ybonnel/TransportsRennes.git#Transports Rennes#Family#Transport info for France
+https://github.com/scheich/debDroid.git#debDroid#Tools#Search for debian packages
+https://github.com/jakobwenzel/MensaGuthaben.git#Mensa-Guthaben#Entertainment#Check balance of NFC mensa cards
+https://github.com/gsantner/kimai-android.git#Kimai#Games#Wrapper for Kimai - Time-Tracking
+https://github.com/aperifons/Wa-Tor.git#Wa-Tor#Tools#A simple population dynamics simulator
+https://github.com/trikita/talalarmo.git#Talalarmo#Productivity#Minimal, simple and free alarm clock thoughtfully designed by nap enthusiasts.
+https://github.com/benjaminaigner/aiproute.git#AIProute#Finance#Change IP routes for the Wifi interface
+https://github.com/Willena/OpenDNSUpdater.git#OpenDNSUpdater#Tools#
+https://github.com/openbmap/radiocells-nlp-android.git#Radiocells.org UnifiedNlp Backend#Communication#UnifiedNlp location provider (Radiocells.org)
+https://github.com/wbaumann/SmartReceiptsLibrary.git#Smart Receipts Pro#Games#Save Time: Photograph Receipts, Track Mileage, and Create Expense Reports
+https://github.com/j4velin/WiFi-Automatic.git#WiFi Automatic#Tools#Turn off WiFi automatically
+https://github.com/stephanepoinsart/votar.git#VotAR#Games#Vote with augmented reality
+https://github.com/VelbazhdSoftwareLLC/HouseOfCards.git#House of Cards#Video Players & Editors#Solitaire-like card game
+https://github.com/sanbeg/flashlight.git#Open FlashLight#Games#Camera LED toggle
+https://github.com/markusfisch/ShaderEditor.git#Shader Editor#Personalization#Create and edit GLSL shaders
+https://github.com/daverix/urlforwarder.git#Url forwarder#Family#Save bookmarks
+https://github.com/nilesr/United4.git#la/u/ncher#Productivity#The official app for danger/u/, dangeru.us
+https://github.com/raatmarien/Point-and-Hit.git#Point & Hit#Productivity#Fast-paced tilt-based game
+https://github.com/janosgyerik/bluetoothviewer.git#Bluetooth Viewer (LITE)#Productivity#Bluetooth connection debugging tool
+https://github.com/kamgurgul/cpu-info.git#CPU Info#Tools#Information about device hardware and software
+https://github.com/jklmnn/ParkenDD.git#ParkenDD#Travel & Local#Show available parking slots in major cities
+https://github.com/marc136/tonuino-nfc-tools.git#TonUINO NFC Tools#Personalization#Read and write NFC Tags for TonUINO
+https://www.github.com/HenriDellal/patolli.git#Patolli#Communication#Board game for 1 or 2 players
+https://github.com/no-go/YiddishKeyboard.git#YidKey KD#Entertainment#Yiddish keyboard (Compatibility Decomposition)
+https://github.com/meshenger-app/meshenger-android.git#Meshenger#Tools#An Open-Source P2P Messenger
+https://github.com/amirzaidi/Launcher3.git#Rootless Pixel Launcher#Tools#Launcher3 with Pixel Launcher features
+https://github.com/dozingcat/AsciiCam.git#AsciiCam#Tools#Replace pixels with text
+https://github.com/m0ppers/ElpeEfpeAndroid.git#Elpe Efpe#Lifestyle#Manage health and focuspoints of your Splittermond characters
+https://github.com/rascarlo/AURdroid.git#AURdroid#Tools#Simple Android AUR [Arch Linux User repository] packages browser.
+https://github.com/martinchodev/RedPanal-Android-WebApp.git#RedPanal#Entertainment#Client for RedPanal
+https://github.com/Depau/POuLBITS-Android.git#POuL BITS#Entertainment#Get POuL headquarters status in realtime
+https://github.com/yeriomin/WorkoutLog.git#WorkoutLog#Health & Fitness#A minimalistic app for tracking your workouts
+https://github.com/microg/AppleWifiNlpBackend.git#Apple UnifiedNlp Backend#Entertainment#UnifiedNlp location provider (Apple WiFi)
+https://github.com/xmikos/SnooperStopper.git#SnooperStopper#Games#Set different boot and unlock passwords
+https://github.com/freshollie/monkeyboard-radio-android.git#Monkeyboard Keystone Radio#Communication#Monkeyboard FM & DAB/DAB+ radio interface
+https://github.com/genonbeta/TrebleShot.git#TrebleShot#Productivity#Send and receive files over available connections
+https://github.com/bk138/multivnc.git#MultiVNC#Games#VNC viewer that aims to be easy to use and fast
+https://github.com/maxammann/music-cyclon.git#Synchronizing#Maps & Navigation#App to synchronize music over network by using the beets web server
+https://github.com/tasks/tasks.git#Tasks#Books & Reference#Fork of Astrid Tasks & To-Do List
+https://github.com/MBach/AutoAirplaneMode.git#Auto Airplane Mode#Books & Reference#Schedule airplane mode based on your settings
+https://github.com/opacapp/opacclient.git#Web Opac#Tools#Convenient access to 1,000+ public and academic libraries
+https://github.com/nvllsvm/Audinaut.git#Audinaut#Tools#Stream music from Subsonic-compatible servers
+https://github.com/ratmole/Mach3Pendant.git#Mach3Pendant#Tools#Control your Mach3 CNC via WiFi
+https://github.com/sensebox/blockly-app.git#Blockly for senseBox#Personalization#Visual Programming of the senseBox:MCU via Blockly
+https://bitbucket.org/dboddie/weather-forecast-android.git#Weather Forecast#Social#View weather forecasts from yr.no
+https://github.com/citiususc/calendula.git#Calendula#Tools#Medication management made easy
+https://github.com/SecUSo/privacy-friendly-circuit-training-exercises.git#Circuit Trainer#Health & Fitness#A timer for circuit training with custom exercises
+https://github.com/TripSit/tripmobile.git#TripSit#Photography#Information, combination charts and a live help chat for recreational drugs
+https://github.com/CityZenApp/AndroidApp.git#CityZen#Productivity#City navigation app
+https://github.com/alketii/mighty-knight.git#Mighty Knight#Tools#Infinite runner
+https://github.com/CommonsLab/CommonsLab.git#CommonsLab#Family#Browse and contribute Wikimedia Commons
+https://github.com/Marlinski/Rumble.git#Rumble#Tools#Off-the-grid micro-blogging application for communities
+https://github.com/huckleberrypie/pollywog.git#Pollywog#Photography#Minimal utilities menu for the LeapFrog Epic
+https://github.com/TomTasche/OpenDocument.droid.git#OpenDocument Reader#Lifestyle#Document reader
+https://github.com/crysxd/Studiportal-Checker.git#Studiportal#Personalization#Check for test results at HS Furtwangen
+https://github.com/wuan/bo-android.git#Blitzortung Lightning Monitor#Games#Get an overview of the current thunderstorm situation
+https://github.com/Adonai/Man-Man.git#Man Man#Personalization#View, download and search Linux manpages
+https://github.com/SecUSo/privacy-friendly-sudoku.git#Sudoku#Tools#Play Sudoku logic puzzle
+https://github.com/qqq3/inventum.git#Inventum#Business#Learn more about your favorite movies and TV shows
+https://github.com/scoute-dich/Weather.git#FOSS Weather#Family#Get weather information from several webservices
+https://github.com/itkach/aard2-android.git#Aard 2#Tools#Offline dictionary
+https://github.com/salvadorp2001/Inventory_Taker.git#InventoryGUI Mobile#Lifestyle#
+https://github.com/DocSalvi/LinuxDayAppAndroid.git#LinuxDayOSM#Health & Fitness#Info on Linux day events in Italy
+https://github.com/Telegram-FOSS-Team/Telegram-FOSS.git#Telegram#Tools#Telegram is a messaging app with a focus on speed and security.
+https://github.com/kriztan/Pix-Art-Messenger.git#Pix-Art Messenger#Games#is an Open Source XMPP/Jabber Messenger for Android
+https://github.com/mvbasov/lWS.QR.git#lWS QR#Maps & Navigation#lightweight Web Server QR code generator plugin
+https://github.com/davidar/fabularium.git#Fabularium#Health & Fitness#Create and play interactive fiction
+https://github.com/subchannel13/EnchantedFortress.git#Enchanted Fortress#Personalization#Build, manage and defend your castle
+https://github.com/tube42/drumon.git#Drum On!#Music & Audio#Use your smartphone as a virtual drum
+https://github.com/PrivacyApps/calendar-contacts-shortcuts.git#Shortcuts for Calendar/Contacts#Music & Audio#Add shortcuts for new calendars and contacts
+https://github.com/andresth/Kandroid.git#Kandroid#Productivity#Manage your projects
+https://github.com/jimmod/ShareToComputer.git#Share to Computer#Family#Share anything to your computer
+https://github.com/trezor/trezor-android.git#TREZOR Manager#Tools#TREZOR hardware wallet Manager
+https://github.com/traccar/traccar-client-android.git#Traccar Client#Auto & Vehicles#Track your location
+https://github.com/thelinuxgeekcommunity/simpleirc.git#Simple IRC#Productivity#Connect to an IRC server
+https://github.com/billthefarmer/shorty.git#Shorty#Finance#Shortcuts for Intent Radio
+https://github.com/brarcher/video-transcoder.git#Video Transcoder#Books & Reference#Video transcoding between common formats
+https://github.com/engSERGIU/React.git#React#Maps & Navigation#Test your reaction time
+https://github.com/ligi/IPFSDroid.git#IPFSDroid#Productivity#IPFS Tool
+https://github.com/ooni/probe-android.git#OONI Probe#Tools#Open Observatory of Network Interference (OONI)
+https://github.com/google/samba-documents-provider.git#Android Samba Client#Games#Access files shared through a SAMBA share
+https://github.com/kebernet/shortyz.git#Shortyz#Family#Crossword game
+https://github.com/HassanHeydariNasab/turo.git#Turo#Tools#Build a Tower
+https://github.com/Rudloff/PaperCraft.git#PaperCraft#Games#A Material Design inspired space shooter
+https://github.com/39aldo39/DecSyncCC.git#DecSync CC#Productivity#Sync contacts and calendars without a server using DecSync
+https://github.com/termux/termux-boot.git#Termux:Boot#Tools#Add-on for Termux allowing programs to be run at boot
+https://github.com/VelbazhdSoftwareLLC/TriPeaksSolitaireForAndroid.git#Tri Peaks Solitaire for Android#Music & Audio#Solitaire card game
+https://github.com/AsteroidOS/AsteroidOSSync.git#AsteroidOS Sync#Libraries & Demo#Synchronize with your AsteroidOS smartwatch
+https://github.com/tryton-vanmeer/LibreTrivia.git#LibreTrivia#Games#An open source trivia game for Android.
+https://github.com/WeAreFairphone/android_packages_apps_ClockWidget.git#Fairphone Clock Widget#Productivity#Clock widget originally designed for the Fairphone 2
+https://github.com/meonwax/soundboard.git#Soundboard#Games#Play short sound samples on touch
+https://github.com/fenimore/fissure-android.git#Fissure#Travel & Local#Create and view GIFs
+https://github.com/billthefarmer/accordion.git#Accordion#Tools#Accordion emulator
+https://github.com/elboza/footguy.git#Footguy#Tools#Footguy widget
+https://github.com/chandevel/Clover.git#Clover#Tools#Imageboard browser
+https://github.com/RomanGolovanov/ametro.git#aMetro#Games#Public transport navigator
+https://github.com/ScreamingHawk/android-slideshow.git#Slideshow#Music & Audio#View a slideshow of your images
+https://github.com/gabm/FancyPlaces.git#Fancy Places#Video Players & Editors#Store your FancyPlaces (geobookmarks)
+https://github.com/drpout/boilr.git#Boilr#Tools#Pricealarm for Bitcoin, altcoins, assets & futures
+https://github.com/wownero/wownerujo.git#Wownerujo#Tools#Wownero wallet
+https://github.com/ReeceStevens/ut_ewh_audiometer_2014.git#Audiometry Made Easy#Personalization#Test your hearing capabilities
+https://github.com/cemrich/zapp.git#Zapp#Communication#Collection of German public broadcasting live streams
+https://github.com/HopEdia/android-client.git#Hop'Edia#Communication#Helps you to choose a good beer
+https://github.com/microg/NominatimGeocoderBackend.git#NominatimNlpBackend#Games#UnifiedNlp geocoding provider (MapQuest Nominatim)
+https://github.com/andDevW/getChromium.git#getChromium#Tools#Installs the latest build of Chromium
+https://github.com/sduduzog/slim-launcher.git#Slim Launcher#News & Magazines#Minimalistic launcher
+https://github.com/fossasia/badge-magic-android.git#Badge Magic#Personalization#Create Symbols and Text on LED Name Badges using Bluetooth
+https://github.com/vishesh/sealnote.git#SealNote#Games#Simple, safe and easy to use notepad
+https://github.com/greenaddress/GreenBits.git#GreenBits Testnet#Games#GreenAddress Testnet client
+https://github.com/sovworks/edslite.git#EDS Lite#Business#Virtual disk encryption
+https://github.com/NHMoeDev/NHentai-android.git#NHBooks#Tools#NHBooks is a Material Design NHentai client
+https://github.com/Alcidauk/CineLog.git#CineLog#Maps & Navigation#Save reviews of movies
+https://github.com/CoolMicApp/CoolMicApp-Android.git#Cool Mic#Books & Reference#Icecast source client
+https://github.com/evancharlton/android-mileage.git#Mileage#Tools#A Mileage tracker
+https://github.com/enricocid/Color-picker-library.git#Colorpicker#Games#Pick colors and display values
+https://github.com/wseemann/RoMote.git#RoMote#Health & Fitness#Roku remote
+https://github.com/tasomaniac/OpenLinkWith.git#Open Link With#Games#
+https://github.com/Shirakumo/ocelot.git#Ocelot#Games#Lichat client
+https://github.com/fvasco/pinpoi.git#PinPoi#Tools#Import and manage points of interest
+https://github.com/DaylightingSociety/WhereAreTheEyes.git#WhereAreTheEyes#Productivity#Build a map of surveillance cameras with other activists
+https://github.com/chaosdorf/meteroid.git#meteroid#Business#Client for Mete
+https://bitbucket.org/gelin/weather-notification.git#Weather Skin: White Text Plus#Photography#The skin for Weather Notification
+https://github.com/vitas/beaconloc.git#Beacon Locator#Tools#Interact with Bluetooth beacons
+https://github.com/simple-last-fm-scrobbler/sls.git#Simple Scrobbler#News & Magazines#Last.fm/Libre.fm Scrobbler
+https://github.com/dfrits/MobilePauker2.git#Mobile Pauker ++#Tools#Learn intuitively with flash cards and synchronize your lesson with Dropbox
+https://github.com/ctodobom/OpenNoteScanner.git#Open Note Scanner#Tools#Scan documents, handwritten notes or arts
+https://github.com/ppareit/swiftp.git#FTP Server (Free)#Games#Access your phone wirelessly
+https://github.com/Valodim/Stratum0Widget.git#Stratum 0 Widget#Productivity#Status Widget for Stratum 0, Hackerspace Braunschweig
+https://github.com/sriharshaarangi/BatteryChargeLimit.git#Battery Charge Limit#Maps & Navigation#Stops charging at a desired level
+https://github.com/k3b/APhotoManager.git#A Photo Manager#Weather#Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map.
+https://github.com/jarofgreen/Just-A-Damn-Compass.git#Just A Damn Compass#Lifestyle#It's just a small simple compass, with no unneeded features.
+https://github.com/ellaism/Lunary-Ethereum-Wallet.git#Ellaism#Tools#Ellaism Mobile Wallet
+https://github.com/OSRSHelper/OSRSHelper.git#OSRS Helper#Games#View your RuneScape stats
+https://github.com/CarstenKarbach/MoTAC.git#MoTAC#Productivity#Digital TAC board
+https://github.com/LukeStonehm/LogicalDefence.git#Logical Defence#Travel & Local#Prepare to battle against the sophists of the world with this beautiful app.
+https://github.com/kyriog/rights-alert.git#Rights alert#Maps & Navigation#Permissions Reporter
+https://github.com/rmst/yoke-android.git#Yoke#Tools#Hackable gamepad for Linux
+https://github.com/MarcoSpoerl/simply-pace.git#Simply Pace#Personalization#Calculate your pace
+https://github.com/labexp/osmtracker-android.git#OSMTracker#Games#GPS Track Recorder
+https://github.com/abrensch/brouter.git#BRouter#Travel & Local#Get elevation-aware cycling directions
+https://github.com/haha01haha01/HaRail_Android.git#HaRail#Productivity#Find train routes and schedules in Israel
+https://github.com/arpruss/sendreduced.git#Send Reduced#Personalization#Reduce image size
+https://github.com/SibDev/BadPixels.git#Bad Pixel Detector#Tools#Check your device on pixel failures by plain screens in 8 colors, black & white
+https://github.com/dsoulayrol/android-sholi.git#ShoLi#Productivity#Shopping lists manager
+https://github.com/RCasatta/EternityWallAndroid.git#Eternity Wall#Tools#Write messages on the EternityWall
+https://github.com/ruleant/getback_gps.git#GetBack GPS#Communication#Navigation tool
+https://github.com/jpriebe/hotdeath.git#Hot Death#Games#Card game
+https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid.git#Fish Rings for Android#Communication#Puzzle game
+https://github.com/lesspass/lesspass.git#LessPass#Tools#Generate unique passwords for your accounts based on a master password
+https://github.com/velazcod/Tinfoil-Facebook.git#Tinfoil for Facebook#Tools#Facebook browser with privacy
+https://github.com/ScreamingHawk/phone-saver.git#Phone Saver#Family#Save files via Share menu
+https://github.com/Webierta/ahorcandroid.git#Ahorcado#Tools#Juego de El Ahorcado
+https://github.com/Dryec/tron-wallet-android.git#Tron Wallet#Games#Multifunctional wallet for the TRON network
+https://github.com/project-travel-mate/Travel-Mate.git#Travel Mate#Personalization#A complete travel guide
+https://github.com/tjg1/nori.git#Nori#Medical#Online tag-based image archive viewer
+https://github.com/anisse/bepo-android.git#Bépo clavier externe#Personalization#bépo pour clavier externe
+https://github.com/tobexyz/yaacc-code.git#Yaacc#Personalization#UPNP/DLNA Client and Server
+https://github.com/warenix/Web2PDF.git#Web2PDF#Communication#Convert any web page at your fingertips
+https://github.com/foocorp/gnu-fm.git#Libre Droid#Photography#Client for Libre.fm
+https://github.com/tengusw/share_to_clipboard.git#Share to Clipboard#Music & Audio#A way to copy to clipboard straight from the share menu!
+https://github.com/abhijitvalluri/fitnotifications.git#Fit Notifications#Productivity#Enable all notifications for compatible Fitbit devices
+https://github.com/michaelkourlas/voipms-sms-client.git#VoIP.ms SMS#Communication#Send and read SMS via voip.ms
+https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers.git#WhatsApp Twitch Stickers#Games#Twitch emotes as WhatsApp stickers
+https://github.com/Wilm0r/giggity.git#Giggity#Games#Schedule viewer for conferences and other events
+https://github.com/westnordost/StreetComplete.git#StreetComplete#Productivity#OpenStreetMap surveyor app
+https://github.com/no-go/AnotherRSS.git#Another RSS#Shopping#reader for multiple RSS feeds in a single, searchable list
+https://bitbucket.org/jufickel/bierverkostung.git#Bierverkostung#Tools#Document and manage your personal beer tastings
+https://github.com/rdoeffinger/Dictionary.git#QuickDic#Productivity#Offline translation dictionary
+https://github.com/bronydell/Android-MGKEapp.git#Расписание МГКЭ#Communication#Track updates of schedule on college site
+https://github.com/eleybourn/Book-Catalogue.git#Book Catalogue#Finance#Book cataloguing tool
+https://github.com/quarck/CalendarNotification.git#Calendar Notifications#Tools#Advanced calendar notifications
+https://github.com/SimonMarquis/Android-SecretCodes.git#Secret Codes#Communication#Secret code scanner
+https://github.com/TheFakeMontyOnTheRun/knightsofalentejo.git#The Knights of Alentejo#Games#Guide knights through a dungeon
+https://github.com/khuttun/NotificationNotes.git#Notification Notes#Lifestyle#Add notes and show them as notifications
+https://github.com/light-launcher/Light-Android-Launcher.git#Light Android Launcher#Business#Lightweight app launcher
+https://github.com/LeonardoCardoso/Multitouch-Test.git#Multitouch Test#Business#Test multitouch capabilities
+https://github.com/bvlj/diab.git#Diab#Personalization#Smart diabetes manager, log your blood sugar and insulin doses, optional export
+https://github.com/cerisara/mousetodon.git#MouseApp#Tools#Mastodon multi-instances client
+https://github.com/SimpleMobileTools/Simple-Gallery.git#Simple Gallery Pro#Books & Reference#Offline gallery without ads. Organize, edit, recover and protect photos & videos
+https://github.com/Phantast/smartnavi.git#SmartNavi#Games#Navigation for pedestrians
+https://github.com/TheChiefMeat/FreeTusky.git#FreeTusky#Video Players & Editors#A multi account client for the social network Mastodon
+https://github.com/igoralmeida/muzei-apod.git#NASA APOD for Muzei#Travel & Local#NASA Astronomy Picture of the Day for Muzei
+https://github.com/anthonycr/Lightning-Browser.git#Lightning#Family#Lightweight web browser
+https://github.com/andviane/google-books-android-viewer.git#BookList#Personalization#Unofficial Google Books viewer
+https://github.com/niqdev/ipcam-view.git#IPCam Demo#Tools#MJPEG video streaming on Android
+https://github.com/timnew/AndroidInfrared.git#Smart Remote Control#Music & Audio#Interface with IR-LEDs from Samsung devices
+https://github.com/jamienicol/episodes.git#Episodes#Books & Reference#Track TV shows you have seen
+https://github.com/SecUSo/privacy-friendly-pain-diary.git#Pain Diary#Finance#Helps you tracking pain
+https://github.com/minetest/minetest.git#Minetest#Games#Near infinite world block sandbox game
+https://github.com/marcosdiez/shareviahttp.git#Share via HTTP#Family#File sharing tool
+https://github.com/phrogg/BatteryCalibrator.git#BatteryCalibrate#Games#Removes old battery configurations to fix software related issues
+https://github.com/TeamNewPipe/NewPipe-legacy.git#NewPipe Legacy#Productivity#Lightweight YouTube frontend for OS versions 4.x
+https://github.com/pot8oe/mythmote.git#mythmote#Games#Mythtv frontend control interface.
+https://github.com/atd/HandyNotes.git#HandyNotes#Maps & Navigation#Sticky notes widget
+https://github.com/err4nt/SwpieView.git#SwpieView#Productivity#Minimalist image viewer with GIF support
+https://github.com/PrivacyApps/document-viewer.git#Document Viewer#Tools#A highly customizable viewer for PDF, DjVu, XPS, cbz, fb2 for Android.
+https://github.com/otakuchiyan/DNSman.git#DNS man#Tools#Set DNS lookup server
+https://github.com/grzegorznittner/chanu.git#Chanu#Communication#4chan viewer
+https://github.com/cmeng-git/atalk-android.git#aTalk#Tools#XMPP/Jabber client with encrypted instant messaging and video calls
+https://github.com/e-venement/eve-control.git#Eve-control#Productivity#Control your e-venement tickets
+https://github.com/cweiske/headphoneindicator.git#Headphone indicator#Personalization#Show a status icon when headphones are plugged in
+https://github.com/Papuh/PapuhWalls.git#Papuh#Games#Display live wallpapers
+https://github.com/john-tornblom/TVHGuide.git#TVHGuide#Productivity#TVHeadEnd PVR client
+https://github.com/android-hacker/VirtualXposed.git#VirtualXposed#Personalization#Use Xposed without root, unlock the bootloader or modify system image
+https://github.com/richardchien/clear-weather-android.git#清心天气#Tools#Get weather forecasts (CN)
+https://github.com/pR0Ps/Entrust-IdentityGuard-Unblocker.git#Entrust IdentityGuard Unblocker#Tools#Xposed module to let rooted devices use Entrust's IdentityGuard app
+https://github.com/zoenb/log28.git#log28#Games#A simple no-frills period tracker
+https://github.com/yeriomin/SmsScheduler.git#SMS Scheduler#Travel & Local#Lets you schedule an sms to be sent at a specific time
+https://github.com/Kestutis-Z/World-Weather.git#World Weather#Personalization#View weather forecast
+https://github.com/mdecorde/BAC76.git#RiverFerry#Entertainment#Seine-Maritime river ferries
+https://github.com/Antonis427/veterondo.git#Veterondo#Beauty#Generate colors from weather information
+https://github.com/tux4kids/Tuxpaint-Android.git#Tux Paint#Tools#A drawing program for children.
+https://github.com/iamSahdeep/Bop.git#Bop-MusicPlayer#Communication#Lightweight and powerful music player
+https://github.com/rascarlo/ArchPackages.git#Arch packages#Productivity#Arch Linux packages browser. The application makes use of the official API to br
+https://github.com/domoritz/open-mensa-android.git#OpenMensa#Games#Meals for university canteens
+https://github.com/szym/barnacle.git#Barnacle Wifi Tether#Tools#Ad-hoc WiFi Access Point
+https://github.com/dkanada/frost.git#Frost#Productivity#Monotone icon pack
+https://github.com/kabouzeid/Phonograph.git#Phonograph#Tools#Material designed music player
+https://github.com/nbenm/ImapNote2.git#ImapNotes2#Tools#Sync your notes with iOs devices and different accounts like Gmail and others
+https://github.com/tijder/SmsMatrix.git#SmsMatrix#Social#Matrix SMS bridge
+https://github.com/vector-im/riot-android.git#Riot.im#Games#Welcome to Riot: a new world of open communication!
+https://github.com/walleth/walleth.git#WallETH#Finance#Ethereum wallet
+https://github.com/ymakei/vegetarian_journal.git#Газета VEGETARIAN#Music & Audio#Все доступные выпуски газеты "VEGETARIAN"
+https://github.com/grote/Transportr.git#Transportr#Photography#Public Transport Companion
+https://github.com/VelbazhdSoftwareLLC/VitoshaDM.git#VitoshaDM#Tools#Helps you to make decisions
+https://github.com/julian-klode/dns66.git#DNS66#Tools#Block ads/hosts via DNS
+https://bitbucket.org/stativ/chmupocasi.git#Počasí v krajích#Games#Short-term weather forecast for Czech Republic
+https://github.com/cvzi/ScreenshotTile.git#Screenshot Tile (NoRoot)#Communication#Quick settings tile for screenshots
+https://github.com/indrora/Atomic.git#Atomic#Productivity#IRC (chat) client
+https://github.com/movim/movim_android.git#Movim#Social#Decentralized Social Network
+https://bitbucket.org/przemekr/24-game.git#24game#Books & Reference#Simple arithmetic game
+https://github.com/dzmanto/foehnix.git#Föhnix#Games#The Foehnix weather widget aims at helping pilots with weather conditions
+https://github.com/MarcelJurtz/LifeCounter.git#LifeCounter#Tools#Lifecounter for Magic The Gathering
+https://github.com/schwabe/ics-openvpn.git#OpenVPN for Android#Family#OpenVPN without root
+https://github.com/haiwen/seadroid.git#Seafile#Video Players & Editors#File synchronization
+https://github.com/raulhaag/MiMangaNu.git#Mi Manga Nu#Tools#Manga reader
+https://github.com/jatwigg/cmus-android-remote.git#Cmus Remote#Entertainment#Remotely control CMUS instances
+https://github.com/rosenpin/QuickDrawEverywhere.git#Quick Draw Everywhere#Communication#Draw and take notes everywhere on your device
+https://github.com/abertschi/ad-free.git#Ad-Free#Photography#AdBlocker for Spotify
+https://github.com/TobiasBielefeld/Simple-Search.git#Simple Search#Books & Reference#Simple and customizable search bar
+https://github.com/sergstetsuk/CosyDVR.git#CosyDVR#Games#Video recording (DVR) software for in-car use
+https://github.com/Renard1911/BaiApp.git#Bienvenido a Internet#Productivity#Bienvenido a Internet text/image board browser
+https://github.com/Cleveroad/PlayWidget.git#PlayMusic Widget (sample)#Medical#Play music from a widget
+https://github.com/Swati4star/Images-to-PDF.git#PDF Converter#Productivity#Create PDF files
+https://github.com/scoutant/rpn.git#RPN#Games#Very easy to use RPN Calculator
+https://github.com/SoupeauCaillou/heriswap.git#Heriswap#Games#Match three objects to get points
+https://github.com/rosenpin/AlwaysOnAmoledPlugin.git#Always On AMOLED Plugin#Tools#Control capacitive button lights via Always On AMOLED
+https://github.com/SecUSo/privacy-friendly-ludo.git#Ludo#Entertainment#Boardgame for 1 up to 6 players
+https://github.com/kconger/org.thecongers.mtpms.git#mTPMS#Tools#Read tire pressure sensor
+https://github.com/mvbasov/lWS.git#lWS#Photography#lightweight Web Server (lWS)
+https://github.com/jsparber/CaptivePortalAutologin.git#Configure Autologin#Lifestyle#Automatically log into networks with captive portal
+https://github.com/hexedit/amazfit-face-replacer.git#AFReplacer#Books & Reference#Replace Amazfit Bip watchfaces in Mi Fit
+https://github.com/SubhamTyagi/AppLock.git#App Lock#Lifestyle#Deny access to set apps by pattern locks, prevent abuse, protect your privacy
+https://github.com/conchyliculture/wikipoff.git#WikipOff#Social#Download and read Wikipedia offline
+https://github.com/Sparker0i/Weather.git#Simple Weather#Finance#Get weather information
+https://github.com/chrismiceli/daap-client.git#DAAP#Tools#DAAP (Music/media sharing) Client
+https://github.com/SecUSo/privacy-friendly-pin-mnemonic.git#PIN Mnemonic#Travel & Local#Helps you to memorize PIN codes
+https://github.com/bernaferrari/ChangeDetection.git#Change Detection#Travel & Local#Automatically track website changes in background
+https://github.com/vvolas/Awesome-Live-Wallpaper.git#AwesomeWallpaper#Games#Live wallpaper with a happy llama
+https://github.com/JohnMH/BoogDroid.git#BoogDroid#Weather#Bugzilla client
+https://github.com/ianmcxa/vortaro.git#Senreta Vortaro#Tools#Simple, offline English-Esperanto dictionary
+https://github.com/francescosoave/TIS_android.git#The Italian Said#Music & Audio#Italian proverbs in English
+https://github.com/SecUSo/privacy-friendly-notes.git#Notes#Family#Take and manage notes
+https://github.com/jtmcn/archwiki-viewer.git#ArchWiki Viewer#Games#View Arch Linux Wiki articles
+https://github.com/futurice/meeting-room-tablet.git#Reservator#Games#Display availablity of meeting rooms
+https://github.com/owncloud/android.git#ownCloud#Tools#Add an ownCloud server now and get ... Your Cloud, Your Data, Your Way!
+https://github.com/thiolliere/YouTubeStream.git#YouTube Stream#Tools#Get YouTube Stream and open it with local application
+https://github.com/gstraube/cythara.git#Cythara#Personalization#Musical instrument tuner
+https://github.com/NHellFire/KernelAdiutor.git#Kernel Adiutor#Tools#Manage kernel parameters
+https://github.com/Crazy-Marvin/Morse.git#Morse#Games#Convert text into Morse code and vice-versa
+https://github.com/ethauvin/NoUSSD.git#NoUSSD#Tools#USSD firewall
+https://github.com/gjedeer/androidwisprclient.git#Fon#Games#Auto connect to FON network
+https://github.com/iilab/openmentoring-mobile.git#openmentoring-mobile#Family#Helps access and share practical educational content on digital security
+https://bitbucket.org/lenny_kano/catapult.git#Catapult#Music & Audio#Launcher based on Cyanogen's Trebuchet
+https://github.com/JBirdVegas/external_jbirdvegas_mGerrit.git#mGerrit#Family#Gerrit client
+https://github.com/dozingcat/Vector-Pinball.git#Vector Pinball#Entertainment#Pinball game
+https://github.com/sschueller/peertube-android.git#Thorium#Social#a PeerTube player
+https://github.com/renyuneyun/FLock.git#FLock Now#Productivity#Floating lockscreen button
+https://github.com/jfilter/frag-den-staat-app.git#FragDenStaat#Health & Fitness#Navigate FragDenStaat
+https://github.com/microg/android_packages_apps_UnifiedNlp.git#UnifiedNlp (no GAPPS) (legacy)#News & Magazines#Location provider middleware (UnifiedNlp)
+https://github.com/GEANT/CAT-Android.git#eduroamCAT#Tools#eduroam Configuration Assistant Tool
+https://github.com/termux/termux-app.git#Termux#Tools#Terminal emulator with packages
+https://github.com/awaken/sanity.git#Sanity#Business#Phone Assistant
+https://github.com/LibreShift/red-moon.git#Red Moon#Productivity#Filter blue light from your screen for a better sleep
+https://github.com/CorvetteCole/GotoSleep.git#Go to Sleep#Games#Reminds you to go to sleep... until you do
+https://github.com/plusonelabs/calendar-widget.git#Todo Agenda#Tools#Home screen agenda
+https://github.com/lukaslihotzki/pixelflood.git#pixelflood#Tools#Pixelflut server
+https://github.com/c3nav/c3nav-android.git#c3nav#Books & Reference#Indoor navigation for the 33nd Chaos Communication Congress, built by NoMoKeTo
+https://github.com/nextgis/android_gisapp.git#NextGIS Mobile#Tools#GIS that lets you create, edit and export geodata, both online and offline
+https://github.com/open-keychain/open-keychain.git#OpenKeychain#Video Players & Editors#Encrypt your Files and Communications. Compatible with the OpenPGP Standard.
+https://github.com/premnirmal/StockTicker.git#Stocks Widget#Tools#Stock market ticker widget
+https://github.com/amasciul/Drinks.git#Drinks#Family#Search and display cocktail recipes
+https://github.com/x1125/initd-light.git#Init.d Light#Productivity#Add missing init.d support
+https://github.com/axxapy/apkExtractor.git#Apk Extractor#Games#Get APK files from installed apps
+https://github.com/openfoodfacts/openfoodfacts-androidapp.git#OpenFoodFacts#Tools#Look up food ingredients, allergens, nutrition facts
+https://github.com/chelovek84/mBrowser.git#mBrowser#Libraries & Demo#Web browser
+https://github.com/MrBIMC/RunInBackgroundPermissionSetter.git#BackgroundRestrictor#Communication#Manage RUN_IN_BACKGROUND permissions
+https://github.com/heruoxin/Clip-Stack.git#Clip Stack#Games#Manage clipboard history
+https://github.com/yourealwaysbe/teacup.git#TeaCup#Productivity#Configurable music widget
+https://github.com/bfabiszewski/ulogger-android.git#μlogger#Personalization#Log position to your own server
+https://github.com/LuK1337/TimeTable2.git#TimeTable#Tools#Timetable viewer for VULCAN
+https://github.com/xyzz/openmw-android.git#OMW Nightly#Libraries & Demo#A game engine compatible with TES3:Morrowind data files
+https://github.com/dbravender/korean_conjugation.git#Dongsa#Travel & Local#Shows Korean verb conjugations for learners of Korean.
+https://github.com/gsantner/dandelion.git#dandelior*#Games#diaspora* social network client
+https://github.com/mobilepearls/com.mobilepearls.sokoban.git#Sokoban#Finance#Puzzle game
+https://github.com/wkillerud/hiofenigma-android.git#OpenTimer#Productivity#Countdown Timer
+https://github.com/junjunguo/PocketMaps.git#PocketMaps#Games#View maps and use offline routing and navigation system
+https://github.com/czlee/debatekeeper.git#Debatekeeper#Tools#Time debates
+https://github.com/palfrey/postcode.git#Postcode#Tools#Get your postcode (UK only)
+https://github.com/SecUSo/privacy-friendly-todo-list.git#To-Do List#Games#Keep a list of tasks
+https://github.com/martinmarinov/rtl_tcp_andro-.git#Rtl-sdr driver#Family#Port of rtl-sdr's rtl_tcp
+https://github.com/darshan-/Battery-Indicator-Pro.git#BatteryBot Pro#Health & Fitness#Battery monitoring tool, "pro" version
+https://github.com/raatmarien/chibe.git#Chibe#Health & Fitness#Vibrates to remind you of the time
+https://github.com/gabrielelucci/greyscale-cmte.git#Greyscale#Tools#A simple AOSP-like theme for CyanogenMod
+https://github.com/mattgmg1990/miracast-widget.git#Miracast Shortcut#Communication#Miracast widget
+https://github.com/tcoxon/XkcdViewer.git#xkcdViewer#Music & Audio#Viewer for the xkcd comic
+https://github.com/T-Rex96/Easy_xkcd.git#Easy xkcd#Tools#View xkcd comics
+https://github.com/swentel/indigenous-android.git#Indigenous#Tools#IndieWeb Micropub and Microsub Client
+https://github.com/j05t/dbclf.git#Identify Dog Breeds#Entertainment#Identify over one hundred different dog breeds with your smartphone
+https://github.com/DeweyReed/ClipboardCleaner.git#ClipboardCleaner#Music & Audio#Check and clean your clipboard
+https://github.com/flyingrub/SpeedMeter.git#Speedmeter#Communication#Lightweight speed meter
+https://github.com/gsimon75/compass-keyboard.git#Compass Keyboard#Tools#International keyboard
+https://github.com/nitroshare/nitroshare-android.git#NitroShare#Family#Cross-platform network file transfer
+https://github.com/konradrenner/kolabnotes-android.git#Kolab Notes#Health & Fitness#Write notes and sync them with Kolab
+https://github.com/fossasia/susi_android.git#SUSI.AI#Books & Reference#Susi AI is an intelligent personal assistant
+https://github.com/Selfnet/selfnet-wificonfig.git#Selfnet Wi-Fi Setup#Productivity#
+https://github.com/phw/Android-PwdHash.git#Password Hash#Tools#Create passwords for each website
+https://github.com/DamienOReilly/PrepayCredit.git#Prepay Credit#Parenting#Info for Irish cell network
+https://github.com/null-dev/animeopenings-android.git#Anime Openings#Video Players & Editors#A native client for openings.moe
+https://github.com/jensstein/oandbackup.git#oandbackup#Video Players & Editors#Backup manager
+https://github.com/OpenMW/android-port.git#OpenMW#Tools#A game engine compatible with TES3:Morrowind data files
+https://github.com/chaosbastler/opentraining.git#Open Training#Tools#Plan your fitness training
+https://github.com/eriknellessen/user-controlled-decryption-operations.git#User-controlled decryption operations#Tools#Emulates a smart card and lets you control the decryption operations
+https://github.com/bobthekingofegypt/BobBall.git#BobBall#Lifestyle#Jezzball style clone
+https://github.com/afonsotrepa/PocketGopher.git#Pocket Gopher#Travel & Local#A fast, elegant and modern Gopher Client
+https://github.com/ltGuillaume/DroidShows.git#DroidShows#Music & Audio#TV series browser and tracker
+https://github.com/KodarKooperativet/NotificationStopwatch.git#Stopwatch#Photography#Stopwatch build into the notification bar
+https://github.com/Anthony-Reboul/AndroidDeepL.git#OpenL#Social#Unofficial application of DeepL Translator
+https://github.com/grmpl/StepandHeightcounter.git#Step and Height counter#Video Players & Editors#Counting Steps and Elevation gain on Nexus 5X
+https://github.com/biotinker/LibreTasks.git#LibreTasks#Tools#Trigger actions when certain events happen
+https://github.com/k3b/LosslessJpgCrop.git#LLCrop (lossless)#Games#loss less cropping: Remove unwanted parts of jpg photo without quality loss.
+https://github.com/SimpleMobileTools/Simple-File-Manager.git#Simple File Manager Pro#Games#A simple file manager for browsing and editing files and directories.
+https://github.com/Fr4gorSoftware/SecScanQR.git#SecScanQR#Productivity#The QR code scanner/generator that cares about your privacy
+https://github.com/devgianlu/PretendYoureXyzzyAndroid.git#Pretend You're Xyzzy#Games#This app let's you play Pretend You're Xyzzy, an online card game, on your devic
+https://github.com/gabm/TapAndTurn.git#Tap 'n' Turn#Personalization#Confirm before the screen orientation gets applied
+https://github.com/HassanHeydariNasab/defendo.git#Defendo#Tools#A tower defense game
+https://github.com/commons-app/apps-android-commons.git#Commons#Tools#Upload images to wikimedia.org
+https://github.com/devgianlu/Aria2Android.git#Aria2Android#Social#
+https://github.com/Piwigo/Piwigo-Android.git#Piwigo#Weather#
+https://github.com/rnauber/xskat-android.git#XSkat#Games#Play famous German card game Skat
+https://github.com/aario/MyWifiPasswords.git#My Wifi Passwords#Tools#View your Wi-Fi Passwords
+https://github.com/Zygo/xscreensaver.git#XScreenSaver#Libraries & Demo#Standard screen saver collection shipped on most Linux and Unix systems
+https://github.com/jdeslip/arxiv-mobile.git#arXiv mobile#Tools#Client for arXiv.org
+https://github.com/wistein/TransektCount.git#TransektCount#Games#Transect counting according to the Butterfly Monitoring Scheme methodology
+https://github.com/dkanada/Chip8.git#Chip8#Family#Chip8 emulator
+https://github.com/ianmcxa/ZephyrLogger.git#ZephyrLogger#Games#Log Zephyr heart rate monitor data
+https://github.com/handschuh/Slight-backup.git#Slight backup#Maps & Navigation#A very simple backup program
+https://github.com/Scraper-Club/Android-Scraper-Club.git#ScraperClub#Music & Audio#Application for ScraperClub
+https://github.com/demokratie-live/democracy-client.git#DEMOCRACY#Personalization#Dein virtuelles Bundestagsmandat
+https://github.com/alegen/netclip.git#Netclip#Tools#Transfer text from your PC to the clipboard
+https://github.com/johanhil/ddg-android.git#Duck Duck Go#Music & Audio#DuckDuckGo search provider
+https://github.com/VelbazhdSoftwareLLC/IthakaBoardGame.git#Ithaka Board Game#Video Players & Editors#Puzzle game
+https://bitbucket.org/alekseyt/compass.git#Community compass#Tools#Feature Compass
+https://github.com/cesarvaliente/quitesleep.git#QuiteSleep#Health & Fitness#Answer calls when you're busy
+https://github.com/y20k/transistor.git#Transistor#Libraries & Demo#Listen to radio streams
+https://github.com/openintents/filemanager.git#OI File Manager#Maps & Navigation#File manager
+https://github.com/rastating/DroidBeard.git#DroidBeard#Tools#Manage SickBeard installations
+https://github.com/arnef/bewegungsmelder-android.git#Bewegungsmelder#Travel & Local#Get event information for Hamburg, Germany
+https://github.com/EXALAB/AnLinux-Adfree.git#AnLinux#Communication#Run Linux On Android Without Root Access
+https://github.com/daktak/opengapps_downloader.git#OpenGApps Downloader#Tools#Download OpenGapps zip
+https://github.com/adrian/upm-android.git#UPM#Games#Cross platform password manager
+https://github.com/turtl/fdroid.git#Turtl#Family#A secure, encrypted Evernote alternative
+https://github.com/llaske/Sugarizer.git#Sugarizer#Family#Use Sugar learning platform
+https://github.com/Nutomic/ensichat.git#Ensichat#Games#Decentralized Instant Messenger
+https://bitbucket.org/oF2pks/fdroid-classyshark3xodus.git#ClassyShark3xodus#Tools#Scan apps for trackers
+https://github.com/richardchien/jigsaw-android.git#J 拼图#Productivity#Play a jigsaw puzzle game
+https://github.com/tstein/AndroSS.git#AndroSS#Finance#Screenshot capturing
+https://github.com/mathisdt/sdbviewer.git#SDB Viewer#Photography#View song lyrics, a translation of it and guitar chords
+https://github.com/samuelclay/NewsBlur.git#NewsBlur#Family#News reader
+https://github.com/openintents/shoppinglist.git#OI Shopping List#Communication#Keep track of your shopping items
+https://github.com/cryptofuture/urlhda-android.git#HDA URL#Music & Audio#Generate short URLs
+https://github.com/z3r0c00l-2k/AquaDroid.git#AquaDroid#Personalization#Reminds you to drink water and tracks your water intake habit
+https://github.com/HappyPeng2x/SumatoraDictionary.git#Sumatora#Communication#Offline Japanese dictionary
+https://github.com/VladThodo/behe-keyboard.git#BeHe Keyboard#Books & Reference#Hacking & programming keyboard with material design
+https://github.com/kaputnikGo/LittleSirEcho.git#Little Sir Echo#Tools#Repeat SMS notifications
+https://github.com/SecUSo/privacy-friendly-dice-game.git#Dice Game#Tools#Play dice game with 5 dice
+https://github.com/sarbajitsaha/Batch-Uninstaller.git#Batch Uninstaller#Photography#Uninstall multiple applications at once
+https://github.com/SensorApps/Sensors2OSC.git#Sensors2OSC#Games#Send sensor data via Open Sound Control (OSC).
+https://github.com/rubenwardy/mtmods4android.git#Minetest Mods#Maps & Navigation#Minetest Mods manager
+https://github.com/rosenpin/DBZ-Battery-Widget.git#DBZ Battery Widget#Lifestyle#View your battery status with your favorite DBZ character
+https://github.com/HassanHeydariNasab/atop-react-native.git#atop#Tools#Choose today's text
+https://github.com/OldSparkyMI/aRevelation.git#aRevelation#Finance#password manager based on Revelation Password Manager file format
+https://github.com/javierllorente/adc.git#Diccionario castellano#Games#Browse Castilian dictionary
+https://github.com/TeamNewPipe/NewPipe.git#NewPipe#Video Players & Editors#Lightweight YouTube frontend
+https://github.com/albertolalanda/new-ultrasonic-fork-for-MyMusicQoE.git#MyMusicQoE#Productivity#A fork of ultrasonic with QoE evaluation features purposes
+https://github.com/takke/DataStats.git#DataStats#Tools#View bandwith usage
+https://github.com/VREMSoftwareDevelopment/WifiAnalyzer.git#WiFiAnalyzer#Tools#Optimize your WiFi network
+https://github.com/WIStudent/FreifunkAutoConnectApp.git#Freifunk Auto Connect#Games#Add multiple Freifunk SSIDs to your device
+https://github.com/linux-colonel/AdminControl.git#Additional Security Settings#Lifestyle#Additional security settings
+https://github.com/rosenpin/More-For-GO.git#More for GO#Video Players & Editors#More For Pokemon GO
+https://github.com/andOTP/andOTP.git#andOTP#Games#Time-based One-time Passwords (TOTP) from QR codes for two-factor authentication
+https://github.com/AndreMiras/EtherollApp.git#Etheroll#Personalization#Gamble on blockchain through Etheroll smart contract
+https://github.com/jonasbleyl/Recurrence.git#Recurrence#Music & Audio#Get reminded about notifications
+https://github.com/andviane/prism.git#Prism#Health & Fitness#Demonstrates the basics of ray diagrams
+https://github.com/google/talkback.git#TalkBack (legacy)#Tools#Accessibility improvements
+https://github.com/Nulide/ShiftCal.git#ShiftCal#Medical#Shift Calendar
+https://github.com/password-store/Android-Password-Store.git#Password Store#Personalization#Manage your passwords
+https://github.com/UriahShaulMandel/BaldPhone.git#BaldPhone#Games#Replace your phone's interface with a big, simple and friendly one
+https://github.com/sky-map-team/stardroid.git#Sky Map#Tools#Sky Map to explore the skies
+https://github.com/zenorogue/hyperrogue.git#HyperRogue#Games#Top-down rogue-like adventure
+https://github.com/jeffisaak/diceware-pass-gen.git#Diceware Password Generator#Tools#Generate diceware passwords
+https://github.com/intrications/intent-intercept.git#Intent Intercept#Tools#Attempts to catch Intents in order to examine their contents
+https://github.com/enricocid/Music-Player-GO.git#Music Player GO#Business#Very slim music player
+https://github.com/rubenroy/Minimal-Todo.git#Minimal#Tools#Minimal TODO lists
+https://github.com/syncthing/syncthing-android.git#Syncthing#Games#File synchronization
+https://github.com/scoute-dich/Sieben.git#Sieben#Tools#Helps to organize and perform workouts
+https://github.com/OpenOrienteering/mapper.git#Mapper#Personalization#Mapper is an orienteering mapmaking program
+https://github.com/eolwral/OSMonitor.git#OS Monitor#Family#Monitor the Operating System
+https://github.com/anselm94/Torchie-Android.git#Torchie#Entertainment#Access LED flashlight from the Volume buttons
+https://github.com/adavari/Todoer.git#تودویر#Games#Simple todo list
+https://github.com/moonlight-stream/moonlight-android.git#Moonlight#Social#Play games from your PC on Android (NVIDIA-only)
+https://github.com/namlit/siteswap_generator.git#Siteswap Generator#Tools#Generate juggling siteswaps for passing
+https://github.com/otakuhqz/ZimLX.git#Zim Launcher#Video Players & Editors#Powerful launcher with smart features to make your device easy to use
+https://github.com/andswitch/techahashi.git#Techahashi#Tools#Minimal presentation tool, Takahashi method with technical upgrades
+https://github.com/helloworld1/FreeOTPPlus.git#FreeOTP+#Tools#Two-factor authentication with import/export functionality
+https://github.com/nutritionfactsorg/daily-dozen-android.git#Daily Dozen#Travel & Local#Keep track of the foods that Dr Greger recommends in his book How Not to Die
+https://github.com/beemdevelopment/Aegis.git#Aegis#Games#Free, secure and open source 2FA app to manage tokens for your online services
+https://github.com/scoute-dich/K9-MailClient.git#K9 Material (unofficial)#Communication#Send and receive mails
+https://github.com/gryphius/androdns.git#AndroDNS#Communication#DNS client
+https://github.com/nerzhul/ncsms-android.git#Nextcloud SMS#Communication#Synchronize your SMS messages with ownCloud
+https://github.com/xavierfreyburger/tempus-romanum.git#Tempus Romanum#Productivity#Latin date generator with a widget
+https://github.com/LonamiWebs/Klooni1010.git#1010! Klooni#Family#libGDX game based on 1010
+https://github.com/joshuawolfsohn/Private-DNS-Quick-Tile.git#Private DNS Quick Tile#Entertainment#Quickly toggle the Private DNS feature introduced in Android 9.0
+https://github.com/equeim/tremotesf-android.git#Tremotesf#Family#Remote-control Transmission BitTorrent client
+https://github.com/cotechde/termbot.git#TermBot#Games#SSH client for use with smart cards
+https://github.com/brarcher/loyalty-card-locker.git#Loyalty Card Keychain#Personalization#Manages barcode-based store/loyalty cards on your phone
+https://github.com/ram-on/NetcfgWidget.git#Netcfg Widget#Business#A widget frontend for netcfg
+https://github.com/adolfintel/chromiumUpdater.git#Auto Updater for Chromium#Tools#Automatic updates for Chromium
+https://github.com/fr3ts0n/AndrOBD-Plugin.git#AndrOBD SensorProvider#Productivity#
+https://github.com/ka-ba/yucata.envoy.git#Yucata Envoy#Productivity#Display how many games on Yucata are waiting for user to make a move
+https://github.com/leonardoraele/concurseiro.git#Concurseiro#Libraries & Demo#Helps you studying
+https://github.com/rosenpin/Screenshot-Sharer.git#Screenshot sharer#Games#Share screenshots quickly
+https://github.com/billthefarmer/tuner.git#Tuner#Productivity#Musical instrument pitch tuning
+https://github.com/mlsoft/Trycorder5.git#Trycorder#Entertainment#Upgrade your mobile device to a full-fledged tricorder
+https://github.com/VelbazhdSoftwareLLC/SvarkaOddsCalculator.git#Svarka Odds Calculator#Finance#Bulgarian card game odds calculator
+https://github.com/TheCacophonyProject/bird-monitor.git#Bird Monitor#Business#Bird Song recorder
+https://github.com/lopespm/arxiv-papers-mobile.git#arXiv Papers#Food & Drink#Search, download and save arXiv scientific papers
+https://github.com/ValleZ/Paper-Wallet.git#Paper Wallet#Tools#Totally offline and secure bitcoin paper wallet
+https://bitbucket.org/bitbatzen/wlanscanner.git#WLANScanner#Maps & Navigation#Analyse the WLAN access points in range
+https://github.com/abarisain/dmix.git#MPDroid#Social#MPD (Music Player Daemon) client
+https://github.com/XCSoar/XCSoar.git#XCSoar#Maps & Navigation#Tactical glide computer and maps
+https://github.com/persian-calendar/DroidPersianCalendar.git#Persian Calendar#Family#View the Persian calendar
+https://github.com/lufte/lona.git#Lona#Communication#A snake-like HTML5 game
+https://github.com/kraigs-android/kraigsandroid.git#Alarm Klock#Games#An alarm clock
+https://github.com/SimpleMobileTools/Simple-Camera.git#Camera#Personalization#A camera with flash, zoom and no ads.
+https://github.com/theblackwidower/KanaQuiz.git#The Kana Quiz#Books & Reference#Learning Japanese? Test and train your knowledge in Hiragana or Katakana
+https://github.com/hypeapps/Endoscope.git#Endoscope#Travel & Local#Live video streaming between android devices over WiFi
+https://github.com/Xlythe/android_packages_apps_Calculator.git#Calculator (old)#Games#Make calculations
+https://github.com/billthefarmer/scope.git#Oscilloscope#Video Players & Editors#Audio Oscilloscope and Spectrum
+https://github.com/try2codesecure/ShellMS.git#ShellMS#Productivity#Send SMS via Android SDK
+https://github.com/Catrobat/Paintroid.git#Pocket Paint#Tools#Advanced Paint
+https://github.com/termux/termux-styling.git#Termux:Styling#Tools#Customize your Termux terminal
+https://github.com/koelleChristian/trickytripper.git#Tricky Tripper#Personalization#Manage travel expenses
+https://github.com/SecUSo/privacy-friendly-interval-timer.git#Interval Timer#Games#Privacy Friendly App that supports you during circuit exercise sessions
+https://github.com/Zyg0te/Locker.git#Locker#Tools#Enforce maximum failed unlock attempts
+https://github.com/blockstream/green_android.git#Green#Travel & Local#Blockstream Green Bitcoin wallet
+https://github.com/ikarus23/MifareClassicTool.git#MIFARE Classic Tool#Lifestyle#Analyse a type of NFC tag
+https://github.com/free-software-for-android/NTPSync.git#NTPSync#Games#Update the device clock
+https://github.com/cSploit/android.git#cSploit#Maps & Navigation#Network analysis and penetration toolkit
+https://github.com/aario/killcamera.git#Kill Camera#Tools#Kill camera related processes
+https://github.com/SimpleMobileTools/Simple-Thank-You.git#Thank You#Tools#A paid app for people who want to support Simple Mobile Tools.
+https://github.com/316k/android-fortune.git#Fortunes#Travel & Local#View Unix fortunes
+https://github.com/Free-Software-for-Android/FasterGPS.git#FasterGPS#Personalization#Faster GPS fix
+https://github.com/iamtrk/Device-Explorer.git#Android Explorer#Finance#Get device information
+https://github.com/Rudloff/openvegemap-cordova.git#OpenVegeMap#Productivity#Find vegetarian and vegan restaurants in your city
+https://github.com/demantz/RFAnalyzer.git#RF Analyzer#Games#View HackRF plots
+https://github.com/Lanchon/sigspoof-checker.git#Signature Spoofing Checker#Games#Test the signature spoofing capability of your OS
+https://github.com/sheimi/SGit.git#SGit#Tools#Git Client
+https://github.com/rignaneseleo/SlimSocial-for-Facebook.git#SlimSocial#Productivity#Browse Facebook
+https://github.com/nicolasbrailo/PianOli.git#PianOli#Productivity#Baby game to keep your device safe from random baby-taps
+https://github.com/murraycu/android-galaxyzoo.git#Galaxy Zoo#Games#Help to classify galaxies
+https://github.com/carlphilipp/chicago-commutes.git#Chicago Commutes#Books & Reference#Transit tracker making it easier to travel in Chicago, using the CTA and Divvy.
+https://github.com/fennifith/Status.git#Status#Weather#An overlay-based statusbar replacement
+https://github.com/mozilla-mobile/focus-android.git#Firefox Klar#Family#Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+https://github.com/osmdroid/osmdroid.git#Open Map#Games#OpenStreetMap map viewer
+https://github.com/xbmc/Kore.git#Kore#Libraries & Demo#Kore, Official Remote for Kodi
+https://github.com/openintents/notepad.git#OI Notepad#Music & Audio#Take notes
+https://github.com/williehwc/wonderdroid-x.git#WonderDroid X#Tools#Bandai Wonderswan emulator
+https://github.com/EthACKdotOrg/orWall.git#orWall#News & Magazines#Force apps to use Tor
+https://github.com/playmusicexporter/playmusicexporter.git#Play Music Exporter#Tools#Export music from Play Music
+https://github.com/trikita/slide.git#Slide#Auto & Vehicles#Minimal presentation tool, perfect for using Takahashi method
+https://github.com/ianmcxa/Soft-Sound.git#Soft Sound#Tools#Play relaxing sounds
+https://github.com/k3b/locationMapViewer.git#Location Map Viewer#Photography#Display geografic information on a map
+https://github.com/tobykurien/BatteryFu.git#BatteryFu#Personalization#Battery saving
+https://github.com/domogik/domodroid.git#Domodroid#Tools#Interface with a Domogik home automation server
+https://github.com/cgogolin/library.git#Library#Tools#Browse BibTeX files
+https://github.com/Pygmalion69/OpenTopoMapViewer.git#OpenTopoMap Viewer#Lifestyle#Online client for maps from OTM project, import GPX and show own location
+https://github.com/y20k/escapepod.git#Escapepod#Lifestyle#Escapepod is a simple and lightweight app for listening to podcasts.
+https://github.com/freeotp/freeotp-android.git#FreeOTP#Productivity#Two-factor authentication
+https://github.com/EmmanuelMess/Simple-Accounting.git#Simple Accounting#Personalization#Manage your money easily
+https://github.com/DizzyThermal/Auto-Away.git#Auto-Away#Family#Auto respond calls and messages
+https://github.com/vvviperrr/SimpleRT.git#SimpleRT#Productivity#Reverse Tethering utility
+https://github.com/jlelse/teleposter.git#Teleposter#Medical#Write blogposts on telegra.ph
+https://github.com/dh4/WeatherRadar.git#Weather Radar#Travel & Local#An application featuring customizable, real-time doppler radar images
+https://github.com/redfish64/TinyTravelTracker.git#Tiny Travel Tracker#Communication#Secure long term GPS tracker and log
+https://github.com/RHazDev/Sweet-IPFS.git#Sweet IPFS#Beauty#Run and manage an IPFS node from your device
+https://github.com/AnaelMobilia/NextINpact-Unofficial.git#NextINpact (Unofficial)#Productivity#Browse NextINpact
+https://github.com/0xpr03/VocableTrainer-Android.git#VocableTrainer Beta#Productivity#Learn vocables of foreign languages
+https://github.com/borneq/HereGPSLocation.git#Here GPS Location#Productivity#Shows current GPS coordinates
+https://github.com/GermainZ/Identiconizer.git#Identiconizer!#Tools#Identicons for your contacts
+https://github.com/farmerbb/SecondScreen.git#SecondScreen#Tools#Better screen mirroring
+https://github.com/vanilla-music/vanilla-music-tag-editor.git#Vanilla Tag Editor#Tools#Vanilla Music player Tag Editor plugin
+https://github.com/BijoySingh/Scarlet-Notes.git#Scarlet Notes FD#Games#Quick and beautiful note-taking
+https://github.com/fossasia/pslab-android.git#PSLab#Travel & Local#Pocket Science Lab Android interface for PSLab hardware
+https://github.com/daktak/xposed_downloader.git#Xposed Downloader#Tools#Download Xposed Framework zip
+https://github.com/aminecmi/ReaderforSelfoss.git#Reader for Selfoss#Family#RSS reader for Selfoss
+https://github.com/alxgnon/PostWriter.git#Post Writer#Tools#A writing app for the true minimalist
+https://github.com/opentelecoms-org/lumicall.git#Lumicall#Tools#SIP softphone
+https://github.com/TheUberCatman/crates-io-android.git#Crates.io unofficial#Family#Rust crates.io browsing app
+https://github.com/renyuneyun/Easer.git#Easer (beta)#Games#User-defined explicit automation for Android
+https://github.com/jakevossen5/Apollo-Trivia.git#Apollo Trivia#Maps & Navigation#Learn more about the Apollo Moon missions
+https://github.com/RyuzakiKK/NoteCrypt.git#Note Crypt Pro#Maps & Navigation#Keep your notes safe and secure
+https://github.com/rparkins999/CalendarTrigger.git#Calendar Trigger#Tools#Trigger actions on calendar events
+https://github.com/jorgecastillo/KanaDrill.git#KanaDrill#Games#Learn the Japanese kana
+https://github.com/SteamGifts/SteamGifts.git#sg for SteamGifts#Tools#SteamGifts client
+https://github.com/linuxtage/glt-companion.git#GLT Companion#Health & Fitness#Browse the "Grazer Linuxtage" schedule
+https://github.com/PrivacyApps/calendar-import-export.git#Calendar Import-Export#Communication#Import, Export & Backup your calendars using ics files
+https://github.com/mwarning/trigger.git#Trigger#Tools#Open doors via WiFi using HTTPS/SSH.
+https://github.com/n76/DejaVu.git#Déjà Vu Location Service#Travel & Local#Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG
+https://github.com/fasteque/rgb-tool.git#RGB Tool#Productivity#Get RGB and HEX values of a color
+https://github.com/aroblu94/langolonerd_android.git#L'angolo nerd#Lifestyle#Browse L'angolo nerd website in a compact way
+https://github.com/SimpleMobileTools/Simple-Calendar.git#Simple Calendar Pro#Travel & Local#Offline calendar with no ads. Organizer & reminders for appointments, events etc
+https://github.com/gloomy-ghost/sysnotifsnooze.git#Hide "running in the background" Notification#Productivity#Hide the annoying "running in the background" notification
+https://github.com/fython/Blackbulb.git#Night Screen#Tools#Prevent your eyes from being hurt by screen light
+https://github.com/Nyubis/Pomfshare.git#Pomfshare#Communication#Client for pomf.se
+https://github.com/onyxbits/TextFiction.git#Text Fiction#Tools#Interactive fiction interpreter
+https://github.com/quaap/SeafoodBerserker.git#Seafood Berserker!#Family#Help the Vikings repel a fish attack!
+https://github.com/paride/CopperPDF.git#CuprumPDF#Productivity#View PDF files
+https://github.com/cody82/sigfood.git#Sigfood#Tools#Get current menus (University of Erlangen, South)
+https://github.com/brarcher/baby-sleep-sounds.git#Baby Sleep Sounds#Health & Fitness#Play sounds to help babies sleep
+https://github.com/SimpleMobileTools/Simple-Contacts.git#Simple Contacts Pro#Games#A contacts app for managing your contacts without ads.
+https://github.com/takke/cpustats.git#CPU Stats#Tools#Compact CPU Usage Monitor
+https://github.com/JakeLane/Toffeed.git#Toffeed#Productivity#Interact with Facebook
+https://github.com/stefan-niedermann/nextcloud-deck.git#Deck#Music & Audio#Companion app for Nextcloud Deck - ⚠️ Alpha release for testing purposes only ⚠️
+https://github.com/EvanRespaut/Equate.git#Equate#Productivity#Convert units
+https://github.com/WKenya/bookmarkOS.git#BookmarkOS#Photography#A wrapper for bookmarkOS
+https://github.com/yaa110/Memento.git#Memento#Comics#Take notes
+https://github.com/quaap/LaunchTime.git#LaunchTime#News & Magazines#An easy and customizable categorizing homescreen/launcher
+https://github.com/tejado/Authorizer.git#Authorizer#Lifestyle#Password Manager with USB Keyboard emulation
+https://github.com/scheich/Network.git#Network#Games#Shortcut to the Phone Info page
+https://github.com/SimpleMobileTools/Simple-Draw.git#Simple Draw Pro#Travel & Local#A canvas you can draw on with different colors.
+https://github.com/sreichholf/dreamDroid.git#DreamDroid#Tools#Control and streaming client for enigma2 based dreamboxes
+https://github.com/nkanaev/bubble.git#Bubble#Tools#View comic books
+https://github.com/ostrya/PresencePublisher.git#Presence Publisher#Music & Audio#Regularly publish to an MQTT topic
+https://github.com/adityakamble49/dcipher-app.git#DCipher#Social#secret Text with 100% offline Encryption
+https://github.com/whitequark/SIPCaller.git#SIP Caller#Social#Dial SIP numbers
+https://github.com/Swing-team/pendulums-web-client.git#Pendulums#Family#Manage and track your time more efficiently using a modern time tracking tool
+https://github.com/GiorgioRegni/Binaural-Beats.git#Binaural Beats Therapy#Tools#Sound to brainwave harmonizer
+https://github.com/bpellin/keepassdroid.git#KeePassDroid#Productivity#KeePass-compatible password safe
+https://github.com/m45t3r/retrobreaker.git#Retro Breaker#Tools#Simple brick breaker game
+https://github.com/zikalify/BMI_Calculator.git#BMI Calculator#Books & Reference#Body Mass Index calculator
+https://github.com/marcelklehr/chordreader.git#Chord Reader#Photography#Search for, display, transpose and save chords on your phone
+https://github.com/iexos/BipolAlarm.git#BipolAlarm#Business#Alarm clock with 2 stages
+https://github.com/AllanWang/Frost-for-Facebook.git#Frost for Facebook#Productivity#A fast and extensive third party wrapper for Facebook.
+https://github.com/DecentralizedAmateurPagingNetwork/DAPNETApp.git#DAPNET#Health & Fitness#Send and read calls to and from DAPNET
+https://github.com/fossasia/open-event-organizer-android.git#Eventyay Organizer#Video Players & Editors#Event management app for Organizers using eventyay platform
+https://github.com/NightWhistler/PageTurner.git#PageTurner#Entertainment#Synchronising e-reader
+https://github.com/pinetum/AirUnlock-for-Android.git#AirUnlock#House & Home#Controlling Mac lock state
+https://github.com/billthefarmer/currency.git#Currency#Games#Currency conversion
+https://github.com/richsmith/sexytopo.git#SexyTopo#Tools#Assist in cave surveying
+https://github.com/Governikus/AusweisApp2.git#AusweisApp2#Weather#ePerso mit dem Handy nutzen
+https://github.com/alexghr/bulkshare.git#Bulkshare 2#Tools#Share multiple URLs
+https://github.com/HassanHeydariNasab/k2.git#K2#Social#Catch the moon
+https://github.com/osmandapp/Osmand.git#OsmAnd~#Tools#Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps
+https://github.com/aaronjwood/PortAuthority.git#Port Authority#Business#Port scanner
+https://github.com/martykan/webTube.git#WebTube#Tools#Play YouTube videos
+https://github.com/kenCode-de/bitshares-wallet.git#BitShares Wallet#Tools#Use Smartcoins like bitBTC, bitUSD & bitEUR in 22 languages w/QR codes & more
+https://github.com/EXL/Snooder21.git#Snooder 21#Games#remake of Motorola's standard card game Snood™ 21
+https://github.com/pocmo/Yaaic.git#Yaaic#Tools#IRC (chat) client
+https://github.com/hrydgard/ppsspp.git#PPSSPP#Shopping#PSP emulator
+https://github.com/beatbrot/ScreenshotAssistant.git#Screenshot Assistant#Food & Drink#An assistant app for creating, cropping and sharing screenshots
+https://github.com/SecUSo/privacy-friendly-werewolf.git#Werewolf#Entertainment#Play Werewolf with your friends
+https://github.com/jevonlongdell/nztides.git#NZ Tides#Productivity#Tide table for New Zealand
+https://github.com/felixwiemuth/LinCal.git#LinCal#Tools#Surprise friends with notifications
+https://github.com/kostmo/chartdroid.git#ChartDroid Core#Art & Design#Chart engine
+https://github.com/sanderbaas/rainalarm-android.git#RainTime#Family#Two hour rain forecast in The Netherlands
+https://github.com/ubergeek42/weechat-android.git#WeeChat Android#Entertainment#Connect to remote WeeChat IRC sessions
+https://github.com/Arjun-sna/android-permission-checker-app.git#Android Permissions#Games#Check requested permission details of all installed applications
+https://github.com/jonasoreland/runnerup.git#RunnerUp#Entertainment#Track your sport activities using GPS
+https://github.com/gsurrel/FacebookNotifications.git#Notifications for Facebook#Productivity#Reproduce the Facebook Notifications in the Android notifications-drawer
+https://github.com/lordi/tickmate.git#Tickmate#Communication#One bit journal
+https://github.com/mikljohansson/retroboy.git#Retroboy#Maps & Navigation#Retroboy provides vintage imaging technology
+https://github.com/Etuldan/spaRSS.git#spaRSS#Weather#Feed reader
+https://github.com/RinatKurmaev/Tether-companion.git#Tether companion#Music & Audio#Show battery level and networking mode on a webserver
+https://github.com/syncthing/syncthing-lite.git#Syncthing Lite#Books & Reference#A browser app for Syncthing-compatible shares
+https://github.com/bitcraze/crazyflie-android-client.git#Crazyflie Client#Games#Control your Crazyflie quadcopter from your mobile device
+https://github.com/bailuk/AAT.git#AAT#News & Magazines#AAT is a GPS-tracking application for tracking sportive activities, with emphasi
+https://github.com/yeriomin/YalpStore.git#Yalp Store#Tools#Download apks from Google Play Store
+https://github.com/eidottermihi/rpicheck.git#RasPi Check#Music & Audio#Check the status of your RasPi
+https://github.com/no-go/NotifyRelay.git#Notify2Jabber#Finance#Send almost all text notifications to a Jabber account or your Gotify server
+https://github.com/yeriomin/DumbphoneAssistant.git#Dumbphone Assistant#Tools#Copy contacts to SIM card and back
+https://github.com/mridang/microchip.git#Microchip#Music & Audio#Show processor usage in status bar
+https://github.com/TachibanaGeneralLaboratories/download-navi.git#Download Navi#Tools#Download Navi is a free and Open Source download manager for Android 4.4+
+https://github.com/LISTEN-moe/android-app.git#LISTEN.moe#Music & Audio#Listen to j-pop and anime music radio 24/7 ad-free
+https://github.com/2Ra66it/updater-for-spotify.git#Updater for Spotify#Photography#Download the latest version of Spotify
+https://github.com/xpheres/AndroidAnalyticalTranslator.git#Analytical Translator#Games#Natural language translator
+https://github.com/c4ffein/OOS-firmware-updater.git#OOS Firmware Extractor#Music & Audio#Extract firmware from official Oneplus roms
+https://github.com/mpietrzak/apv.git#APV PDF Viewer#Productivity#PDF viewer
+https://bitbucket.org/oF2pks/chairlock.git#Chairlock#Productivity#Complete onboard permissions explorer & summary
+https://github.com/urtxintxa/HexColorTime.git#HexColorTime Wallpaper#Productivity#Set the wallpaper color based on time hex value
+https://github.com/matejdro/PebbleDialer-Android.git#Dialer for Pebble#Tools#Client for the PebbleDialer watchapp
+https://github.com/pla1/FediPhoto.git#Fedi Photo#Tools#Fedi Photo - quickly post photos to the Fediverse.
+https://github.com/termux/termux-float.git#Termux:Float#Productivity#Use Termux in a floating terminal window
+https://github.com/pluscubed/matlog.git#MatLog Libre#Finance#Material Design logcat reader based on CatLog
+https://github.com/seguri/lock.git#Lock#Tools#Lock the screen
+https://github.com/enricocid/Simply-Solid.git#Simply Solid#Tools#Set solid colors as background
+https://github.com/subins2000/manglish.git#Manglish#Games#Convert malayalam text to manglish
+https://github.com/daktak/afh_downloader.git#AFH Downloader#Maps & Navigation#Download from androidfilehost.com
+https://github.com/De7vID/klingon-assistant-android.git#boQwI'#Games#Lexicon dictionary for the Klingon language
+https://github.com/niteshpatel/ministocks.git#Ministocks#Communication#Stock price widget
+https://github.com/vanilla-music/vanilla-music-cover-fetch.git#Vanilla Cover Fetch#Tools#Vanilla Music player Cover Fetch plugin
+https://github.com/Neamar/KISS.git#KISS launcher#Tools#Custom launcher
+https://github.com/mikifus/padland.git#Padland#Games#Etherpad manager
+https://github.com/F4uzan/HgLauncher.git#HgLauncher#Personalization#A launcher for a slow day
+https://github.com/happyalu/Flite-TTS-Engine-for-Android.git#Flite TTS Engine#Productivity#Text-to-Speech Engine
+https://github.com/42SK/TVKILL.git#TV KILL#Photography#Turn off TVs
+https://github.com/mkg20001/aruba-networks-login.git#Aruba Networks Login#Tools#App to automatically login into arubanetworks.com hotspots
+https://github.com/mobimentum/dualsimreminder.git#DualSim Reminder#Tools#Tools for dual SIM devices from Samsung
+https://github.com/OpenLauncherTeam/openlauncher.git#OpenLauncher#Tools#Launch applications and manage homescreen
+https://github.com/anton-arnold/xoverrideheadphonejackdetection.git#XOverrideHeadphoneJackDetection#Personalization#Manually override the headphone jack detection
+https://github.com/hu-berlin-cms/hu-eduroam.git#HU Berlin Wi-Fi Installer#Productivity#Eduroam setup tool for Humboldt University of Berlin
+https://github.com/Utazukin/Ichaival.git#Ichaival#Productivity#Mobile client for the LANraragi manga/doujinshi web manager
+https://github.com/rmceoin/cidrcalculator.git#CIDR Calculator#Productivity#Network engineer IP calculator
+https://github.com/andreynovikov/trekarta.git#Trekarta#Shopping#Simple, responsive map for your trek
+https://github.com/mozilla-tw/FirefoxLite.git#Firefox Lite#Family#Fast and Lightweight Web Browser
+https://github.com/marcus905/android-wifi-ace.git#WiFi ACE#Tools#WiFi advanced config editor
+https://github.com/scheich/Throughput.git#Throughput#Games#Notification monitor for network throughput
+https://github.com/quaap/ComputationalDemonology.git#Computational Demonology#Lifestyle#Battle Lovecraftian horrors with this set of algorithms
+https://github.com/rosenpin/always-on-amoled.git#Always On AMOLED#News & Magazines#Display some information at all times
+https://github.com/moezbhatti/qksms.git#QKSMS#Tools#Messaging app
+https://github.com/VelbazhdSoftwareLLC/Politrics.git#Politrics#Personalization#Board game
+https://github.com/flyve-mdm/android-mdm-agent.git#Flyve MDM Agent#Lifestyle#Manage and secure effectively your mobile devices and applications
+https://github.com/tobykurien/webapps.git#WebApps#Games#WebApps turns mobi/web app sites into secure apps! Open source.
+https://github.com/wesaphzt/privatelocation.git#Private Location#Beauty#Keep your phone location private
+https://github.com/n76/Local-GSM-Backend.git#LocalGsmNlpBackend#Social#UnifiedNlp location provider (local GSM database)
+https://github.com/vbier/habpanelviewer.git#HABPanelViewer#Weather#A native Android application for openHAB's HABPanel dashboard user interface.
+https://github.com/Alkarex/EasyRSS.git#EasyRSS#Tools#RSS reader compatible with Google Reader API
+https://github.com/BramBonne/privacypolice.git#Wi-Fi Privacy Police#Family#Prevent leaking sensitive data on WiFi
+https://github.com/federicoiosue/Omni-Notes.git#Omni Notes FOSS#Tools#Note taking open-source application aimed to have both a simple interface but ke
+https://github.com/wolpi/prim-ftpd.git#primitive ftpd#News & Magazines#FTP server
+https://github.com/wikimedia/apps-android-wikipedia.git#Wikipedia#Social#Official feature-rich viewer of the free online encyclopedia
+https://github.com/rogerkk/bysyklist-oslo.git#Bysyklist Oslo#Auto & Vehicles#Find bikes in Oslo
+https://github.com/pacien/tincapp.git#Tinc App#Tools#Android binding and user interface for the tinc mesh VPN daemon
+https://github.com/fenimore/DemocracyDroid.git#Democracy Droid#Libraries & Demo#Watch "Democracy Now The war and peace report"
+https://github.com/xxv/Units.git#Units#Tools#Powerful unit converter
+https://github.com/pR0Ps/DisableBatteryWarnings.git#Disable Battery Warnings#Video Players & Editors#Disable the annoying low battery warning popup and sound
+https://github.com/scoutant/blokish.git#Blokish#Productivity#Board game
+https://github.com/maxpower47/PinDroid.git#Pinboard#News & Magazines#Bookmark manager
+https://github.com/fossasia/open-event-attendee-android.git#Eventyay Attendee#Weather#Events app to checkout nearby events
+https://github.com/quaap/AudioMeter.git#AudioMeter#Family#A simple VU-style audio meter
+https://github.com/netmackan/ATimeTracker.git#A Time Tracker#Family#Easily start/stop time tracking for activities.
+https://github.com/guardianproject/ObscuraCam.git#ObscuraCam#Photography#Blur faces and remove camera and location metadata with this privacy camera app
+https://github.com/Anuken/Mindustry.git#Mindustry#Games#A factory-based sandbox tower defense game
+https://github.com/xxv/24hAnalogWidget.git#24h Analog Clock#Productivity#Clock Widget
+https://github.com/Perflyst/Twire.git#Twire#Productivity#Free and open Twitch browser and stream player
+https://github.com/FredJul/Flym.git#Flym#Entertainment#Light and modern feed reader
+https://github.com/scottamain/Search_Light.git#Search Light#Dating#LED Flashlight
+https://github.com/maks/MGit.git#MGit#Auto & Vehicles#View and interact with git repositories
+https://github.com/SecUSo/privacy-friendly-netmonitor.git#Net Monitor#Personalization#Shows network connections of installed apps
+https://github.com/Cj-Malone/Screens.git#Screens#Tools#Multi Window Manager
+https://github.com/itds-consulting/android-silent-ping-sms.git#SMS Ping#Tools#Send silent SMS
+https://github.com/mattvchandler/progressbars.git#Progress Bars#Tools#A simple timer / countdown app
+https://github.com/code-crusher/EasyWeather.git#Easy Weather#Family#Easy and quick weather app
+https://github.com/adgad/kboard.git#kboard Settings#Communication#
+https://github.com/vanilla-music/vanilla.git#Vanilla Music#Business#Listen to and manage songs
+https://github.com/Etar-Group/Etar-Calendar.git#Etar#Personalization#Derivative of the basic Android calendar in Material Design
+https://github.com/MaxFour/Music-Player.git#Music#Games#Lightweight and Material Music Player
+https://github.com/meyerd/funktrainer.git#Funktrainer#Music & Audio#Learn for your German ham radio exam
+https://github.com/rootkiwi/an2linuxclient.git#AN2Linux#Productivity#Sync Android notifications encrypted to a Linux desktop
+https://github.com/tacticalDevC/PanicTrigger.git#PanicTrigger#Games#Helps you and others in case of an emergency
+https://github.com/Skarafaz/mercury.git#Mercury-SSH#Communication#Send preconfigured commands via SSH
+https://github.com/alexcustos/linkasanote.git#LaaNo#Finance#Bind notes to links and sync them with Nextcloud
+https://github.com/SecUSo/privacy-friendly-food-tracker.git#Food Tracker#Tools#Allows tracking of your daily calorie consumption
+https://github.com/Xipher7934/NeuralNetworkSimulator.git#Neural Network Simulator#Music & Audio#Educational tool to learn about computational neuroscience and electrophysology
+https://github.com/Amerlander/Calliope-Android-App.git#Calliope mini#Maps & Navigation#Flash scripts on the calliope mini
+https://github.com/vanilla-music/vanilla-music-metadata-fetch.git#Vanilla Metadata Fetch#Finance#Vanilla Music player Metadata retrieval plugin
+https://github.com/erickok/transdroid-search.git#Transdroid Torrent Search#Productivity#Plugin for Transdroid
+https://github.com/BenoitDuffez/AndroidCupsPrint.git#Android CUPS Print#Social#Print directly from your handset
+https://github.com/koreader/koreader.git#KOReader#Tools#Ebook reader supporting multiple formats like PDF, DjVu, EPUB, FB2
+https://github.com/GCompris/GCompris-qt.git#GCompris#Games#GCompris education suite
+https://github.com/peterosterlund2/droidfish.git#DroidFish#Productivity#Chess program
+https://github.com/CriticalMaps/criticalmaps-android.git#Critical Maps#Productivity#Critical mass location sharing and chat
+https://github.com/samotari/crypto-terminal.git#CryptoT#Beauty#Secure Point of Sale cryptocurrency payment terminal
+https://github.com/openbmap/radiocells-scanner-android.git#RadioBeacon#Communication#Contribute to coverage maps
+https://github.com/sophiehuiberts/Bomber-for-android.git#Bomber#Video Players & Editors#Single player arcade game
+https://github.com/00-Evan/shattered-pixel-dungeon.git#Shattered Pixel Dungeon#Books & Reference#A roguelike game based on Pixel Dungeon
+https://github.com/VladThodo/behe-explorer.git#BeHe Pro#Tools#Browse the web
+https://github.com/SubhamTyagi/night-mode-tile.git#Night Mode#Games#Enable Night Mode from tile
+https://github.com/artetxem/mitzuli.git#Mitzuli#Communication#Offline Translator
+https://github.com/WeAreFairphone/FP2-Launcher.git#* HPROF#Finance#Launcher originally designed for the Fairphone 2
+https://github.com/ngbvol/Zensuren.git#Zensuren#Productivity#Organize teaching
+https://github.com/shlomif/PySolFC.git#PySolFC#Games#A collection of solitaire card games
+https://github.com/jcarolus/android-chess.git#Chess#Personalization#Chess program and FICS client
+https://github.com/spidgorny/workingtimealert.git#Working Time Alert#Communication#Never miss the time to go home
+https://github.com/librespeed/speedtest-android.git#Speedtest by Federico Dossena#Photography#Check your Internet speed
+https://github.com/mschlauch/comfortreader.git#Comfort Reader#Lifestyle#Streams text directly to your eyes
+https://github.com/jroal/a2dpvolume.git#A2DP Volume#Music & Audio#Manage Bluetooth functions
+https://github.com/voidcode/Diaspora-Webclient.git#Diaspora Webclient#Weather#Diaspora Social Network Client
+https://github.com/javiersantos/WhatsAppBetaUpdater.git#Beta Updater for WhatsApp#Productivity#Update WhatsApp to latest beta release
+https://github.com/markusfisch/WaveLinesWallpaper.git#Wave Lines Wallpaper#Tools#Wavy wallpaper
+https://github.com/n76/wifi_backend.git#LocalWifiNlpBackend#News & Magazines#UnifiedNlp location provider (local WiFi database)
+https://github.com/veniosg/Dir.git#Dir#Tools#Modern file manager
+https://github.com/onyxbits/listmyaps.git#List My Apps#News & Magazines#List apps
+https://github.com/billthefarmer/melodeon.git#Melodeon#Tools#Melodeon emulator
+https://github.com/tantecky/android.git#NetSwitch#Music & Audio#Connectivity widget
+https://github.com/senzhk/ADBKeyBoard.git#ADBKeyBoard#Family#Android Virtual Keyboard Input via ADB
+https://github.com/afollestad/nock-nock.git#Nock Nock#Games#Monitor your websites for maximum uptime
+https://github.com/mkulesh/onpc.git#Music Control#Tools#Remote controller for Onkyo devices
+https://github.com/dynamitetuning/com.dynamite.heaterrc.git#HeaterRC#Books & Reference#Remote control heater via SMS
+https://github.com/fralik/Duorem.git#Duorem#Books & Reference#Wake up or shutdown remote computer from your phone/tablet.
+https://github.com/JTechMe/JumpGo.git#JumpGo#Games#Browse the web
+https://github.com/rovo89/XposedInstaller.git#Xposed Installer#Productivity#Installer of Xposed framework
+https://github.com/pjuu/droidotter.git#Pjuu#Tools#Access the Pjuu social network
+https://github.com/Groestlcoin/groestlcoin-wallet.git#Groestlcoin Wallet#Books & Reference#
+https://github.com/wulkanowy/wulkanowy.git#Wulkanowy#Games#Client for the Polish school register VULCAN UONET+
+https://github.com/SubhamTyagi/dork-explore.git#Custom Search#Family#A Simple Query Search on Google using Dorking
+https://github.com/kodejak/Hashr.git#Hashr#Tools#Calculate and compare checksum hashes
+https://github.com/yairm210/UnCiv.git#UnCiv#Social#4X civilization-building game
+https://github.com/ligi/gobandroid.git#Gobandroid#Business#Ancient Go game
+https://github.com/kiliakin/YalpStore.git#Yalp Store (fork)#Games#Download apks from Google Play Store
+https://github.com/frrahat/Quran-For-My-Android.git#Quran For My Android#Family#Shows Quran text or word by word translation
+https://github.com/gjedeer/mylocation.git#My Location#Video Players & Editors#Share your location
+https://github.com/etesync/android.git#EteSync#Tools#Secure and end-to-end encrypted calendar, contacts and tasks sync adapter
+https://github.com/kaputnikGo/PilferShushJammer.git#PilferShush Jammer#Comics#Block unwanted use of onboard microphone
+https://github.com/clemensbartz/essential-launcher.git#Essential Launcher#Video Players & Editors#A very small launcher with all essential functionality
+https://github.com/d4rken/reddit-android-appstore.git#/r/Android App store#Tools#Download apps curated by /r/android
+https://github.com/KOBUGE-Games/minilens.git#Minilens#Entertainment#Free Puzzle Platform Game
+https://github.com/rascarlo/AdaptiveBrightnessTile.git#Adaptive Brightness Tile#Games#Quick settings tile for adaptive brightness
+https://github.com/cryptofuture/PassCard.git#PassCard#Games#Generate password card
+https://github.com/marunjar/anewjkuapp.git#JKU App#Communication#Provides information for the students of JKU Linz
+https://github.com/saschpe/PlanningPoker.git#Planning Poker#Productivity#Planning Poker for phone, tablet and wear devices
+https://github.com/PuffOpenSource/Puff-Android.git#Puff#Games#Password Utility
+https://github.com/Harvie/NorthDog.git#NorthDog Audio Compass#Tools#3D Audio Compass
+https://github.com/kalaspuffar/secure-quick-reliable-login.git#SQRL Login#Weather#An implementation for SQRL (Secure Quick Reliable Login)
+https://github.com/luarca84/Caramelos.git#Caramelos#Games#Casual game made with Libgdx
+https://github.com/aravindsagar/ScreenShift.git#Screen Shift#Games#Change screen resolution, density and overscan
+https://github.com/scoute-dich/browser.git#FOSS Browser#Family#Browse the web
+https://github.com/Kaljurand/K6nele.git#Kõnele#Music & Audio#Speech-to-text provider
+https://github.com/wistein/TourCount.git#TourCount#Communication#Species-specific counting of butterflies in nature
+https://github.com/billthefarmer/crossword.git#Crossword#Communication#Simple crossword solver
+https://github.com/ashutoshgngwr/noice.git#Noice#Games#Relax, improve focus, and boost productivity with minimal background noises
+https://github.com/devgianlu/Aria2App.git#Aria2App#Entertainment#
+https://github.com/billthefarmer/editor.git#Editor#Personalization#Simple generic text editor
+https://github.com/smithdtyler/prettygoodmusicplayer.git#Pretty Good Music Player#Travel & Local#Folder-based, no frills music player
+https://github.com/libertysoft3/RedReader.git#SaidIt#Games#Client for saidit.net
+https://github.com/httpdispatch/MissedNotificationsReminder.git#Missed Notifications Reminder#Productivity#Periodical sound reminder for missed notifications
+https://github.com/spacecowboy/NotePad.git#NoNonsense Notes#Communication#Notepad and todo app with sync support
+https://github.com/LawnchairLauncher/Lawnchair-V1.git#Lawnchair#Tools#Pixel Launcher features plus customizability
+https://github.com/Rudloff/muzei-commons.git#Wikimedia Commons for Muzei#Family#Muzei plugin that displays the Wikimedia Commons picture of the day
+https://github.com/valerio-bozzolan/AcrylicPaint.git#Acrylic Paint#Games#Simple finger painting
+https://github.com/Jizzu/SimpleToDo.git#Simple ToDo#Tools#To-Do / Task list with beautiful minimalistic design and reminders
+https://github.com/ars3niy/openpass.git#OpenPass#Games#Reimplementation of SafeNet MobilePass
+https://github.com/osfans/trime.git#Trime#Games#Chinese IME with Rime Input Method Engine
+https://github.com/sryze/wirebug.git#Wirebug#Entertainment#Enables or disables debugging over Wi-Fi
+https://github.com/Maxr1998/home-assistant-Android.git#Home Assistant#Tools#Control your HomeAssistant instance
+https://github.com/ramack/ActivityDiary.git#Activity Diary#Games#Log and plan your recurring activities
+https://github.com/erickok/transdroid.git#Transdrone#Travel & Local#Manage BitTorrent clients
+https://github.com/Ryosuke839/UnicodePad.git#UnicodePad#Personalization#Input every character in Unicode
+https://github.com/btimofeev/instead-launcher-android.git#INSTEAD#Tools#Interactive fiction games
+https://github.com/mannyamorim/metrictime.git#Metric Time#Tools#Shows the current metric time in a widget on the home screen
+https://github.com/k3b/toGoZip.git#ToGoZip#Games#ToGoZip: Add to Zip for android-s share/send menu.
+https://github.com/iAcn/MBEStyle.git#MBE Style#Tools#A fun icon pack
+https://github.com/ThibaudM/timelapse-sony.git#TimeLapse#Tools#Control a Sony camera over Wi-Fi
+https://github.com/SecUSo/privacy-friendly-finance-manager.git#Finance Manager#Family#App that helps you keep track of your finances
+https://github.com/schnatterer/nusic.git#nusic#Productivity#Informs about new music of artists stored on the device
+https://github.com/jiikuy/velocitycalculator.git#Velocity Calculator#Tools#Calculate the speed of an object in a video
+https://github.com/R4md4c/GameDealz.git#GameDealz#Family#A non-official client for IsThereAnyDeal.com
+https://github.com/sanderbaas/WeatherWidget.git#Weather Widget#Games#Add widget to home screen with weather 5 to 7 day weather forecast
+https://github.com/thermatk/FastHub-Libre.git#FastHub-Libre#Games#A GitHub client app built from ground up
+https://github.com/nproth/pin.git#p!n#Family#Pin notes to the notification area.
+https://github.com/dougkeen/BartRunnerAndroid.git#BART Runner#Personalization#Timetables for trains in the U.S.
+https://github.com/TeamAmaze/AmazeFileManager.git#Amaze#Music & Audio#Manage local files
+https://github.com/mustafa01ali/SensorsSandbox.git#Sensors Sandbox#Family#Probe available sensors
+https://github.com/limboemu/limbo.git#Limbo x86#Business#A QEMU-based emulator
+https://github.com/y20k/trackbook.git#Trackbook#Business#Record your movement
+https://github.com/CookieGamesOfficial/SmartCookieWeb.git#SmartCookieWeb#Lifestyle#A secure web browser with tracking protection and an adblocker
+https://github.com/kertase/neo_anysoftkeyboard.git#AnySoftKeyboard: NEO2#Books & Reference#Neo2 Keyboard Layout for ASK
+https://github.com/alt236/USB-Device-Info---Android.git#USB Device Info#Tools#List USB Devices
+https://github.com/jfcolom/rosary.git#Rosary#Games#Help for praying the christian Holy Rosary (Spanish)
+https://github.com/VelbazhdSoftwareLLC/HungarianRingsForAndroid.git#Hungarian Rings#Libraries & Demo#Puzzle game
+https://github.com/scheich/Balance.git#Balance#Weather#Widget that shows the value of a given ussd code
+https://github.com/ligi/BLExplorer.git#BLExplorer#Games#Bluetooth Low Energy Explorer
+https://github.com/onyxbits/sensorreadout.git#Sensor Readout#Health & Fitness#Realtime graphs of sensor data
+https://bitbucket.org/brucelet/space-trader.git#Space Trader#Business#Port of the Palm OS game of the same name
+https://github.com/mo3rfan/syncplayer.git#SyncPlayer#Tools#Unofficial syncplay client
+https://github.com/upost/DeltaCamera.git#DeltaCamera#Tools#Record movement (deltas) in one single image
+https://github.com/fAndreuzzi/TUI-ConsoleLauncher.git#T-UI#Games#Terminal based launcher
+https://github.com/frankmorgner/vsmartcard.git#Smart Card Reader#Business#Use your phone as contact-less smart card reader
+https://github.com/Bubu/wifisetup.git#CCC Camp 2019 Wifi Setup#Productivity#Official NOC application for connecting to the 35C3 WiFi
+https://github.com/binary-kitchen/doorlock-app.git#BK Doorlock#Photography#Binary Kitchen's Open Sesame
+https://github.com/jerickson314/sdscanner.git#SD Scanner#Personalization#Rescan storage media
+https://github.com/yolosec/routerkeygenAndroid.git#Router Keygen YoloSec#Tools#Generate default WPA/WEP keys
+https://github.com/xperia64/timidity-ae.git#Timidity AE#Personalization#MIDI player using Timidity++ library
+https://github.com/lsubel/amam-cordova.git#Ask me anything meaningful#Health & Fitness#Questions for a good conversation
+https://github.com/lexica/lexica.git#Lexica#Tools#Word Game
+https://github.com/telecapoland/jamendo-android.git#Jamendo#Personalization#Online music player
+https://github.com/phora/AeonDroid.git#AeonDroid#Games#Planetary hours and astrological transit app
+https://github.com/SensorApps/Sensors2Pd.git#Sensors2Pd#Books & Reference#Use sensor data in Puredata patches
+https://github.com/inguin/moneybalance.git#MoneyBalance#Entertainment#Track group expenses
+https://github.com/bilde2910/Hauk.git#Hauk#Shopping#Self-hosted real-time location sharing
+https://github.com/Yonjuni/ExaltedDicer.git#Exalted Dicer#Games#Dicing app
+https://github.com/no-go/ImageSms.git#Image SMS#Games#Send very small photos with long text SMS and without MMS or internet
+https://github.com/milesmcc/LibreNews-Android.git#LibreNews#Health & Fitness#Free, fast and decentralized breaking news notification app
+https://github.com/gilbsgilbs/freemobilenetstat.git#Free Mobile Netstat#Productivity#Monitor your Free Mobile plan
+https://github.com/PhotoBackup/client-android.git#PhotoBackup#Tools#Upload photos on-the-fly
+https://bitbucket.org/uaraven/enumbers.git#E numbers#Books & Reference#Food additives reference
+https://bitbucket.org/oF2pks/netscope.git#Netscope#Tools#Open websites in another browser via share menu
+https://github.com/geometer/FBReaderJ.git#FBReader#Maps & Navigation#An e-book reader
+https://github.com/no-go/ViboraFeed.git#Single-Feed#Games#reader for one feed and Vibora.de Blog
+https://github.com/pejic/Summation.git#Summation#Family#Add values from a list
+https://github.com/Zanshinmu/Wifi-Fixer.git#Wifi Fixer#Lifestyle#Resets broken WiFi connections
+https://github.com/bottiger/SoundWaves.git#SoundWaves#Games#Manage and listen to podcasts
